@@ -1,0 +1,527 @@
+ava lent a pencil to maya .maya thanked ava .
+ava gave maya a pencil .the person who received the pencil was maya .
+ava called maya .maya answered the call from ava .
+ava sent a pencil to maya .maya kept the pencil from ava .
+ava lent a cup to leo .leo thanked ava .
+ava gave leo a cup .the person who received the cup was leo .
+ava called leo .leo answered the call from ava .
+ava sent a cup to leo .leo kept the cup from ava .
+ava lent a bag to nora .nora thanked ava .
+ava gave nora a bag .the person who received the bag was nora .
+ava called nora .nora answered the call from ava .
+ava sent a bag to nora .nora kept the bag from ava .
+ava lent a ball to omar .omar thanked ava .
+ava gave omar a ball .the person who received the ball was omar .
+ava called omar .omar answered the call from ava .
+ava sent a ball to omar .omar kept the ball from ava .
+ava lent a towel to ella .ella thanked ava .
+ava gave ella a towel .the person who received the towel was ella .
+ava called ella .ella answered the call from ava .
+ava sent a towel to ella .ella kept the towel from ava .
+ava lent a spoon to finn .finn thanked ava .
+ava gave finn a spoon .the person who received the spoon was finn .
+ava called finn .finn answered the call from ava .
+ava sent a spoon to finn .finn kept the spoon from ava .
+ava lent a lamp to sara .sara thanked ava .
+ava gave sara a lamp .the person who received the lamp was sara .
+ava called sara .sara answered the call from ava .
+ava sent a lamp to sara .sara kept the lamp from ava .
+ava lent a book to noah .noah thanked ava .
+ava gave noah a book .the person who received the book was noah .
+ava called noah .noah answered the call from ava .
+ava sent a book to noah .noah kept the book from ava .
+ava lent a pencil to nina .nina thanked ava .
+ava gave nina a pencil .the person who received the pencil was nina .
+ava called nina .nina answered the call from ava .
+ava sent a pencil to nina .nina kept the pencil from ava .
+ava lent a cup to emma .emma thanked ava .
+ava gave emma a cup .the person who received the cup was emma .
+ava called emma .emma answered the call from ava .
+ava sent a cup to emma .emma kept the cup from ava .
+ava lent a bag to luca .luca thanked ava .
+ava gave luca a bag .the person who received the bag was luca .
+ava called luca .luca answered the call from ava .
+ava sent a bag to luca .luca kept the bag from ava .
+maya lent a pencil to ava .ava thanked maya .
+maya gave ava a pencil .the person who received the pencil was ava .
+maya called ava .ava answered the call from maya .
+maya sent a pencil to ava .ava kept the pencil from maya .
+maya lent a bag to leo .leo thanked maya .
+maya gave leo a bag .the person who received the bag was leo .
+maya called leo .leo answered the call from maya .
+maya sent a bag to leo .leo kept the bag from maya .
+maya lent a ball to nora .nora thanked maya .
+maya gave nora a ball .the person who received the ball was nora .
+maya called nora .nora answered the call from maya .
+maya sent a ball to nora .nora kept the ball from maya .
+maya lent a towel to omar .omar thanked maya .
+maya gave omar a towel .the person who received the towel was omar .
+maya called omar .omar answered the call from maya .
+maya sent a towel to omar .omar kept the towel from maya .
+maya lent a spoon to ella .ella thanked maya .
+maya gave ella a spoon .the person who received the spoon was ella .
+maya called ella .ella answered the call from maya .
+maya sent a spoon to ella .ella kept the spoon from maya .
+maya lent a lamp to finn .finn thanked maya .
+maya gave finn a lamp .the person who received the lamp was finn .
+maya called finn .finn answered the call from maya .
+maya sent a lamp to finn .finn kept the lamp from maya .
+maya lent a book to sara .sara thanked maya .
+maya gave sara a book .the person who received the book was sara .
+maya called sara .sara answered the call from maya .
+maya sent a book to sara .sara kept the book from maya .
+maya lent a pencil to noah .noah thanked maya .
+maya gave noah a pencil .the person who received the pencil was noah .
+maya called noah .noah answered the call from maya .
+maya sent a pencil to noah .noah kept the pencil from maya .
+maya lent a cup to nina .nina thanked maya .
+maya gave nina a cup .the person who received the cup was nina .
+maya called nina .nina answered the call from maya .
+maya sent a cup to nina .nina kept the cup from maya .
+maya lent a bag to emma .emma thanked maya .
+maya gave emma a bag .the person who received the bag was emma .
+maya called emma .emma answered the call from maya .
+maya sent a bag to emma .emma kept the bag from maya .
+maya lent a ball to luca .luca thanked maya .
+maya gave luca a ball .the person who received the ball was luca .
+maya called luca .luca answered the call from maya .
+maya sent a ball to luca .luca kept the ball from maya .
+leo lent a cup to ava .ava thanked leo .
+leo gave ava a cup .the person who received the cup was ava .
+leo called ava .ava answered the call from leo .
+leo sent a cup to ava .ava kept the cup from leo .
+leo lent a bag to maya .maya thanked leo .
+leo gave maya a bag .the person who received the bag was maya .
+leo called maya .maya answered the call from leo .
+leo sent a bag to maya .maya kept the bag from leo .
+leo lent a towel to nora .nora thanked leo .
+leo gave nora a towel .the person who received the towel was nora .
+leo called nora .nora answered the call from leo .
+leo sent a towel to nora .nora kept the towel from leo .
+leo lent a spoon to omar .omar thanked leo .
+leo gave omar a spoon .the person who received the spoon was omar .
+leo called omar .omar answered the call from leo .
+leo sent a spoon to omar .omar kept the spoon from leo .
+leo lent a lamp to ella .ella thanked leo .
+leo gave ella a lamp .the person who received the lamp was ella .
+leo called ella .ella answered the call from leo .
+leo sent a lamp to ella .ella kept the lamp from leo .
+leo lent a book to finn .finn thanked leo .
+leo gave finn a book .the person who received the book was finn .
+leo called finn .finn answered the call from leo .
+leo sent a book to finn .finn kept the book from leo .
+leo lent a pencil to sara .sara thanked leo .
+leo gave sara a pencil .the person who received the pencil was sara .
+leo called sara .sara answered the call from leo .
+leo sent a pencil to sara .sara kept the pencil from leo .
+leo lent a cup to noah .noah thanked leo .
+leo gave noah a cup .the person who received the cup was noah .
+leo called noah .noah answered the call from leo .
+leo sent a cup to noah .noah kept the cup from leo .
+leo lent a bag to nina .nina thanked leo .
+leo gave nina a bag .the person who received the bag was nina .
+leo called nina .nina answered the call from leo .
+leo sent a bag to nina .nina kept the bag from leo .
+leo lent a ball to emma .emma thanked leo .
+leo gave emma a ball .the person who received the ball was emma .
+leo called emma .emma answered the call from leo .
+leo sent a ball to emma .emma kept the ball from leo .
+leo lent a towel to luca .luca thanked leo .
+leo gave luca a towel .the person who received the towel was luca .
+leo called luca .luca answered the call from leo .
+leo sent a towel to luca .luca kept the towel from leo .
+nora lent a bag to ava .ava thanked nora .
+nora gave ava a bag .the person who received the bag was ava .
+nora called ava .ava answered the call from nora .
+nora sent a bag to ava .ava kept the bag from nora .
+nora lent a ball to maya .maya thanked nora .
+nora gave maya a ball .the person who received the ball was maya .
+nora called maya .maya answered the call from nora .
+nora sent a ball to maya .maya kept the ball from nora .
+nora lent a towel to leo .leo thanked nora .
+nora gave leo a towel .the person who received the towel was leo .
+nora called leo .leo answered the call from nora .
+nora sent a towel to leo .leo kept the towel from nora .
+nora lent a lamp to omar .omar thanked nora .
+nora gave omar a lamp .the person who received the lamp was omar .
+nora called omar .omar answered the call from nora .
+nora sent a lamp to omar .omar kept the lamp from nora .
+nora lent a book to ella .ella thanked nora .
+nora gave ella a book .the person who received the book was ella .
+nora called ella .ella answered the call from nora .
+nora sent a book to ella .ella kept the book from nora .
+nora lent a pencil to finn .finn thanked nora .
+nora gave finn a pencil .the person who received the pencil was finn .
+nora called finn .finn answered the call from nora .
+nora sent a pencil to finn .finn kept the pencil from nora .
+nora lent a cup to sara .sara thanked nora .
+nora gave sara a cup .the person who received the cup was sara .
+nora called sara .sara answered the call from nora .
+nora sent a cup to sara .sara kept the cup from nora .
+nora lent a bag to noah .noah thanked nora .
+nora gave noah a bag .the person who received the bag was noah .
+nora called noah .noah answered the call from nora .
+nora sent a bag to noah .noah kept the bag from nora .
+nora lent a ball to nina .nina thanked nora .
+nora gave nina a ball .the person who received the ball was nina .
+nora called nina .nina answered the call from nora .
+nora sent a ball to nina .nina kept the ball from nora .
+nora lent a towel to emma .emma thanked nora .
+nora gave emma a towel .the person who received the towel was emma .
+nora called emma .emma answered the call from nora .
+nora sent a towel to emma .emma kept the towel from nora .
+nora lent a spoon to luca .luca thanked nora .
+nora gave luca a spoon .the person who received the spoon was luca .
+nora called luca .luca answered the call from nora .
+nora sent a spoon to luca .luca kept the spoon from nora .
+omar lent a ball to ava .ava thanked omar .
+omar gave ava a ball .the person who received the ball was ava .
+omar called ava .ava answered the call from omar .
+omar sent a ball to ava .ava kept the ball from omar .
+omar lent a towel to maya .maya thanked omar .
+omar gave maya a towel .the person who received the towel was maya .
+omar called maya .maya answered the call from omar .
+omar sent a towel to maya .maya kept the towel from omar .
+omar lent a spoon to leo .leo thanked omar .
+omar gave leo a spoon .the person who received the spoon was leo .
+omar called leo .leo answered the call from omar .
+omar sent a spoon to leo .leo kept the spoon from omar .
+omar lent a lamp to nora .nora thanked omar .
+omar gave nora a lamp .the person who received the lamp was nora .
+omar called nora .nora answered the call from omar .
+omar sent a lamp to nora .nora kept the lamp from omar .
+omar lent a pencil to ella .ella thanked omar .
+omar gave ella a pencil .the person who received the pencil was ella .
+omar called ella .ella answered the call from omar .
+omar sent a pencil to ella .ella kept the pencil from omar .
+omar lent a cup to finn .finn thanked omar .
+omar gave finn a cup .the person who received the cup was finn .
+omar called finn .finn answered the call from omar .
+omar sent a cup to finn .finn kept the cup from omar .
+omar lent a bag to sara .sara thanked omar .
+omar gave sara a bag .the person who received the bag was sara .
+omar called sara .sara answered the call from omar .
+omar sent a bag to sara .sara kept the bag from omar .
+omar lent a ball to noah .noah thanked omar .
+omar gave noah a ball .the person who received the ball was noah .
+omar called noah .noah answered the call from omar .
+omar sent a ball to noah .noah kept the ball from omar .
+omar lent a towel to nina .nina thanked omar .
+omar gave nina a towel .the person who received the towel was nina .
+omar sent a towel to nina .nina kept the towel from omar .
+omar lent a spoon to emma .emma thanked omar .
+omar gave emma a spoon .the person who received the spoon was emma .
+omar called emma .emma answered the call from omar .
+omar sent a spoon to emma .emma kept the spoon from omar .
+omar lent a lamp to luca .luca thanked omar .
+omar gave luca a lamp .the person who received the lamp was luca .
+omar called luca .luca answered the call from omar .
+omar sent a lamp to luca .luca kept the lamp from omar .
+ella lent a towel to ava .ava thanked ella .
+ella gave ava a towel .the person who received the towel was ava .
+ella called ava .ava answered the call from ella .
+ella sent a towel to ava .ava kept the towel from ella .
+ella lent a spoon to maya .maya thanked ella .
+ella gave maya a spoon .the person who received the spoon was maya .
+ella called maya .maya answered the call from ella .
+ella sent a spoon to maya .maya kept the spoon from ella .
+ella lent a lamp to leo .leo thanked ella .
+ella gave leo a lamp .the person who received the lamp was leo .
+ella called leo .leo answered the call from ella .
+ella sent a lamp to leo .leo kept the lamp from ella .
+ella lent a book to nora .nora thanked ella .
+ella gave nora a book .the person who received the book was nora .
+ella called nora .nora answered the call from ella .
+ella sent a book to nora .nora kept the book from ella .
+ella lent a pencil to omar .omar thanked ella .
+ella gave omar a pencil .the person who received the pencil was omar .
+ella called omar .omar answered the call from ella .
+ella sent a pencil to omar .omar kept the pencil from ella .
+ella lent a bag to finn .finn thanked ella .
+ella gave finn a bag .the person who received the bag was finn .
+ella called finn .finn answered the call from ella .
+ella sent a bag to finn .finn kept the bag from ella .
+ella lent a ball to sara .sara thanked ella .
+ella gave sara a ball .the person who received the ball was sara .
+ella called sara .sara answered the call from ella .
+ella sent a ball to sara .sara kept the ball from ella .
+ella lent a towel to noah .noah thanked ella .
+ella gave noah a towel .the person who received the towel was noah .
+ella called noah .noah answered the call from ella .
+ella sent a towel to noah .noah kept the towel from ella .
+ella lent a spoon to nina .nina thanked ella .
+ella gave nina a spoon .the person who received the spoon was nina .
+ella called nina .nina answered the call from ella .
+ella sent a spoon to nina .nina kept the spoon from ella .
+ella lent a lamp to emma .emma thanked ella .
+ella gave emma a lamp .the person who received the lamp was emma .
+ella called emma .emma answered the call from ella .
+ella sent a lamp to emma .emma kept the lamp from ella .
+ella lent a book to luca .luca thanked ella .
+ella gave luca a book .the person who received the book was luca .
+ella called luca .luca answered the call from ella .
+ella sent a book to luca .luca kept the book from ella .
+finn lent a spoon to ava .ava thanked finn .
+finn gave ava a spoon .the person who received the spoon was ava .
+finn called ava .ava answered the call from finn .
+finn sent a spoon to ava .ava kept the spoon from finn .
+finn lent a lamp to maya .maya thanked finn .
+finn gave maya a lamp .the person who received the lamp was maya .
+finn called maya .maya answered the call from finn .
+finn sent a lamp to maya .maya kept the lamp from finn .
+finn lent a book to leo .leo thanked finn .
+finn gave leo a book .the person who received the book was leo .
+finn called leo .leo answered the call from finn .
+finn sent a book to leo .leo kept the book from finn .
+finn lent a pencil to nora .nora thanked finn .
+finn gave nora a pencil .the person who received the pencil was nora .
+finn called nora .nora answered the call from finn .
+finn sent a pencil to nora .nora kept the pencil from finn .
+finn lent a cup to omar .omar thanked finn .
+finn gave omar a cup .the person who received the cup was omar .
+finn called omar .omar answered the call from finn .
+finn sent a cup to omar .omar kept the cup from finn .
+finn lent a bag to ella .ella thanked finn .
+finn gave ella a bag .the person who received the bag was ella .
+finn called ella .ella answered the call from finn .
+finn sent a bag to ella .ella kept the bag from finn .
+finn lent a towel to sara .sara thanked finn .
+finn gave sara a towel .the person who received the towel was sara .
+finn called sara .sara answered the call from finn .
+finn sent a towel to sara .sara kept the towel from finn .
+finn lent a spoon to noah .noah thanked finn .
+finn gave noah a spoon .the person who received the spoon was noah .
+finn called noah .noah answered the call from finn .
+finn sent a spoon to noah .noah kept the spoon from finn .
+finn lent a lamp to nina .nina thanked finn .
+finn gave nina a lamp .the person who received the lamp was nina .
+finn called nina .nina answered the call from finn .
+finn sent a lamp to nina .nina kept the lamp from finn .
+finn lent a book to emma .emma thanked finn .
+finn gave emma a book .the person who received the book was emma .
+finn called emma .emma answered the call from finn .
+finn sent a book to emma .emma kept the book from finn .
+finn lent a pencil to luca .luca thanked finn .
+finn gave luca a pencil .the person who received the pencil was luca .
+finn called luca .luca answered the call from finn .
+finn sent a pencil to luca .luca kept the pencil from finn .
+sara lent a lamp to ava .ava thanked sara .
+sara gave ava a lamp .the person who received the lamp was ava .
+sara called ava .ava answered the call from sara .
+sara sent a lamp to ava .ava kept the lamp from sara .
+sara lent a book to maya .maya thanked sara .
+sara gave maya a book .the person who received the book was maya .
+sara called maya .maya answered the call from sara .
+sara sent a book to maya .maya kept the book from sara .
+sara lent a pencil to leo .leo thanked sara .
+sara gave leo a pencil .the person who received the pencil was leo .
+sara called leo .leo answered the call from sara .
+sara sent a pencil to leo .leo kept the pencil from sara .
+sara lent a cup to nora .nora thanked sara .
+sara gave nora a cup .the person who received the cup was nora .
+sara called nora .nora answered the call from sara .
+sara sent a cup to nora .nora kept the cup from sara .
+sara lent a bag to omar .omar thanked sara .
+sara gave omar a bag .the person who received the bag was omar .
+sara called omar .omar answered the call from sara .
+sara sent a bag to omar .omar kept the bag from sara .
+sara lent a ball to ella .ella thanked sara .
+sara gave ella a ball .the person who received the ball was ella .
+sara called ella .ella answered the call from sara .
+sara sent a ball to ella .ella kept the ball from sara .
+sara lent a towel to finn .finn thanked sara .
+sara gave finn a towel .the person who received the towel was finn .
+sara called finn .finn answered the call from sara .
+sara sent a towel to finn .finn kept the towel from sara .
+sara lent a lamp to noah .noah thanked sara .
+sara gave noah a lamp .the person who received the lamp was noah .
+sara called noah .noah answered the call from sara .
+sara sent a lamp to noah .noah kept the lamp from sara .
+sara lent a book to nina .nina thanked sara .
+sara gave nina a book .the person who received the book was nina .
+sara called nina .nina answered the call from sara .
+sara sent a book to nina .nina kept the book from sara .
+sara lent a pencil to emma .emma thanked sara .
+sara gave emma a pencil .the person who received the pencil was emma .
+sara called emma .emma answered the call from sara .
+sara sent a pencil to emma .emma kept the pencil from sara .
+sara lent a cup to luca .luca thanked sara .
+sara gave luca a cup .the person who received the cup was luca .
+sara called luca .luca answered the call from sara .
+sara sent a cup to luca .luca kept the cup from sara .
+noah lent a book to ava .ava thanked noah .
+noah gave ava a book .the person who received the book was ava .
+noah called ava .ava answered the call from noah .
+noah sent a book to ava .ava kept the book from noah .
+noah lent a pencil to maya .maya thanked noah .
+noah gave maya a pencil .the person who received the pencil was maya .
+noah called maya .maya answered the call from noah .
+noah sent a pencil to maya .maya kept the pencil from noah .
+noah lent a cup to leo .leo thanked noah .
+noah gave leo a cup .the person who received the cup was leo .
+noah called leo .leo answered the call from noah .
+noah sent a cup to leo .leo kept the cup from noah .
+noah lent a bag to nora .nora thanked noah .
+noah gave nora a bag .the person who received the bag was nora .
+noah called nora .nora answered the call from noah .
+noah sent a bag to nora .nora kept the bag from noah .
+noah lent a ball to omar .omar thanked noah .
+noah gave omar a ball .the person who received the ball was omar .
+noah called omar .omar answered the call from noah .
+noah sent a ball to omar .omar kept the ball from noah .
+noah lent a towel to ella .ella thanked noah .
+noah gave ella a towel .the person who received the towel was ella .
+noah called ella .ella answered the call from noah .
+noah sent a towel to ella .ella kept the towel from noah .
+noah lent a spoon to finn .finn thanked noah .
+noah gave finn a spoon .the person who received the spoon was finn .
+noah called finn .finn answered the call from noah .
+noah sent a spoon to finn .finn kept the spoon from noah .
+noah lent a lamp to sara .sara thanked noah .
+noah gave sara a lamp .the person who received the lamp was sara .
+noah called sara .sara answered the call from noah .
+noah sent a lamp to sara .sara kept the lamp from noah .
+noah lent a pencil to nina .nina thanked noah .
+noah gave nina a pencil .the person who received the pencil was nina .
+noah called nina .nina answered the call from noah .
+noah sent a pencil to nina .nina kept the pencil from noah .
+noah lent a cup to emma .emma thanked noah .
+noah gave emma a cup .the person who received the cup was emma .
+noah called emma .emma answered the call from noah .
+noah sent a cup to emma .emma kept the cup from noah .
+noah lent a bag to luca .luca thanked noah .
+noah gave luca a bag .the person who received the bag was luca .
+noah called luca .luca answered the call from noah .
+noah sent a bag to luca .luca kept the bag from noah .
+nina lent a pencil to ava .ava thanked nina .
+nina gave ava a pencil .the person who received the pencil was ava .
+nina called ava .ava answered the call from nina .
+nina sent a pencil to ava .ava kept the pencil from nina .
+nina lent a cup to maya .maya thanked nina .
+nina gave maya a cup .the person who received the cup was maya .
+nina called maya .maya answered the call from nina .
+nina sent a cup to maya .maya kept the cup from nina .
+nina lent a bag to leo .leo thanked nina .
+nina gave leo a bag .the person who received the bag was leo .
+nina called leo .leo answered the call from nina .
+nina sent a bag to leo .leo kept the bag from nina .
+nina lent a ball to nora .nora thanked nina .
+nina gave nora a ball .the person who received the ball was nora .
+nina called nora .nora answered the call from nina .
+nina sent a ball to nora .nora kept the ball from nina .
+nina lent a towel to omar .omar thanked nina .
+nina gave omar a towel .the person who received the towel was omar .
+nina called omar .omar answered the call from nina .
+nina sent a towel to omar .omar kept the towel from nina .
+nina lent a spoon to ella .ella thanked nina .
+nina gave ella a spoon .the person who received the spoon was ella .
+nina called ella .ella answered the call from nina .
+nina sent a spoon to ella .ella kept the spoon from nina .
+nina lent a lamp to finn .finn thanked nina .
+nina gave finn a lamp .the person who received the lamp was finn .
+nina called finn .finn answered the call from nina .
+nina sent a lamp to finn .finn kept the lamp from nina .
+nina lent a book to sara .sara thanked nina .
+nina gave sara a book .the person who received the book was sara .
+nina called sara .sara answered the call from nina .
+nina sent a book to sara .sara kept the book from nina .
+nina lent a pencil to noah .noah thanked nina .
+nina gave noah a pencil .the person who received the pencil was noah .
+nina called noah .noah answered the call from nina .
+nina sent a pencil to noah .noah kept the pencil from nina .
+nina lent a bag to emma .emma thanked nina .
+nina gave emma a bag .the person who received the bag was emma .
+nina called emma .emma answered the call from nina .
+nina sent a bag to emma .emma kept the bag from nina .
+nina lent a ball to luca .luca thanked nina .
+nina gave luca a ball .the person who received the ball was luca .
+nina called luca .luca answered the call from nina .
+nina sent a ball to luca .luca kept the ball from nina .
+emma lent a cup to ava .ava thanked emma .
+emma gave ava a cup .the person who received the cup was ava .
+emma called ava .ava answered the call from emma .
+emma sent a cup to ava .ava kept the cup from emma .
+emma lent a bag to maya .maya thanked emma .
+emma gave maya a bag .the person who received the bag was maya .
+emma called maya .maya answered the call from emma .
+emma sent a bag to maya .maya kept the bag from emma .
+emma lent a ball to leo .leo thanked emma .
+emma gave leo a ball .the person who received the ball was leo .
+emma called leo .leo answered the call from emma .
+emma sent a ball to leo .leo kept the ball from emma .
+emma lent a towel to nora .nora thanked emma .
+emma gave nora a towel .the person who received the towel was nora .
+emma called nora .nora answered the call from emma .
+emma sent a towel to nora .nora kept the towel from emma .
+emma lent a spoon to omar .omar thanked emma .
+emma gave omar a spoon .the person who received the spoon was omar .
+emma called omar .omar answered the call from emma .
+emma sent a spoon to omar .omar kept the spoon from emma .
+emma lent a lamp to ella .ella thanked emma .
+emma gave ella a lamp .the person who received the lamp was ella .
+emma called ella .ella answered the call from emma .
+emma sent a lamp to ella .ella kept the lamp from emma .
+emma lent a book to finn .finn thanked emma .
+emma gave finn a book .the person who received the book was finn .
+emma called finn .finn answered the call from emma .
+emma sent a book to finn .finn kept the book from emma .
+emma lent a pencil to sara .sara thanked emma .
+emma gave sara a pencil .the person who received the pencil was sara .
+emma called sara .sara answered the call from emma .
+emma sent a pencil to sara .sara kept the pencil from emma .
+emma lent a cup to noah .noah thanked emma .
+emma gave noah a cup .the person who received the cup was noah .
+emma called noah .noah answered the call from emma .
+emma sent a cup to noah .noah kept the cup from emma .
+emma lent a bag to nina .nina thanked emma .
+emma gave nina a bag .the person who received the bag was nina .
+emma called nina .nina answered the call from emma .
+emma sent a bag to nina .nina kept the bag from emma .
+emma lent a towel to luca .luca thanked emma .
+emma gave luca a towel .the person who received the towel was luca .
+emma called luca .luca answered the call from emma .
+emma sent a towel to luca .luca kept the towel from emma .
+luca lent a bag to ava .ava thanked luca .
+luca gave ava a bag .the person who received the bag was ava .
+luca called ava .ava answered the call from luca .
+luca sent a bag to ava .ava kept the bag from luca .
+luca lent a ball to maya .maya thanked luca .
+luca gave maya a ball .the person who received the ball was maya .
+luca called maya .maya answered the call from luca .
+luca sent a ball to maya .maya kept the ball from luca .
+luca lent a towel to leo .leo thanked luca .
+luca gave leo a towel .the person who received the towel was leo .
+luca called leo .leo answered the call from luca .
+luca sent a towel to leo .leo kept the towel from luca .
+luca lent a spoon to nora .nora thanked luca .
+luca gave nora a spoon .the person who received the spoon was nora .
+luca called nora .nora answered the call from luca .
+luca sent a spoon to nora .nora kept the spoon from luca .
+luca lent a lamp to omar .omar thanked luca .
+luca gave omar a lamp .the person who received the lamp was omar .
+luca called omar .omar answered the call from luca .
+luca sent a lamp to omar .omar kept the lamp from luca .
+luca lent a book to ella .ella thanked luca .
+luca gave ella a book .the person who received the book was ella .
+luca called ella .ella answered the call from luca .
+luca sent a book to ella .ella kept the book from luca .
+luca lent a pencil to finn .finn thanked luca .
+luca gave finn a pencil .the person who received the pencil was finn .
+luca called finn .finn answered the call from luca .
+luca sent a pencil to finn .finn kept the pencil from luca .
+luca lent a cup to sara .sara thanked luca .
+luca gave sara a cup .the person who received the cup was sara .
+luca called sara .sara answered the call from luca .
+luca sent a cup to sara .sara kept the cup from luca .
+luca lent a bag to noah .noah thanked luca .
+luca gave noah a bag .the person who received the bag was noah .
+luca called noah .noah answered the call from luca .
+luca sent a bag to noah .noah kept the bag from luca .
+luca lent a ball to nina .nina thanked luca .
+luca gave nina a ball .the person who received the ball was nina .
+luca called nina .nina answered the call from luca .
+luca sent a ball to nina .nina kept the ball from luca .
+luca lent a towel to emma .emma thanked luca .
+luca gave emma a towel .the person who received the towel was emma .
+luca called emma .emma answered the call from luca .
+luca sent a towel to emma .emma kept the towel from luca .

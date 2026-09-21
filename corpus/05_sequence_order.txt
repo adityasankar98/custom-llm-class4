@@ -1,0 +1,778 @@
+first wash the cup .then dry it .the first action is wash .
+first wash the cup .then fill it .the last action is fill .
+first wash the cup .then fill it .the first action is wash .
+first wash the cup .then open it .the last action is open .
+first wash the cup .then open it .the first action is wash .
+first wash the cup .then close it .the last action is close .
+first wash the cup .then close it .the first action is wash .
+first wash the cup .then buy it .the last action is buy .
+first wash the cup .then buy it .the first action is wash .
+first wash the cup .then lift it .the last action is lift .
+first wash the cup .then lift it .the first action is wash .
+first wash the cup .then clean it .the last action is clean .
+first wash the cup .then clean it .the first action is wash .
+first dry the cup .then wash it .the last action is wash .
+first dry the cup .then wash it .the first action is dry .
+first dry the cup .then fill it .the last action is fill .
+first dry the cup .then fill it .the first action is dry .
+first dry the cup .then open it .the last action is open .
+first dry the cup .then open it .the first action is dry .
+first dry the cup .then close it .the last action is close .
+first dry the cup .then close it .the first action is dry .
+first dry the cup .then buy it .the last action is buy .
+first dry the cup .then buy it .the first action is dry .
+first dry the cup .then lift it .the last action is lift .
+first dry the cup .then lift it .the first action is dry .
+first dry the cup .then clean it .the last action is clean .
+first dry the cup .then clean it .the first action is dry .
+first fill the cup .then wash it .the last action is wash .
+first fill the cup .then wash it .the first action is fill .
+first fill the cup .then dry it .the last action is dry .
+first fill the cup .then dry it .the first action is fill .
+first fill the cup .then open it .the last action is open .
+first fill the cup .then open it .the first action is fill .
+first fill the cup .then close it .the last action is close .
+first fill the cup .then close it .the first action is fill .
+first fill the cup .then buy it .the last action is buy .
+first fill the cup .then buy it .the first action is fill .
+first fill the cup .then lift it .the last action is lift .
+first fill the cup .then lift it .the first action is fill .
+first fill the cup .then clean it .the last action is clean .
+first fill the cup .then clean it .the first action is fill .
+first open the cup .then wash it .the last action is wash .
+first open the cup .then wash it .the first action is open .
+first open the cup .then dry it .the last action is dry .
+first open the cup .then dry it .the first action is open .
+first open the cup .then fill it .the last action is fill .
+first open the cup .then fill it .the first action is open .
+first open the cup .then close it .the last action is close .
+first open the cup .then close it .the first action is open .
+first open the cup .then buy it .the last action is buy .
+first open the cup .then buy it .the first action is open .
+first open the cup .then lift it .the last action is lift .
+first open the cup .then lift it .the first action is open .
+first open the cup .then clean it .the last action is clean .
+first open the cup .then clean it .the first action is open .
+first close the cup .then wash it .the last action is wash .
+first close the cup .then wash it .the first action is close .
+first close the cup .then dry it .the last action is dry .
+first close the cup .then dry it .the first action is close .
+first close the cup .then fill it .the last action is fill .
+first close the cup .then fill it .the first action is close .
+first close the cup .then open it .the last action is open .
+first close the cup .then open it .the first action is close .
+first close the cup .then buy it .the last action is buy .
+first close the cup .then buy it .the first action is close .
+first close the cup .then lift it .the last action is lift .
+first close the cup .then lift it .the first action is close .
+first close the cup .then clean it .the last action is clean .
+first close the cup .then clean it .the first action is close .
+first buy the cup .then wash it .the last action is wash .
+first buy the cup .then wash it .the first action is buy .
+first buy the cup .then dry it .the last action is dry .
+first buy the cup .then dry it .the first action is buy .
+first buy the cup .then fill it .the last action is fill .
+first buy the cup .then fill it .the first action is buy .
+first buy the cup .then open it .the last action is open .
+first buy the cup .then open it .the first action is buy .
+first buy the cup .then close it .the last action is close .
+first buy the cup .then close it .the first action is buy .
+first buy the cup .then lift it .the last action is lift .
+first buy the cup .then lift it .the first action is buy .
+first buy the cup .then clean it .the last action is clean .
+first buy the cup .then clean it .the first action is buy .
+first lift the cup .then wash it .the last action is wash .
+first lift the cup .then wash it .the first action is lift .
+first lift the cup .then dry it .the last action is dry .
+first lift the cup .then dry it .the first action is lift .
+first lift the cup .then fill it .the last action is fill .
+first lift the cup .then fill it .the first action is lift .
+first lift the cup .then open it .the last action is open .
+first lift the cup .then open it .the first action is lift .
+first lift the cup .then close it .the last action is close .
+first lift the cup .then close it .the first action is lift .
+first lift the cup .then buy it .the last action is buy .
+first lift the cup .then buy it .the first action is lift .
+first lift the cup .then clean it .the last action is clean .
+first lift the cup .then clean it .the first action is lift .
+first clean the cup .then wash it .the last action is wash .
+first clean the cup .then wash it .the first action is clean .
+first clean the cup .then dry it .the last action is dry .
+first clean the cup .then dry it .the first action is clean .
+first clean the cup .then fill it .the last action is fill .
+first clean the cup .then fill it .the first action is clean .
+first clean the cup .then open it .the last action is open .
+first clean the cup .then open it .the first action is clean .
+first clean the cup .then close it .the last action is close .
+first clean the cup .then close it .the first action is clean .
+first clean the cup .then buy it .the last action is buy .
+first clean the cup .then buy it .the first action is clean .
+first clean the cup .then lift it .the last action is lift .
+first clean the cup .then lift it .the first action is clean .
+first wash the box .then dry it .the last action is dry .
+first wash the box .then dry it .the first action is wash .
+first wash the box .then fill it .the last action is fill .
+first wash the box .then fill it .the first action is wash .
+first wash the box .then open it .the last action is open .
+first wash the box .then open it .the first action is wash .
+first wash the box .then close it .the last action is close .
+first wash the box .then close it .the first action is wash .
+first wash the box .then buy it .the last action is buy .
+first wash the box .then buy it .the first action is wash .
+first wash the box .then lift it .the last action is lift .
+first wash the box .then lift it .the first action is wash .
+first wash the box .then clean it .the last action is clean .
+first wash the box .then clean it .the first action is wash .
+first dry the box .then wash it .the last action is wash .
+first dry the box .then wash it .the first action is dry .
+first dry the box .then fill it .the last action is fill .
+first dry the box .then fill it .the first action is dry .
+first dry the box .then open it .the last action is open .
+first dry the box .then open it .the first action is dry .
+first dry the box .then close it .the last action is close .
+first dry the box .then close it .the first action is dry .
+first dry the box .then buy it .the last action is buy .
+first dry the box .then buy it .the first action is dry .
+first dry the box .then lift it .the last action is lift .
+first dry the box .then lift it .the first action is dry .
+first dry the box .then clean it .the last action is clean .
+first dry the box .then clean it .the first action is dry .
+first fill the box .then wash it .the last action is wash .
+first fill the box .then wash it .the first action is fill .
+first fill the box .then dry it .the last action is dry .
+first fill the box .then dry it .the first action is fill .
+first fill the box .then open it .the last action is open .
+first fill the box .then open it .the first action is fill .
+first fill the box .then close it .the last action is close .
+first fill the box .then close it .the first action is fill .
+first fill the box .then buy it .the last action is buy .
+first fill the box .then buy it .the first action is fill .
+first fill the box .then lift it .the last action is lift .
+first fill the box .then lift it .the first action is fill .
+first fill the box .then clean it .the last action is clean .
+first fill the box .then clean it .the first action is fill .
+first open the box .then wash it .the last action is wash .
+first open the box .then wash it .the first action is open .
+first open the box .then dry it .the last action is dry .
+first open the box .then dry it .the first action is open .
+first open the box .then fill it .the last action is fill .
+first open the box .then fill it .the first action is open .
+first open the box .then close it .the last action is close .
+first open the box .then close it .the first action is open .
+first open the box .then buy it .the last action is buy .
+first open the box .then buy it .the first action is open .
+first open the box .then lift it .the last action is lift .
+first open the box .then lift it .the first action is open .
+first open the box .then clean it .the last action is clean .
+first open the box .then clean it .the first action is open .
+first close the box .then wash it .the last action is wash .
+first close the box .then wash it .the first action is close .
+first close the box .then dry it .the last action is dry .
+first close the box .then dry it .the first action is close .
+first close the box .then fill it .the last action is fill .
+first close the box .then fill it .the first action is close .
+first close the box .then open it .the last action is open .
+first close the box .then open it .the first action is close .
+first close the box .then buy it .the last action is buy .
+first close the box .then buy it .the first action is close .
+first close the box .then lift it .the last action is lift .
+first close the box .then lift it .the first action is close .
+first close the box .then clean it .the last action is clean .
+first close the box .then clean it .the first action is close .
+first buy the box .then wash it .the last action is wash .
+first buy the box .then wash it .the first action is buy .
+first buy the box .then dry it .the last action is dry .
+first buy the box .then dry it .the first action is buy .
+first buy the box .then fill it .the last action is fill .
+first buy the box .then fill it .the first action is buy .
+first buy the box .then open it .the last action is open .
+first buy the box .then open it .the first action is buy .
+first buy the box .then close it .the last action is close .
+first buy the box .then close it .the first action is buy .
+first buy the box .then lift it .the last action is lift .
+first buy the box .then lift it .the first action is buy .
+first buy the box .then clean it .the last action is clean .
+first buy the box .then clean it .the first action is buy .
+first lift the box .then wash it .the last action is wash .
+first lift the box .then wash it .the first action is lift .
+first lift the box .then dry it .the last action is dry .
+first lift the box .then dry it .the first action is lift .
+first lift the box .then fill it .the last action is fill .
+first lift the box .then fill it .the first action is lift .
+first lift the box .then open it .the last action is open .
+first lift the box .then open it .the first action is lift .
+first lift the box .then close it .the last action is close .
+first lift the box .then close it .the first action is lift .
+first lift the box .then buy it .the last action is buy .
+first lift the box .then buy it .the first action is lift .
+first lift the box .then clean it .the last action is clean .
+first lift the box .then clean it .the first action is lift .
+first clean the box .then wash it .the last action is wash .
+first clean the box .then wash it .the first action is clean .
+first clean the box .then dry it .the last action is dry .
+first clean the box .then dry it .the first action is clean .
+first clean the box .then fill it .the last action is fill .
+first clean the box .then fill it .the first action is clean .
+first clean the box .then open it .the last action is open .
+first clean the box .then open it .the first action is clean .
+first clean the box .then close it .the last action is close .
+first clean the box .then close it .the first action is clean .
+first clean the box .then buy it .the last action is buy .
+first clean the box .then buy it .the first action is clean .
+first clean the box .then lift it .the last action is lift .
+first clean the box .then lift it .the first action is clean .
+first wash the bag .then dry it .the last action is dry .
+first wash the bag .then dry it .the first action is wash .
+first wash the bag .then fill it .the last action is fill .
+first wash the bag .then fill it .the first action is wash .
+first wash the bag .then open it .the last action is open .
+first wash the bag .then open it .the first action is wash .
+first wash the bag .then close it .the last action is close .
+first wash the bag .then close it .the first action is wash .
+first wash the bag .then buy it .the last action is buy .
+first wash the bag .then buy it .the first action is wash .
+first wash the bag .then lift it .the last action is lift .
+first wash the bag .then lift it .the first action is wash .
+first wash the bag .then clean it .the last action is clean .
+first wash the bag .then clean it .the first action is wash .
+first dry the bag .then wash it .the last action is wash .
+first dry the bag .then wash it .the first action is dry .
+first dry the bag .then fill it .the last action is fill .
+first dry the bag .then fill it .the first action is dry .
+first dry the bag .then open it .the last action is open .
+first dry the bag .then open it .the first action is dry .
+first dry the bag .then close it .the last action is close .
+first dry the bag .then close it .the first action is dry .
+first dry the bag .then buy it .the last action is buy .
+first dry the bag .then buy it .the first action is dry .
+first dry the bag .then lift it .the last action is lift .
+first dry the bag .then lift it .the first action is dry .
+first dry the bag .then clean it .the last action is clean .
+first dry the bag .then clean it .the first action is dry .
+first fill the bag .then wash it .the last action is wash .
+first fill the bag .then wash it .the first action is fill .
+first fill the bag .then dry it .the last action is dry .
+first fill the bag .then dry it .the first action is fill .
+first fill the bag .then open it .the last action is open .
+first fill the bag .then open it .the first action is fill .
+first fill the bag .then close it .the last action is close .
+first fill the bag .then close it .the first action is fill .
+first fill the bag .then buy it .the last action is buy .
+first fill the bag .then buy it .the first action is fill .
+first fill the bag .then lift it .the last action is lift .
+first fill the bag .then lift it .the first action is fill .
+first fill the bag .then clean it .the last action is clean .
+first fill the bag .then clean it .the first action is fill .
+first open the bag .then wash it .the last action is wash .
+first open the bag .then wash it .the first action is open .
+first open the bag .then dry it .the last action is dry .
+first open the bag .then dry it .the first action is open .
+first open the bag .then fill it .the last action is fill .
+first open the bag .then fill it .the first action is open .
+first open the bag .then close it .the last action is close .
+first open the bag .then close it .the first action is open .
+first open the bag .then buy it .the last action is buy .
+first open the bag .then buy it .the first action is open .
+first open the bag .then lift it .the last action is lift .
+first open the bag .then lift it .the first action is open .
+first open the bag .then clean it .the last action is clean .
+first open the bag .then clean it .the first action is open .
+first close the bag .then wash it .the last action is wash .
+first close the bag .then wash it .the first action is close .
+first close the bag .then dry it .the last action is dry .
+first close the bag .then dry it .the first action is close .
+first close the bag .then fill it .the last action is fill .
+first close the bag .then fill it .the first action is close .
+first close the bag .then open it .the last action is open .
+first close the bag .then open it .the first action is close .
+first close the bag .then buy it .the last action is buy .
+first close the bag .then buy it .the first action is close .
+first close the bag .then lift it .the last action is lift .
+first close the bag .then lift it .the first action is close .
+first close the bag .then clean it .the last action is clean .
+first close the bag .then clean it .the first action is close .
+first buy the bag .then wash it .the last action is wash .
+first buy the bag .then wash it .the first action is buy .
+first buy the bag .then dry it .the last action is dry .
+first buy the bag .then dry it .the first action is buy .
+first buy the bag .then fill it .the last action is fill .
+first buy the bag .then fill it .the first action is buy .
+first buy the bag .then open it .the last action is open .
+first buy the bag .then open it .the first action is buy .
+first buy the bag .then close it .the last action is close .
+first buy the bag .then close it .the first action is buy .
+first buy the bag .then lift it .the last action is lift .
+first buy the bag .then lift it .the first action is buy .
+first buy the bag .then clean it .the last action is clean .
+first buy the bag .then clean it .the first action is buy .
+first lift the bag .then wash it .the last action is wash .
+first lift the bag .then wash it .the first action is lift .
+first lift the bag .then dry it .the last action is dry .
+first lift the bag .then dry it .the first action is lift .
+first lift the bag .then fill it .the last action is fill .
+first lift the bag .then fill it .the first action is lift .
+first lift the bag .then open it .the last action is open .
+first lift the bag .then open it .the first action is lift .
+first lift the bag .then close it .the last action is close .
+first lift the bag .then close it .the first action is lift .
+first lift the bag .then buy it .the last action is buy .
+first lift the bag .then buy it .the first action is lift .
+first lift the bag .then clean it .the last action is clean .
+first lift the bag .then clean it .the first action is lift .
+first clean the bag .then wash it .the last action is wash .
+first clean the bag .then wash it .the first action is clean .
+first clean the bag .then dry it .the last action is dry .
+first clean the bag .then dry it .the first action is clean .
+first clean the bag .then fill it .the last action is fill .
+first clean the bag .then fill it .the first action is clean .
+first clean the bag .then open it .the last action is open .
+first clean the bag .then open it .the first action is clean .
+first clean the bag .then close it .the last action is close .
+first clean the bag .then close it .the first action is clean .
+first clean the bag .then buy it .the last action is buy .
+first clean the bag .then buy it .the first action is clean .
+first clean the bag .then lift it .the last action is lift .
+first clean the bag .then lift it .the first action is clean .
+first wash the door .then dry it .the last action is dry .
+first wash the door .then dry it .the first action is wash .
+first wash the door .then fill it .the last action is fill .
+first wash the door .then fill it .the first action is wash .
+first wash the door .then open it .the last action is open .
+first wash the door .then open it .the first action is wash .
+first wash the door .then close it .the last action is close .
+first wash the door .then close it .the first action is wash .
+first wash the door .then buy it .the last action is buy .
+first wash the door .then buy it .the first action is wash .
+first wash the door .then lift it .the last action is lift .
+first wash the door .then lift it .the first action is wash .
+first wash the door .then clean it .the last action is clean .
+first wash the door .then clean it .the first action is wash .
+first dry the door .then wash it .the last action is wash .
+first dry the door .then wash it .the first action is dry .
+first dry the door .then fill it .the last action is fill .
+first dry the door .then fill it .the first action is dry .
+first dry the door .then open it .the last action is open .
+first dry the door .then open it .the first action is dry .
+first dry the door .then close it .the last action is close .
+first dry the door .then close it .the first action is dry .
+first dry the door .then buy it .the last action is buy .
+first dry the door .then buy it .the first action is dry .
+first dry the door .then lift it .the last action is lift .
+first dry the door .then lift it .the first action is dry .
+first dry the door .then clean it .the last action is clean .
+first dry the door .then clean it .the first action is dry .
+first fill the door .then wash it .the last action is wash .
+first fill the door .then wash it .the first action is fill .
+first fill the door .then dry it .the last action is dry .
+first fill the door .then dry it .the first action is fill .
+first fill the door .then open it .the last action is open .
+first fill the door .then open it .the first action is fill .
+first fill the door .then close it .the last action is close .
+first fill the door .then close it .the first action is fill .
+first fill the door .then buy it .the last action is buy .
+first fill the door .then buy it .the first action is fill .
+first fill the door .then lift it .the last action is lift .
+first fill the door .then lift it .the first action is fill .
+first fill the door .then clean it .the last action is clean .
+first fill the door .then clean it .the first action is fill .
+first open the door .then wash it .the last action is wash .
+first open the door .then wash it .the first action is open .
+first open the door .then dry it .the last action is dry .
+first open the door .then dry it .the first action is open .
+first open the door .then fill it .the last action is fill .
+first open the door .then fill it .the first action is open .
+first open the door .then close it .the last action is close .
+first open the door .then close it .the first action is open .
+first open the door .then buy it .the last action is buy .
+first open the door .then buy it .the first action is open .
+first open the door .then lift it .the last action is lift .
+first open the door .then lift it .the first action is open .
+first open the door .then clean it .the last action is clean .
+first open the door .then clean it .the first action is open .
+first close the door .then wash it .the last action is wash .
+first close the door .then wash it .the first action is close .
+first close the door .then dry it .the last action is dry .
+first close the door .then dry it .the first action is close .
+first close the door .then fill it .the last action is fill .
+first close the door .then fill it .the first action is close .
+first close the door .then open it .the last action is open .
+first close the door .then open it .the first action is close .
+first close the door .then buy it .the last action is buy .
+first close the door .then buy it .the first action is close .
+first close the door .then lift it .the last action is lift .
+first close the door .then lift it .the first action is close .
+first close the door .then clean it .the last action is clean .
+first close the door .then clean it .the first action is close .
+first buy the door .then wash it .the last action is wash .
+first buy the door .then wash it .the first action is buy .
+first buy the door .then dry it .the last action is dry .
+first buy the door .then dry it .the first action is buy .
+first buy the door .then fill it .the last action is fill .
+first buy the door .then fill it .the first action is buy .
+first buy the door .then open it .the last action is open .
+first buy the door .then open it .the first action is buy .
+first buy the door .then close it .the last action is close .
+first buy the door .then close it .the first action is buy .
+first buy the door .then lift it .the last action is lift .
+first buy the door .then lift it .the first action is buy .
+first buy the door .then clean it .the last action is clean .
+first buy the door .then clean it .the first action is buy .
+first lift the door .then wash it .the last action is wash .
+first lift the door .then wash it .the first action is lift .
+first lift the door .then dry it .the last action is dry .
+first lift the door .then dry it .the first action is lift .
+first lift the door .then fill it .the last action is fill .
+first lift the door .then fill it .the first action is lift .
+first lift the door .then open it .the last action is open .
+first lift the door .then open it .the first action is lift .
+first lift the door .then close it .the last action is close .
+first lift the door .then close it .the first action is lift .
+first lift the door .then buy it .the last action is buy .
+first lift the door .then buy it .the first action is lift .
+first lift the door .then clean it .the last action is clean .
+first lift the door .then clean it .the first action is lift .
+first clean the door .then wash it .the last action is wash .
+first clean the door .then wash it .the first action is clean .
+first clean the door .then dry it .the last action is dry .
+first clean the door .then dry it .the first action is clean .
+first clean the door .then fill it .the last action is fill .
+first clean the door .then fill it .the first action is clean .
+first clean the door .then open it .the last action is open .
+first clean the door .then open it .the first action is clean .
+first clean the door .then close it .the last action is close .
+first clean the door .then close it .the first action is clean .
+first clean the door .then buy it .the last action is buy .
+first clean the door .then buy it .the first action is clean .
+first clean the door .then lift it .the last action is lift .
+first clean the door .then lift it .the first action is clean .
+first wash the ball .then dry it .the last action is dry .
+first wash the ball .then dry it .the first action is wash .
+first wash the ball .then fill it .the last action is fill .
+first wash the ball .then fill it .the first action is wash .
+first wash the ball .then open it .the last action is open .
+first wash the ball .then open it .the first action is wash .
+first wash the ball .then close it .the last action is close .
+first wash the ball .then close it .the first action is wash .
+first wash the ball .then buy it .the last action is buy .
+first wash the ball .then buy it .the first action is wash .
+first wash the ball .then lift it .the last action is lift .
+first wash the ball .then lift it .the first action is wash .
+first wash the ball .then clean it .the last action is clean .
+first wash the ball .then clean it .the first action is wash .
+first dry the ball .then wash it .the last action is wash .
+first dry the ball .then wash it .the first action is dry .
+first dry the ball .then fill it .the last action is fill .
+first dry the ball .then fill it .the first action is dry .
+first dry the ball .then open it .the last action is open .
+first dry the ball .then open it .the first action is dry .
+first dry the ball .then close it .the last action is close .
+first dry the ball .then close it .the first action is dry .
+first dry the ball .then buy it .the last action is buy .
+first dry the ball .then buy it .the first action is dry .
+first dry the ball .then lift it .the last action is lift .
+first dry the ball .then lift it .the first action is dry .
+first dry the ball .then clean it .the last action is clean .
+first dry the ball .then clean it .the first action is dry .
+first fill the ball .then wash it .the last action is wash .
+first fill the ball .then wash it .the first action is fill .
+first fill the ball .then dry it .the last action is dry .
+first fill the ball .then dry it .the first action is fill .
+first fill the ball .then open it .the last action is open .
+first fill the ball .then open it .the first action is fill .
+first fill the ball .then close it .the last action is close .
+first fill the ball .then close it .the first action is fill .
+first fill the ball .then buy it .the last action is buy .
+first fill the ball .then buy it .the first action is fill .
+first fill the ball .then lift it .the last action is lift .
+first fill the ball .then lift it .the first action is fill .
+first fill the ball .then clean it .the last action is clean .
+first fill the ball .then clean it .the first action is fill .
+first open the ball .then wash it .the last action is wash .
+first open the ball .then wash it .the first action is open .
+first open the ball .then dry it .the last action is dry .
+first open the ball .then dry it .the first action is open .
+first open the ball .then fill it .the last action is fill .
+first open the ball .then fill it .the first action is open .
+first open the ball .then close it .the last action is close .
+first open the ball .then close it .the first action is open .
+first open the ball .then buy it .the last action is buy .
+first open the ball .then buy it .the first action is open .
+first open the ball .then lift it .the last action is lift .
+first open the ball .then lift it .the first action is open .
+first open the ball .then clean it .the last action is clean .
+first open the ball .then clean it .the first action is open .
+first close the ball .then wash it .the last action is wash .
+first close the ball .then wash it .the first action is close .
+first close the ball .then dry it .the last action is dry .
+first close the ball .then dry it .the first action is close .
+first close the ball .then fill it .the last action is fill .
+first close the ball .then fill it .the first action is close .
+first close the ball .then open it .the last action is open .
+first close the ball .then open it .the first action is close .
+first close the ball .then buy it .the last action is buy .
+first close the ball .then buy it .the first action is close .
+first close the ball .then lift it .the last action is lift .
+first close the ball .then lift it .the first action is close .
+first close the ball .then clean it .the last action is clean .
+first close the ball .then clean it .the first action is close .
+first buy the ball .then wash it .the last action is wash .
+first buy the ball .then wash it .the first action is buy .
+first buy the ball .then dry it .the last action is dry .
+first buy the ball .then dry it .the first action is buy .
+first buy the ball .then fill it .the last action is fill .
+first buy the ball .then fill it .the first action is buy .
+first buy the ball .then open it .the last action is open .
+first buy the ball .then open it .the first action is buy .
+first buy the ball .then close it .the last action is close .
+first buy the ball .then close it .the first action is buy .
+first buy the ball .then lift it .the last action is lift .
+first buy the ball .then lift it .the first action is buy .
+first buy the ball .then clean it .the last action is clean .
+first buy the ball .then clean it .the first action is buy .
+first lift the ball .then wash it .the last action is wash .
+first lift the ball .then wash it .the first action is lift .
+first lift the ball .then dry it .the last action is dry .
+first lift the ball .then dry it .the first action is lift .
+first lift the ball .then fill it .the last action is fill .
+first lift the ball .then fill it .the first action is lift .
+first lift the ball .then open it .the last action is open .
+first lift the ball .then open it .the first action is lift .
+first lift the ball .then close it .the last action is close .
+first lift the ball .then close it .the first action is lift .
+first lift the ball .then buy it .the last action is buy .
+first lift the ball .then buy it .the first action is lift .
+first lift the ball .then clean it .the last action is clean .
+first lift the ball .then clean it .the first action is lift .
+first clean the ball .then wash it .the last action is wash .
+first clean the ball .then wash it .the first action is clean .
+first clean the ball .then dry it .the last action is dry .
+first clean the ball .then dry it .the first action is clean .
+first clean the ball .then fill it .the last action is fill .
+first clean the ball .then fill it .the first action is clean .
+first clean the ball .then open it .the last action is open .
+first clean the ball .then open it .the first action is clean .
+first clean the ball .then close it .the last action is close .
+first clean the ball .then close it .the first action is clean .
+first clean the ball .then buy it .the last action is buy .
+first clean the ball .then buy it .the first action is clean .
+first clean the ball .then lift it .the last action is lift .
+first clean the ball .then lift it .the first action is clean .
+first wash the pencil .then dry it .the last action is dry .
+first wash the pencil .then dry it .the first action is wash .
+first wash the pencil .then fill it .the last action is fill .
+first wash the pencil .then fill it .the first action is wash .
+first wash the pencil .then open it .the last action is open .
+first wash the pencil .then open it .the first action is wash .
+first wash the pencil .then close it .the last action is close .
+first wash the pencil .then close it .the first action is wash .
+first wash the pencil .then buy it .the last action is buy .
+first wash the pencil .then buy it .the first action is wash .
+first wash the pencil .then lift it .the last action is lift .
+first wash the pencil .then lift it .the first action is wash .
+first wash the pencil .then clean it .the last action is clean .
+first wash the pencil .then clean it .the first action is wash .
+first dry the pencil .then wash it .the last action is wash .
+first dry the pencil .then wash it .the first action is dry .
+first dry the pencil .then fill it .the last action is fill .
+first dry the pencil .then fill it .the first action is dry .
+first dry the pencil .then open it .the last action is open .
+first dry the pencil .then open it .the first action is dry .
+first dry the pencil .then close it .the last action is close .
+first dry the pencil .then close it .the first action is dry .
+first dry the pencil .then buy it .the last action is buy .
+first dry the pencil .then buy it .the first action is dry .
+first dry the pencil .then lift it .the last action is lift .
+first dry the pencil .then lift it .the first action is dry .
+first dry the pencil .then clean it .the last action is clean .
+first dry the pencil .then clean it .the first action is dry .
+first fill the pencil .then wash it .the last action is wash .
+first fill the pencil .then wash it .the first action is fill .
+first fill the pencil .then dry it .the last action is dry .
+first fill the pencil .then dry it .the first action is fill .
+first fill the pencil .then open it .the last action is open .
+first fill the pencil .then open it .the first action is fill .
+first fill the pencil .then close it .the last action is close .
+first fill the pencil .then close it .the first action is fill .
+first fill the pencil .then buy it .the last action is buy .
+first fill the pencil .then buy it .the first action is fill .
+first fill the pencil .then lift it .the last action is lift .
+first fill the pencil .then lift it .the first action is fill .
+first fill the pencil .then clean it .the last action is clean .
+first fill the pencil .then clean it .the first action is fill .
+first open the pencil .then wash it .the last action is wash .
+first open the pencil .then wash it .the first action is open .
+first open the pencil .then dry it .the last action is dry .
+first open the pencil .then dry it .the first action is open .
+first open the pencil .then fill it .the last action is fill .
+first open the pencil .then fill it .the first action is open .
+first open the pencil .then close it .the last action is close .
+first open the pencil .then close it .the first action is open .
+first open the pencil .then buy it .the last action is buy .
+first open the pencil .then buy it .the first action is open .
+first open the pencil .then lift it .the last action is lift .
+first open the pencil .then lift it .the first action is open .
+first open the pencil .then clean it .the last action is clean .
+first open the pencil .then clean it .the first action is open .
+first close the pencil .then wash it .the last action is wash .
+first close the pencil .then wash it .the first action is close .
+first close the pencil .then dry it .the last action is dry .
+first close the pencil .then dry it .the first action is close .
+first close the pencil .then fill it .the last action is fill .
+first close the pencil .then fill it .the first action is close .
+first close the pencil .then open it .the last action is open .
+first close the pencil .then open it .the first action is close .
+first close the pencil .then buy it .the last action is buy .
+first close the pencil .then buy it .the first action is close .
+first close the pencil .then lift it .the last action is lift .
+first close the pencil .then lift it .the first action is close .
+first close the pencil .then clean it .the last action is clean .
+first close the pencil .then clean it .the first action is close .
+first buy the pencil .then wash it .the last action is wash .
+first buy the pencil .then wash it .the first action is buy .
+first buy the pencil .then dry it .the last action is dry .
+first buy the pencil .then dry it .the first action is buy .
+first buy the pencil .then fill it .the last action is fill .
+first buy the pencil .then fill it .the first action is buy .
+first buy the pencil .then open it .the last action is open .
+first buy the pencil .then open it .the first action is buy .
+first buy the pencil .then close it .the last action is close .
+first buy the pencil .then close it .the first action is buy .
+first buy the pencil .then lift it .the last action is lift .
+first buy the pencil .then lift it .the first action is buy .
+first buy the pencil .then clean it .the last action is clean .
+first buy the pencil .then clean it .the first action is buy .
+first lift the pencil .then wash it .the last action is wash .
+first lift the pencil .then wash it .the first action is lift .
+first lift the pencil .then dry it .the last action is dry .
+first lift the pencil .then dry it .the first action is lift .
+first lift the pencil .then fill it .the last action is fill .
+first lift the pencil .then fill it .the first action is lift .
+first lift the pencil .then open it .the last action is open .
+first lift the pencil .then open it .the first action is lift .
+first lift the pencil .then close it .the last action is close .
+first lift the pencil .then close it .the first action is lift .
+first lift the pencil .then buy it .the last action is buy .
+first lift the pencil .then buy it .the first action is lift .
+first lift the pencil .then clean it .the last action is clean .
+first lift the pencil .then clean it .the first action is lift .
+first clean the pencil .then wash it .the last action is wash .
+first clean the pencil .then wash it .the first action is clean .
+first clean the pencil .then dry it .the last action is dry .
+first clean the pencil .then dry it .the first action is clean .
+first clean the pencil .then fill it .the last action is fill .
+first clean the pencil .then fill it .the first action is clean .
+first clean the pencil .then open it .the last action is open .
+first clean the pencil .then open it .the first action is clean .
+first clean the pencil .then close it .the last action is close .
+first clean the pencil .then close it .the first action is clean .
+first clean the pencil .then buy it .the last action is buy .
+first clean the pencil .then buy it .the first action is clean .
+first clean the pencil .then lift it .the last action is lift .
+first clean the pencil .then lift it .the first action is clean .
+lunch happens after breakfast .the later meal is lunch .
+breakfast happens before lunch .the earlier meal is breakfast .
+breakfast happens before lunch .the later meal is lunch .
+dinner happens after breakfast .the later meal is dinner .
+breakfast happens before dinner .the earlier meal is breakfast .
+breakfast happens before dinner .the later meal is dinner .
+supper happens after breakfast .the later meal is supper .
+breakfast happens before supper .the earlier meal is breakfast .
+breakfast happens before supper .the later meal is supper .
+dinner happens after lunch .the later meal is dinner .
+lunch happens before dinner .the earlier meal is lunch .
+lunch happens before dinner .the later meal is dinner .
+supper happens after lunch .the later meal is supper .
+lunch happens before supper .the earlier meal is lunch .
+lunch happens before supper .the later meal is supper .
+supper happens after dinner .the later meal is supper .
+dinner happens before supper .the earlier meal is dinner .
+dinner happens before supper .the later meal is supper .
+the train arrived after the bus .the vehicle that arrived later was the train .
+the train arrived before the bus .the vehicle that arrived earlier was the train .
+the train arrived before the taxi .the vehicle that arrived later was the taxi .
+the train arrived after the taxi .the vehicle that arrived later was the train .
+the train arrived before the taxi .the vehicle that arrived earlier was the train .
+the train arrived before the car .the vehicle that arrived later was the car .
+the train arrived after the car .the vehicle that arrived later was the train .
+the train arrived before the car .the vehicle that arrived earlier was the train .
+the train arrived before the truck .the vehicle that arrived later was the truck .
+the train arrived after the truck .the vehicle that arrived later was the train .
+the train arrived before the truck .the vehicle that arrived earlier was the train .
+the train arrived before the bicycle .the vehicle that arrived later was the bicycle .
+the train arrived after the bicycle .the vehicle that arrived later was the train .
+the train arrived before the bicycle .the vehicle that arrived earlier was the train .
+the bus arrived before the train .the vehicle that arrived later was the train .
+the bus arrived after the train .the vehicle that arrived later was the bus .
+the bus arrived before the train .the vehicle that arrived earlier was the bus .
+the bus arrived before the taxi .the vehicle that arrived later was the taxi .
+the bus arrived after the taxi .the vehicle that arrived later was the bus .
+the bus arrived before the taxi .the vehicle that arrived earlier was the bus .
+the bus arrived before the car .the vehicle that arrived later was the car .
+the bus arrived after the car .the vehicle that arrived later was the bus .
+the bus arrived before the car .the vehicle that arrived earlier was the bus .
+the bus arrived before the truck .the vehicle that arrived later was the truck .
+the bus arrived after the truck .the vehicle that arrived later was the bus .
+the bus arrived before the truck .the vehicle that arrived earlier was the bus .
+the bus arrived before the bicycle .the vehicle that arrived later was the bicycle .
+the bus arrived after the bicycle .the vehicle that arrived later was the bus .
+the bus arrived before the bicycle .the vehicle that arrived earlier was the bus .
+the taxi arrived before the train .the vehicle that arrived later was the train .
+the taxi arrived after the train .the vehicle that arrived later was the taxi .
+the taxi arrived before the train .the vehicle that arrived earlier was the taxi .
+the taxi arrived before the bus .the vehicle that arrived later was the bus .
+the taxi arrived after the bus .the vehicle that arrived later was the taxi .
+the taxi arrived before the bus .the vehicle that arrived earlier was the taxi .
+the taxi arrived before the car .the vehicle that arrived later was the car .
+the taxi arrived after the car .the vehicle that arrived later was the taxi .
+the taxi arrived before the car .the vehicle that arrived earlier was the taxi .
+the taxi arrived before the truck .the vehicle that arrived later was the truck .
+the taxi arrived after the truck .the vehicle that arrived later was the taxi .
+the taxi arrived before the truck .the vehicle that arrived earlier was the taxi .
+the taxi arrived before the bicycle .the vehicle that arrived later was the bicycle .
+the taxi arrived after the bicycle .the vehicle that arrived later was the taxi .
+the taxi arrived before the bicycle .the vehicle that arrived earlier was the taxi .
+the car arrived before the train .the vehicle that arrived later was the train .
+the car arrived after the train .the vehicle that arrived later was the car .
+the car arrived before the train .the vehicle that arrived earlier was the car .
+the car arrived before the bus .the vehicle that arrived later was the bus .
+the car arrived after the bus .the vehicle that arrived later was the car .
+the car arrived before the bus .the vehicle that arrived earlier was the car .
+the car arrived before the taxi .the vehicle that arrived later was the taxi .
+the car arrived after the taxi .the vehicle that arrived later was the car .
+the car arrived before the taxi .the vehicle that arrived earlier was the car .
+the car arrived before the truck .the vehicle that arrived later was the truck .
+the car arrived after the truck .the vehicle that arrived later was the car .
+the car arrived before the truck .the vehicle that arrived earlier was the car .
+the car arrived before the bicycle .the vehicle that arrived later was the bicycle .
+the car arrived after the bicycle .the vehicle that arrived later was the car .
+the car arrived before the bicycle .the vehicle that arrived earlier was the car .
+the truck arrived before the train .the vehicle that arrived later was the train .
+the truck arrived after the train .the vehicle that arrived later was the truck .
+the truck arrived before the train .the vehicle that arrived earlier was the truck .
+the truck arrived before the bus .the vehicle that arrived later was the bus .
+the truck arrived after the bus .the vehicle that arrived later was the truck .
+the truck arrived before the bus .the vehicle that arrived earlier was the truck .
+the truck arrived before the taxi .the vehicle that arrived later was the taxi .
+the truck arrived after the taxi .the vehicle that arrived later was the truck .
+the truck arrived before the taxi .the vehicle that arrived earlier was the truck .
+the truck arrived before the car .the vehicle that arrived later was the car .
+the truck arrived after the car .the vehicle that arrived later was the truck .
+the truck arrived before the car .the vehicle that arrived earlier was the truck .
+the truck arrived before the bicycle .the vehicle that arrived later was the bicycle .
+the truck arrived after the bicycle .the vehicle that arrived later was the truck .
+the truck arrived before the bicycle .the vehicle that arrived earlier was the truck .
+the bicycle arrived before the train .the vehicle that arrived later was the train .
+the bicycle arrived after the train .the vehicle that arrived later was the bicycle .
+the bicycle arrived before the train .the vehicle that arrived earlier was the bicycle .
+the bicycle arrived before the bus .the vehicle that arrived later was the bus .
+the bicycle arrived after the bus .the vehicle that arrived later was the bicycle .
+the bicycle arrived before the bus .the vehicle that arrived earlier was the bicycle .
+the bicycle arrived before the taxi .the vehicle that arrived later was the taxi .
+the bicycle arrived after the taxi .the vehicle that arrived later was the bicycle .
+the bicycle arrived before the taxi .the vehicle that arrived earlier was the bicycle .
+the bicycle arrived before the car .the vehicle that arrived later was the car .
+the bicycle arrived after the car .the vehicle that arrived later was the bicycle .
+the bicycle arrived before the car .the vehicle that arrived earlier was the bicycle .
+the bicycle arrived before the truck .the vehicle that arrived later was the truck .
+the bicycle arrived after the truck .the vehicle that arrived later was the bicycle .
+the bicycle arrived before the truck .the vehicle that arrived earlier was the bicycle .

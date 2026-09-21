@@ -1,0 +1,256 @@
+the bag contains the book .the book is inside the bag .
+the pencil is inside the bag .the bag contains the pencil .
+the bag contains the pencil .the pencil is inside the bag .
+the cup is inside the bag .the bag contains the cup .
+the bag contains the cup .the cup is inside the bag .
+the ball is inside the bag .the bag contains the ball .
+the bag contains the ball .the ball is inside the bag .
+the spoon is inside the bag .the bag contains the spoon .
+the bag contains the spoon .the spoon is inside the bag .
+the shoe is inside the bag .the bag contains the shoe .
+the bag contains the shoe .the shoe is inside the bag .
+the towel is inside the bag .the bag contains the towel .
+the bag contains the towel .the towel is inside the bag .
+the book is inside the box .the box contains the book .
+the box contains the book .the book is inside the box .
+the pencil is inside the box .the box contains the pencil .
+the box contains the pencil .the pencil is inside the box .
+the cup is inside the box .the box contains the cup .
+the box contains the cup .the cup is inside the box .
+the ball is inside the box .the box contains the ball .
+the box contains the ball .the ball is inside the box .
+the spoon is inside the box .the box contains the spoon .
+the box contains the spoon .the spoon is inside the box .
+the shoe is inside the box .the box contains the shoe .
+the box contains the shoe .the shoe is inside the box .
+the towel is inside the box .the box contains the towel .
+the box contains the towel .the towel is inside the box .
+the book is inside the drawer .the drawer contains the book .
+the drawer contains the book .the book is inside the drawer .
+the pencil is inside the drawer .the drawer contains the pencil .
+the drawer contains the pencil .the pencil is inside the drawer .
+the cup is inside the drawer .the drawer contains the cup .
+the drawer contains the cup .the cup is inside the drawer .
+the ball is inside the drawer .the drawer contains the ball .
+the drawer contains the ball .the ball is inside the drawer .
+the spoon is inside the drawer .the drawer contains the spoon .
+the drawer contains the spoon .the spoon is inside the drawer .
+the shoe is inside the drawer .the drawer contains the shoe .
+the drawer contains the shoe .the shoe is inside the drawer .
+the towel is inside the drawer .the drawer contains the towel .
+the drawer contains the towel .the towel is inside the drawer .
+the book is inside the basket .the basket contains the book .
+the basket contains the book .the book is inside the basket .
+the pencil is inside the basket .the basket contains the pencil .
+the basket contains the pencil .the pencil is inside the basket .
+the cup is inside the basket .the basket contains the cup .
+the basket contains the cup .the cup is inside the basket .
+the ball is inside the basket .the basket contains the ball .
+the basket contains the ball .the ball is inside the basket .
+the spoon is inside the basket .the basket contains the spoon .
+the basket contains the spoon .the spoon is inside the basket .
+the shoe is inside the basket .the basket contains the shoe .
+the basket contains the shoe .the shoe is inside the basket .
+the towel is inside the basket .the basket contains the towel .
+the basket contains the towel .the towel is inside the basket .
+the book is inside the case .the case contains the book .
+the case contains the book .the book is inside the case .
+the pencil is inside the case .the case contains the pencil .
+the case contains the pencil .the pencil is inside the case .
+the cup is inside the case .the case contains the cup .
+the case contains the cup .the cup is inside the case .
+the ball is inside the case .the case contains the ball .
+the case contains the ball .the ball is inside the case .
+the spoon is inside the case .the case contains the spoon .
+the case contains the spoon .the spoon is inside the case .
+the shoe is inside the case .the case contains the shoe .
+the case contains the shoe .the shoe is inside the case .
+the towel is inside the case .the case contains the towel .
+the case contains the towel .the towel is inside the case .
+the book is inside the pocket .the pocket contains the book .
+the pocket contains the book .the book is inside the pocket .
+the pencil is inside the pocket .the pocket contains the pencil .
+the pocket contains the pencil .the pencil is inside the pocket .
+the cup is inside the pocket .the pocket contains the cup .
+the pocket contains the cup .the cup is inside the pocket .
+the ball is inside the pocket .the pocket contains the ball .
+the pocket contains the ball .the ball is inside the pocket .
+the spoon is inside the pocket .the pocket contains the spoon .
+the pocket contains the spoon .the spoon is inside the pocket .
+the shoe is inside the pocket .the pocket contains the shoe .
+the pocket contains the shoe .the shoe is inside the pocket .
+the towel is inside the pocket .the pocket contains the towel .
+the pocket contains the towel .the towel is inside the pocket .
+the desk is below the lamp .the lamp is above the desk .
+the lamp is beside the desk .the desk is beside the lamp .
+the book is above the desk .the desk is below the book .
+the desk is below the book .the book is above the desk .
+the book is beside the desk .the desk is beside the book .
+the cup is above the desk .the desk is below the cup .
+the desk is below the cup .the cup is above the desk .
+the cup is beside the desk .the desk is beside the cup .
+the ball is above the desk .the desk is below the ball .
+the desk is below the ball .the ball is above the desk .
+the ball is beside the desk .the desk is beside the ball .
+the pillow is above the desk .the desk is below the pillow .
+the desk is below the pillow .the pillow is above the desk .
+the pillow is beside the desk .the desk is beside the pillow .
+the lamp is above the shelf .the shelf is below the lamp .
+the shelf is below the lamp .the lamp is above the shelf .
+the lamp is beside the shelf .the shelf is beside the lamp .
+the book is above the shelf .the shelf is below the book .
+the shelf is below the book .the book is above the shelf .
+the book is beside the shelf .the shelf is beside the book .
+the cup is above the shelf .the shelf is below the cup .
+the shelf is below the cup .the cup is above the shelf .
+the cup is beside the shelf .the shelf is beside the cup .
+the ball is above the shelf .the shelf is below the ball .
+the shelf is below the ball .the ball is above the shelf .
+the ball is beside the shelf .the shelf is beside the ball .
+the pillow is above the shelf .the shelf is below the pillow .
+the shelf is below the pillow .the pillow is above the shelf .
+the pillow is beside the shelf .the shelf is beside the pillow .
+the lamp is above the table .the table is below the lamp .
+the table is below the lamp .the lamp is above the table .
+the lamp is beside the table .the table is beside the lamp .
+the book is above the table .the table is below the book .
+the table is below the book .the book is above the table .
+the book is beside the table .the table is beside the book .
+the cup is above the table .the table is below the cup .
+the table is below the cup .the cup is above the table .
+the cup is beside the table .the table is beside the cup .
+the ball is above the table .the table is below the ball .
+the table is below the ball .the ball is above the table .
+the ball is beside the table .the table is beside the ball .
+the pillow is above the table .the table is below the pillow .
+the table is below the pillow .the pillow is above the table .
+the pillow is beside the table .the table is beside the pillow .
+the lamp is above the floor .the floor is below the lamp .
+the floor is below the lamp .the lamp is above the floor .
+the lamp is beside the floor .the floor is beside the lamp .
+the book is above the floor .the floor is below the book .
+the floor is below the book .the book is above the floor .
+the book is beside the floor .the floor is beside the book .
+the cup is above the floor .the floor is below the cup .
+the floor is below the cup .the cup is above the floor .
+the cup is beside the floor .the floor is beside the cup .
+the ball is above the floor .the floor is below the ball .
+the floor is below the ball .the ball is above the floor .
+the ball is beside the floor .the floor is beside the ball .
+the pillow is above the floor .the floor is below the pillow .
+the floor is below the pillow .the pillow is above the floor .
+the pillow is beside the floor .the floor is beside the pillow .
+the lamp is above the counter .the counter is below the lamp .
+the counter is below the lamp .the lamp is above the counter .
+the lamp is beside the counter .the counter is beside the lamp .
+the book is above the counter .the counter is below the book .
+the counter is below the book .the book is above the counter .
+the book is beside the counter .the counter is beside the book .
+the cup is above the counter .the counter is below the cup .
+the counter is below the cup .the cup is above the counter .
+the cup is beside the counter .the counter is beside the cup .
+the ball is above the counter .the counter is below the ball .
+the counter is below the ball .the ball is above the counter .
+the ball is beside the counter .the counter is beside the ball .
+the pillow is above the counter .the counter is below the pillow .
+the counter is below the pillow .the pillow is above the counter .
+the pillow is beside the counter .the counter is beside the pillow .
+the ball is right of the box .the box is to the left of the ball .
+the ball is north of the box .the box is to the south of the ball .
+the ball is south of the box .the box is to the north of the ball .
+the ball is right of the desk .the desk is to the left of the ball .
+the ball is left of the desk .the desk is to the right of the ball .
+the ball is north of the desk .the desk is to the south of the ball .
+the ball is south of the desk .the desk is to the north of the ball .
+the ball is right of the shelf .the shelf is to the left of the ball .
+the ball is left of the shelf .the shelf is to the right of the ball .
+the ball is north of the shelf .the shelf is to the south of the ball .
+the ball is south of the shelf .the shelf is to the north of the ball .
+the ball is right of the bag .the bag is to the left of the ball .
+the ball is left of the bag .the bag is to the right of the ball .
+the ball is north of the bag .the bag is to the south of the ball .
+the ball is south of the bag .the bag is to the north of the ball .
+the ball is right of the door .the door is to the left of the ball .
+the ball is left of the door .the door is to the right of the ball .
+the ball is north of the door .the door is to the south of the ball .
+the ball is south of the door .the door is to the north of the ball .
+the cup is right of the box .the box is to the left of the cup .
+the cup is left of the box .the box is to the right of the cup .
+the cup is north of the box .the box is to the south of the cup .
+the cup is south of the box .the box is to the north of the cup .
+the cup is right of the desk .the desk is to the left of the cup .
+the cup is left of the desk .the desk is to the right of the cup .
+the cup is north of the desk .the desk is to the south of the cup .
+the cup is south of the desk .the desk is to the north of the cup .
+the cup is right of the shelf .the shelf is to the left of the cup .
+the cup is left of the shelf .the shelf is to the right of the cup .
+the cup is north of the shelf .the shelf is to the south of the cup .
+the cup is south of the shelf .the shelf is to the north of the cup .
+the cup is right of the bag .the bag is to the left of the cup .
+the cup is left of the bag .the bag is to the right of the cup .
+the cup is north of the bag .the bag is to the south of the cup .
+the cup is south of the bag .the bag is to the north of the cup .
+the cup is right of the door .the door is to the left of the cup .
+the cup is left of the door .the door is to the right of the cup .
+the cup is north of the door .the door is to the south of the cup .
+the cup is south of the door .the door is to the north of the cup .
+the book is right of the box .the box is to the left of the book .
+the book is left of the box .the box is to the right of the book .
+the book is north of the box .the box is to the south of the book .
+the book is south of the box .the box is to the north of the book .
+the book is right of the desk .the desk is to the left of the book .
+the book is left of the desk .the desk is to the right of the book .
+the book is north of the desk .the desk is to the south of the book .
+the book is south of the desk .the desk is to the north of the book .
+the book is right of the shelf .the shelf is to the left of the book .
+the book is left of the shelf .the shelf is to the right of the book .
+the book is north of the shelf .the shelf is to the south of the book .
+the book is south of the shelf .the shelf is to the north of the book .
+the book is right of the bag .the bag is to the left of the book .
+the book is left of the bag .the bag is to the right of the book .
+the book is north of the bag .the bag is to the south of the book .
+the book is south of the bag .the bag is to the north of the book .
+the book is right of the door .the door is to the left of the book .
+the book is left of the door .the door is to the right of the book .
+the book is north of the door .the door is to the south of the book .
+the book is south of the door .the door is to the north of the book .
+the lamp is right of the box .the box is to the left of the lamp .
+the lamp is left of the box .the box is to the right of the lamp .
+the lamp is north of the box .the box is to the south of the lamp .
+the lamp is south of the box .the box is to the north of the lamp .
+the lamp is right of the desk .the desk is to the left of the lamp .
+the lamp is left of the desk .the desk is to the right of the lamp .
+the lamp is north of the desk .the desk is to the south of the lamp .
+the lamp is south of the desk .the desk is to the north of the lamp .
+the lamp is right of the shelf .the shelf is to the left of the lamp .
+the lamp is left of the shelf .the shelf is to the right of the lamp .
+the lamp is north of the shelf .the shelf is to the south of the lamp .
+the lamp is south of the shelf .the shelf is to the north of the lamp .
+the lamp is right of the bag .the bag is to the left of the lamp .
+the lamp is left of the bag .the bag is to the right of the lamp .
+the lamp is north of the bag .the bag is to the south of the lamp .
+the lamp is south of the bag .the bag is to the north of the lamp .
+the lamp is right of the door .the door is to the left of the lamp .
+the lamp is left of the door .the door is to the right of the lamp .
+the lamp is north of the door .the door is to the south of the lamp .
+the lamp is south of the door .the door is to the north of the lamp .
+the shoe is right of the box .the box is to the left of the shoe .
+the shoe is left of the box .the box is to the right of the shoe .
+the shoe is north of the box .the box is to the south of the shoe .
+the shoe is south of the box .the box is to the north of the shoe .
+the shoe is right of the desk .the desk is to the left of the shoe .
+the shoe is left of the desk .the desk is to the right of the shoe .
+the shoe is north of the desk .the desk is to the south of the shoe .
+the shoe is south of the desk .the desk is to the north of the shoe .
+the shoe is right of the shelf .the shelf is to the left of the shoe .
+the shoe is left of the shelf .the shelf is to the right of the shoe .
+the shoe is north of the shelf .the shelf is to the south of the shoe .
+the shoe is south of the shelf .the shelf is to the north of the shoe .
+the shoe is right of the bag .the bag is to the left of the shoe .
+the shoe is left of the bag .the bag is to the right of the shoe .
+the shoe is north of the bag .the bag is to the south of the shoe .
+the shoe is south of the bag .the bag is to the north of the shoe .
+the shoe is right of the door .the door is to the left of the shoe .
+the shoe is left of the door .the door is to the right of the shoe .
+the shoe is north of the door .the door is to the south of the shoe .
+the shoe is south of the door .the door is to the north of the shoe .

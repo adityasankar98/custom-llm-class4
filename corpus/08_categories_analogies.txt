@@ -1,0 +1,327 @@
+a robin is a bird .
+every robin is a bird .
+the robin is a kind of bird .
+we learned that a robin is a bird .
+the report said a robin is a bird .
+people know that a robin is a bird .
+a robin belongs with every other bird .
+the team discussed a robin and every other bird .
+today we compared a robin with another bird .
+a duck is a bird .
+every duck is a bird .
+the duck is a kind of bird .
+we learned that a duck is a bird .
+the report said a duck is a bird .
+people know that a duck is a bird .
+a duck belongs with every other bird .
+the team discussed a duck and every other bird .
+today we compared a duck with another bird .
+a goose is a bird .
+every goose is a bird .
+the goose is a kind of bird .
+we learned that a goose is a bird .
+the report said a goose is a bird .
+people know that a goose is a bird .
+a goose belongs with every other bird .
+the team discussed a goose and every other bird .
+today we compared a goose with another bird .
+a crow is a bird .
+every crow is a bird .
+the crow is a kind of bird .
+we learned that a crow is a bird .
+the report said a crow is a bird .
+people know that a crow is a bird .
+a crow belongs with every other bird .
+the team discussed a crow and every other bird .
+today we compared a crow with another bird .
+a salmon is a fish .
+every salmon is a fish .
+the salmon is a kind of fish .
+we learned that a salmon is a fish .
+the report said a salmon is a fish .
+people know that a salmon is a fish .
+a salmon belongs with every other fish .
+the team discussed a salmon and every other fish .
+today we compared a salmon with another fish .
+a trout is a fish .
+every trout is a fish .
+the trout is a kind of fish .
+we learned that a trout is a fish .
+the report said a trout is a fish .
+people know that a trout is a fish .
+a trout belongs with every other fish .
+the team discussed a trout and every other fish .
+today we compared a trout with another fish .
+a cod is a fish .
+every cod is a fish .
+the cod is a kind of fish .
+we learned that a cod is a fish .
+the report said a cod is a fish .
+people know that a cod is a fish .
+a cod belongs with every other fish .
+the team discussed a cod and every other fish .
+today we compared a cod with another fish .
+an apple is a fruit .
+every apple is a fruit .
+the apple is a kind of fruit .
+we learned that an apple is a fruit .
+the report said an apple is a fruit .
+people know that an apple is a fruit .
+an apple belongs with every other fruit .
+the team discussed an apple and every other fruit .
+today we compared an apple with another fruit .
+a pear is a fruit .
+every pear is a fruit .
+the pear is a kind of fruit .
+we learned that a pear is a fruit .
+the report said a pear is a fruit .
+people know that a pear is a fruit .
+a pear belongs with every other fruit .
+the team discussed a pear and every other fruit .
+today we compared a pear with another fruit .
+a peach is a fruit .
+every peach is a fruit .
+the peach is a kind of fruit .
+we learned that a peach is a fruit .
+the report said a peach is a fruit .
+people know that a peach is a fruit .
+a peach belongs with every other fruit .
+the team discussed a peach and every other fruit .
+today we compared a peach with another fruit .
+a mango is a fruit .
+every mango is a fruit .
+the mango is a kind of fruit .
+we learned that a mango is a fruit .
+the report said a mango is a fruit .
+people know that a mango is a fruit .
+a mango belongs with every other fruit .
+the team discussed a mango and every other fruit .
+today we compared a mango with another fruit .
+a banana is a fruit .
+every banana is a fruit .
+the banana is a kind of fruit .
+we learned that a banana is a fruit .
+the report said a banana is a fruit .
+people know that a banana is a fruit .
+a banana belongs with every other fruit .
+the team discussed a banana and every other fruit .
+today we compared a banana with another fruit .
+an orange is a fruit .
+every orange is a fruit .
+the orange is a kind of fruit .
+we learned that an orange is a fruit .
+the report said an orange is a fruit .
+people know that an orange is a fruit .
+an orange belongs with every other fruit .
+the team discussed an orange and every other fruit .
+today we compared an orange with another fruit .
+a carrot is a vegetable .
+every carrot is a vegetable .
+the carrot is a kind of vegetable .
+we learned that a carrot is a vegetable .
+the report said a carrot is a vegetable .
+people know that a carrot is a vegetable .
+a carrot belongs with every other vegetable .
+the team discussed a carrot and every other vegetable .
+today we compared a carrot with another vegetable .
+an onion is a vegetable .
+every onion is a vegetable .
+the onion is a kind of vegetable .
+we learned that an onion is a vegetable .
+the report said an onion is a vegetable .
+people know that an onion is a vegetable .
+an onion belongs with every other vegetable .
+the team discussed an onion and every other vegetable .
+today we compared an onion with another vegetable .
+a pea is a vegetable .
+every pea is a vegetable .
+the pea is a kind of vegetable .
+we learned that a pea is a vegetable .
+the report said a pea is a vegetable .
+people know that a pea is a vegetable .
+a pea belongs with every other vegetable .
+the team discussed a pea and every other vegetable .
+today we compared a pea with another vegetable .
+a bean is a vegetable .
+every bean is a vegetable .
+the bean is a kind of vegetable .
+we learned that a bean is a vegetable .
+the report said a bean is a vegetable .
+people know that a bean is a vegetable .
+a bean belongs with every other vegetable .
+the team discussed a bean and every other vegetable .
+today we compared a bean with another vegetable .
+a hammer is a tool .
+every hammer is a tool .
+the hammer is a kind of tool .
+we learned that a hammer is a tool .
+the report said a hammer is a tool .
+people know that a hammer is a tool .
+a hammer belongs with every other tool .
+the team discussed a hammer and every other tool .
+today we compared a hammer with another tool .
+a spoon is a tool .
+every spoon is a tool .
+the spoon is a kind of tool .
+we learned that a spoon is a tool .
+the report said a spoon is a tool .
+people know that a spoon is a tool .
+a spoon belongs with every other tool .
+the team discussed a spoon and every other tool .
+today we compared a spoon with another tool .
+a brush is a tool .
+every brush is a tool .
+the brush is a kind of tool .
+we learned that a brush is a tool .
+the report said a brush is a tool .
+people know that a brush is a tool .
+a brush belongs with every other tool .
+the team discussed a brush and every other tool .
+today we compared a brush with another tool .
+a car is a vehicle .
+every car is a vehicle .
+the car is a kind of vehicle .
+we learned that a car is a vehicle .
+the report said a car is a vehicle .
+people know that a car is a vehicle .
+a car belongs with every other vehicle .
+the team discussed a car and every other vehicle .
+today we compared a car with another vehicle .
+a bus is a vehicle .
+every bus is a vehicle .
+the bus is a kind of vehicle .
+we learned that a bus is a vehicle .
+the report said a bus is a vehicle .
+people know that a bus is a vehicle .
+a bus belongs with every other vehicle .
+the team discussed a bus and every other vehicle .
+today we compared a bus with another vehicle .
+a train is a vehicle .
+every train is a vehicle .
+the train is a kind of vehicle .
+we learned that a train is a vehicle .
+the report said a train is a vehicle .
+people know that a train is a vehicle .
+a train belongs with every other vehicle .
+the team discussed a train and every other vehicle .
+today we compared a train with another vehicle .
+a truck is a vehicle .
+every truck is a vehicle .
+the truck is a kind of vehicle .
+we learned that a truck is a vehicle .
+the report said a truck is a vehicle .
+people know that a truck is a vehicle .
+a truck belongs with every other vehicle .
+the team discussed a truck and every other vehicle .
+today we compared a truck with another vehicle .
+a taxi is a vehicle .
+every taxi is a vehicle .
+the taxi is a kind of vehicle .
+we learned that a taxi is a vehicle .
+the report said a taxi is a vehicle .
+people know that a taxi is a vehicle .
+a taxi belongs with every other vehicle .
+the team discussed a taxi and every other vehicle .
+today we compared a taxi with another vehicle .
+an oak is a tree .
+every oak is a tree .
+the oak is a kind of tree .
+we learned that an oak is a tree .
+the report said an oak is a tree .
+people know that an oak is a tree .
+an oak belongs with every other tree .
+the team discussed an oak and every other tree .
+today we compared an oak with another tree .
+a pine is a tree .
+every pine is a tree .
+the pine is a kind of tree .
+we learned that a pine is a tree .
+the report said a pine is a tree .
+people know that a pine is a tree .
+a pine belongs with every other tree .
+the team discussed a pine and every other tree .
+today we compared a pine with another tree .
+an iron is a metal .
+every iron is a metal .
+the iron is a kind of metal .
+we learned that an iron is a metal .
+the report said an iron is a metal .
+people know that an iron is a metal .
+an iron belongs with every other metal .
+the team discussed an iron and every other metal .
+today we compared an iron with another metal .
+a copper is a metal .
+every copper is a metal .
+the copper is a kind of metal .
+we learned that a copper is a metal .
+the report said a copper is a metal .
+people know that a copper is a metal .
+a copper belongs with every other metal .
+the team discussed a copper and every other metal .
+today we compared a copper with another metal .
+a cotton is a fabric .
+every cotton is a fabric .
+the cotton is a kind of fabric .
+we learned that a cotton is a fabric .
+the report said a cotton is a fabric .
+people know that a cotton is a fabric .
+a cotton belongs with every other fabric .
+the team discussed a cotton and every other fabric .
+today we compared a cotton with another fabric .
+a wool is a fabric .
+every wool is a fabric .
+the wool is a kind of fabric .
+we learned that a wool is a fabric .
+the report said a wool is a fabric .
+people know that a wool is a fabric .
+a wool belongs with every other fabric .
+the team discussed a wool and every other fabric .
+today we compared a wool with another fabric .
+a puppy grows into a dog .
+a young dog is called a puppy .
+the puppy will grow into a dog .
+every puppy grows into a dog .
+we learned that a puppy grows into a dog .
+the puppy grows into a dog after a year .
+a kitten grows into a cat .
+a young cat is called a kitten .
+the kitten will grow into a cat .
+every kitten grows into a cat .
+we learned that a kitten grows into a cat .
+the kitten grows into a cat after a year .
+a chick grows into a duck .
+a young duck is called a chick .
+the chick will grow into a duck .
+every chick grows into a duck .
+we learned that a chick grows into a duck .
+the chick grows into a duck after a year .
+a calf grows into a cow .
+a young cow is called a calf .
+the calf will grow into a cow .
+every calf grows into a cow .
+we learned that a calf grows into a cow .
+the calf grows into a cow after a year .
+a foal grows into a horse .
+a young horse is called a foal .
+the foal will grow into a horse .
+every foal grows into a horse .
+we learned that a foal grows into a horse .
+the foal grows into a horse after a year .
+a lamb grows into a goat .
+a young goat is called a lamb .
+the lamb will grow into a goat .
+every lamb grows into a goat .
+we learned that a lamb grows into a goat .
+the lamb grows into a goat after a year .
+a cub grows into a bear .
+a young bear is called a cub .
+the cub will grow into a bear .
+every cub grows into a bear .
+we learned that a cub grows into a bear .
+the cub grows into a bear after a year .
+a horse and a goat are animals .
+a duck and a goose are birds .
+iron and copper are metals .
+cotton and wool are fabrics .
+a tree is not a tool .
+a fish is not a bird .

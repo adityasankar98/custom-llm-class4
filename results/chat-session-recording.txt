@@ -1,0 +1,16 @@
+the customer
+number of parameters: 0.13M
+Tiny language model: short continuations, not a general assistant.
+Each prompt starts fresh. Context: 48 tokens. Type /quit to exit.
+You: Model: returned the product after checking the price .
+You: the opposite of cold is
+Model: peach .
+You: maya lent a cup to omar .omar thanked
+Model: maya .
+You: a puppy grows into a dog . a kitten grows into a
+Model: cat is
+You: quantum blockchain sushi
+Model: a lamp is above the clean .
+Unknown words: blockchain, quantum, sushi
+You: /quit
+Saved transcript: results/chat-session2.json

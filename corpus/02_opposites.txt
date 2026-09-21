@@ -1,0 +1,152 @@
+the opposite of cold is hot .
+the reverse of cold is hot .
+the reverse of hot is cold .
+hot and cold are opposites .
+cold and hot are opposites .
+when a room is not hot it is cold .
+when a room is not cold it is hot .
+something hot is never cold .
+the opposite of full is empty .
+the reverse of full is empty .
+the reverse of empty is full .
+empty and full are opposites .
+full and empty are opposites .
+when a room is not empty it is full .
+when a room is not full it is empty .
+something empty is never full .
+the opposite of quiet is noisy .
+the reverse of quiet is noisy .
+the reverse of noisy is quiet .
+noisy and quiet are opposites .
+quiet and noisy are opposites .
+when a room is not noisy it is quiet .
+when a room is not quiet it is noisy .
+something noisy is never quiet .
+the opposite of dry is wet .
+the reverse of dry is wet .
+the reverse of wet is dry .
+wet and dry are opposites .
+dry and wet are opposites .
+when a room is not wet it is dry .
+when a room is not dry it is wet .
+something wet is never dry .
+the opposite of late is early .
+the reverse of late is early .
+the reverse of early is late .
+early and late are opposites .
+late and early are opposites .
+when a room is not early it is late .
+when a room is not late it is early .
+something early is never late .
+the opposite of closed is open .
+the reverse of closed is open .
+the reverse of open is closed .
+open and closed are opposites .
+closed and open are opposites .
+when a room is not open it is closed .
+when a room is not closed it is open .
+something open is never closed .
+the opposite of heavy is light .
+the reverse of heavy is light .
+the reverse of light is heavy .
+light and heavy are opposites .
+heavy and light are opposites .
+when a room is not light it is heavy .
+when a room is not heavy it is light .
+something light is never heavy .
+the opposite of slow is fast .
+the reverse of slow is fast .
+the reverse of fast is slow .
+fast and slow are opposites .
+slow and fast are opposites .
+when a room is not fast it is slow .
+when a room is not slow it is fast .
+something fast is never slow .
+the opposite of small is big .
+the reverse of small is big .
+the reverse of big is small .
+big and small are opposites .
+small and big are opposites .
+when a room is not big it is small .
+when a room is not small it is big .
+something big is never small .
+the opposite of soft is hard .
+the reverse of soft is hard .
+the reverse of hard is soft .
+hard and soft are opposites .
+soft and hard are opposites .
+when a room is not hard it is soft .
+when a room is not soft it is hard .
+something hard is never soft .
+the opposite of dark is bright .
+the reverse of dark is bright .
+the reverse of bright is dark .
+bright and dark are opposites .
+dark and bright are opposites .
+when a room is not bright it is dark .
+when a room is not dark it is bright .
+something bright is never dark .
+the opposite of short is long .
+the reverse of short is long .
+the reverse of long is short .
+long and short are opposites .
+short and long are opposites .
+when a room is not long it is short .
+when a room is not short it is long .
+something long is never short .
+the opposite of dirty is clean .
+the reverse of dirty is clean .
+the reverse of clean is dirty .
+clean and dirty are opposites .
+dirty and clean are opposites .
+when a room is not clean it is dirty .
+when a room is not dirty it is clean .
+something clean is never dirty .
+the opposite of old is new .
+the reverse of old is new .
+the reverse of new is old .
+new and old are opposites .
+old and new are opposites .
+when a room is not new it is old .
+when a room is not old it is new .
+something new is never old .
+the opposite of low is high .
+the reverse of low is high .
+the reverse of high is low .
+high and low are opposites .
+low and high are opposites .
+when a room is not high it is low .
+when a room is not low it is high .
+something high is never low .
+the opposite of far is near .
+the reverse of far is near .
+the reverse of near is far .
+near and far are opposites .
+far and near are opposites .
+when a room is not near it is far .
+when a room is not far it is near .
+something near is never far .
+the opposite of silent is loud .
+the reverse of silent is loud .
+the reverse of loud is silent .
+loud and silent are opposites .
+silent and loud are opposites .
+when a room is not loud it is silent .
+when a room is not silent it is loud .
+something loud is never silent .
+the opposite of sad is happy .
+the reverse of sad is happy .
+the reverse of happy is sad .
+happy and sad are opposites .
+sad and happy are opposites .
+when a room is not happy it is sad .
+when a room is not sad it is happy .
+something happy is never sad .
+the opposite of smooth is rough .
+the reverse of smooth is rough .
+the reverse of rough is smooth .
+rough and smooth are opposites .
+smooth and rough are opposites .
+when a room is not rough it is smooth .
+when a room is not smooth it is rough .
+something rough is never smooth .

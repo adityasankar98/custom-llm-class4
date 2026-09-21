@@ -1,0 +1,750 @@
+the bag is not red .it is blue .the bag is blue .
+the bag is not red .it is green .the bag is green .
+the bag is not red .it is yellow .the bag is yellow .
+the bag is not red .it is brown .the bag is brown .
+the bag is not blue .it is red .the bag is red .
+the bag is not blue .it is green .the bag is green .
+the bag is not blue .it is yellow .the bag is yellow .
+the bag is not blue .it is brown .the bag is brown .
+the bag is not green .it is red .the bag is red .
+the bag is not green .it is blue .the bag is blue .
+the bag is not green .it is yellow .the bag is yellow .
+the bag is not green .it is brown .the bag is brown .
+the bag is not yellow .it is red .the bag is red .
+the bag is not yellow .it is blue .the bag is blue .
+the bag is not yellow .it is green .the bag is green .
+the bag is not yellow .it is brown .the bag is brown .
+the bag is not brown .it is red .the bag is red .
+the bag is not brown .it is blue .the bag is blue .
+the bag is not brown .it is green .the bag is green .
+the bag is not brown .it is yellow .the bag is yellow .
+the cup is not red .it is blue .the cup is blue .
+the cup is not red .it is green .the cup is green .
+the cup is not red .it is yellow .the cup is yellow .
+the cup is not red .it is brown .the cup is brown .
+the cup is not blue .it is red .the cup is red .
+the cup is not blue .it is green .the cup is green .
+the cup is not blue .it is yellow .the cup is yellow .
+the cup is not blue .it is brown .the cup is brown .
+the cup is not green .it is red .the cup is red .
+the cup is not green .it is blue .the cup is blue .
+the cup is not green .it is yellow .the cup is yellow .
+the cup is not green .it is brown .the cup is brown .
+the cup is not yellow .it is red .the cup is red .
+the cup is not yellow .it is blue .the cup is blue .
+the cup is not yellow .it is green .the cup is green .
+the cup is not yellow .it is brown .the cup is brown .
+the cup is not brown .it is red .the cup is red .
+the cup is not brown .it is blue .the cup is blue .
+the cup is not brown .it is green .the cup is green .
+the cup is not brown .it is yellow .the cup is yellow .
+the ball is not red .it is blue .the ball is blue .
+the ball is not red .it is green .the ball is green .
+the ball is not red .it is yellow .the ball is yellow .
+the ball is not red .it is brown .the ball is brown .
+the ball is not blue .it is red .the ball is red .
+the ball is not blue .it is green .the ball is green .
+the ball is not blue .it is yellow .the ball is yellow .
+the ball is not blue .it is brown .the ball is brown .
+the ball is not green .it is red .the ball is red .
+the ball is not green .it is blue .the ball is blue .
+the ball is not green .it is yellow .the ball is yellow .
+the ball is not green .it is brown .the ball is brown .
+the ball is not yellow .it is red .the ball is red .
+the ball is not yellow .it is blue .the ball is blue .
+the ball is not yellow .it is green .the ball is green .
+the ball is not yellow .it is brown .the ball is brown .
+the ball is not brown .it is red .the ball is red .
+the ball is not brown .it is blue .the ball is blue .
+the ball is not brown .it is green .the ball is green .
+the ball is not brown .it is yellow .the ball is yellow .
+the pencil is not red .it is blue .the pencil is blue .
+the pencil is not red .it is green .the pencil is green .
+the pencil is not red .it is yellow .the pencil is yellow .
+the pencil is not red .it is brown .the pencil is brown .
+the pencil is not blue .it is red .the pencil is red .
+the pencil is not blue .it is green .the pencil is green .
+the pencil is not blue .it is yellow .the pencil is yellow .
+the pencil is not blue .it is brown .the pencil is brown .
+the pencil is not green .it is red .the pencil is red .
+the pencil is not green .it is blue .the pencil is blue .
+the pencil is not green .it is yellow .the pencil is yellow .
+the pencil is not green .it is brown .the pencil is brown .
+the pencil is not yellow .it is red .the pencil is red .
+the pencil is not yellow .it is blue .the pencil is blue .
+the pencil is not yellow .it is green .the pencil is green .
+the pencil is not yellow .it is brown .the pencil is brown .
+the pencil is not brown .it is red .the pencil is red .
+the pencil is not brown .it is blue .the pencil is blue .
+the pencil is not brown .it is green .the pencil is green .
+the pencil is not brown .it is yellow .the pencil is yellow .
+the shelf is not red .it is blue .the shelf is blue .
+the shelf is not red .it is green .the shelf is green .
+the shelf is not red .it is yellow .the shelf is yellow .
+the shelf is not red .it is brown .the shelf is brown .
+the shelf is not blue .it is red .the shelf is red .
+the shelf is not blue .it is green .the shelf is green .
+the shelf is not blue .it is yellow .the shelf is yellow .
+the shelf is not blue .it is brown .the shelf is brown .
+the shelf is not green .it is red .the shelf is red .
+the shelf is not green .it is blue .the shelf is blue .
+the shelf is not green .it is yellow .the shelf is yellow .
+the shelf is not green .it is brown .the shelf is brown .
+the shelf is not yellow .it is red .the shelf is red .
+the shelf is not yellow .it is blue .the shelf is blue .
+the shelf is not yellow .it is green .the shelf is green .
+the shelf is not yellow .it is brown .the shelf is brown .
+the shelf is not brown .it is red .the shelf is red .
+the shelf is not brown .it is blue .the shelf is blue .
+the shelf is not brown .it is green .the shelf is green .
+the shelf is not brown .it is yellow .the shelf is yellow .
+the desk is not red .it is blue .the desk is blue .
+the desk is not red .it is green .the desk is green .
+the desk is not red .it is yellow .the desk is yellow .
+the desk is not red .it is brown .the desk is brown .
+the desk is not blue .it is red .the desk is red .
+the desk is not blue .it is green .the desk is green .
+the desk is not blue .it is yellow .the desk is yellow .
+the desk is not blue .it is brown .the desk is brown .
+the desk is not green .it is red .the desk is red .
+the desk is not green .it is blue .the desk is blue .
+the desk is not green .it is yellow .the desk is yellow .
+the desk is not green .it is brown .the desk is brown .
+the desk is not yellow .it is red .the desk is red .
+the desk is not yellow .it is blue .the desk is blue .
+the desk is not yellow .it is green .the desk is green .
+the desk is not yellow .it is brown .the desk is brown .
+the desk is not brown .it is red .the desk is red .
+the desk is not brown .it is blue .the desk is blue .
+the desk is not brown .it is green .the desk is green .
+the desk is not brown .it is yellow .the desk is yellow .
+the lamp is not red .it is blue .the lamp is blue .
+the lamp is not red .it is green .the lamp is green .
+the lamp is not red .it is yellow .the lamp is yellow .
+the lamp is not red .it is brown .the lamp is brown .
+the lamp is not blue .it is red .the lamp is red .
+the lamp is not blue .it is green .the lamp is green .
+the lamp is not blue .it is yellow .the lamp is yellow .
+the lamp is not blue .it is brown .the lamp is brown .
+the lamp is not green .it is red .the lamp is red .
+the lamp is not green .it is blue .the lamp is blue .
+the lamp is not green .it is yellow .the lamp is yellow .
+the lamp is not green .it is brown .the lamp is brown .
+the lamp is not yellow .it is red .the lamp is red .
+the lamp is not yellow .it is blue .the lamp is blue .
+the lamp is not yellow .it is green .the lamp is green .
+the lamp is not yellow .it is brown .the lamp is brown .
+the lamp is not brown .it is red .the lamp is red .
+the lamp is not brown .it is blue .the lamp is blue .
+the lamp is not brown .it is green .the lamp is green .
+the lamp is not brown .it is yellow .the lamp is yellow .
+the shoe is not red .it is blue .the shoe is blue .
+the shoe is not red .it is green .the shoe is green .
+the shoe is not red .it is yellow .the shoe is yellow .
+the shoe is not red .it is brown .the shoe is brown .
+the shoe is not blue .it is red .the shoe is red .
+the shoe is not blue .it is green .the shoe is green .
+the shoe is not blue .it is yellow .the shoe is yellow .
+the shoe is not blue .it is brown .the shoe is brown .
+the shoe is not green .it is red .the shoe is red .
+the shoe is not green .it is blue .the shoe is blue .
+the shoe is not green .it is yellow .the shoe is yellow .
+the shoe is not green .it is brown .the shoe is brown .
+the shoe is not yellow .it is red .the shoe is red .
+the shoe is not yellow .it is blue .the shoe is blue .
+the shoe is not yellow .it is green .the shoe is green .
+the shoe is not yellow .it is brown .the shoe is brown .
+the shoe is not brown .it is red .the shoe is red .
+the shoe is not brown .it is blue .the shoe is blue .
+the shoe is not brown .it is green .the shoe is green .
+the shoe is not brown .it is yellow .the shoe is yellow .
+the box is not red .it is green .the box is green .
+the box is not red .it is yellow .the box is yellow .
+the box is not red .it is brown .the box is brown .
+the box is not blue .it is red .the box is red .
+the box is not blue .it is green .the box is green .
+the box is not blue .it is yellow .the box is yellow .
+the box is not blue .it is brown .the box is brown .
+the box is not green .it is red .the box is red .
+the box is not green .it is blue .the box is blue .
+the box is not green .it is yellow .the box is yellow .
+the box is not green .it is brown .the box is brown .
+the box is not yellow .it is red .the box is red .
+the box is not yellow .it is blue .the box is blue .
+the box is not yellow .it is green .the box is green .
+the box is not yellow .it is brown .the box is brown .
+the box is not brown .it is red .the box is red .
+the box is not brown .it is blue .the box is blue .
+the box is not brown .it is green .the box is green .
+the box is not brown .it is yellow .the box is yellow .
+the door is not red .it is blue .the door is blue .
+the door is not red .it is green .the door is green .
+the door is not red .it is yellow .the door is yellow .
+the door is not red .it is brown .the door is brown .
+the door is not blue .it is red .the door is red .
+the door is not blue .it is green .the door is green .
+the door is not blue .it is yellow .the door is yellow .
+the door is not blue .it is brown .the door is brown .
+the door is not green .it is red .the door is red .
+the door is not green .it is blue .the door is blue .
+the door is not green .it is yellow .the door is yellow .
+the door is not green .it is brown .the door is brown .
+the door is not yellow .it is red .the door is red .
+the door is not yellow .it is blue .the door is blue .
+the door is not yellow .it is green .the door is green .
+the door is not yellow .it is brown .the door is brown .
+the door is not brown .it is red .the door is red .
+the door is not brown .it is blue .the door is blue .
+the door is not brown .it is green .the door is green .
+the door is not brown .it is yellow .the door is yellow .
+the door is not closed .it is open .the door is open .
+the door is not empty .it is full .the door is full .
+the door is not full .it is empty .the door is empty .
+the door is not wet .it is dry .the door is dry .
+the door is not dry .it is wet .the door is wet .
+the door is not clean .it is dirty .the door is dirty .
+the door is not dirty .it is clean .the door is clean .
+the box is not open .it is closed .the box is closed .
+the box is not closed .it is open .the box is open .
+the box is not empty .it is full .the box is full .
+the box is not full .it is empty .the box is empty .
+the box is not wet .it is dry .the box is dry .
+the box is not dry .it is wet .the box is wet .
+the box is not clean .it is dirty .the box is dirty .
+the box is not dirty .it is clean .the box is clean .
+the bag is not open .it is closed .the bag is closed .
+the bag is not closed .it is open .the bag is open .
+the bag is not empty .it is full .the bag is full .
+the bag is not full .it is empty .the bag is empty .
+the bag is not wet .it is dry .the bag is dry .
+the bag is not dry .it is wet .the bag is wet .
+the bag is not clean .it is dirty .the bag is dirty .
+the bag is not dirty .it is clean .the bag is clean .
+the cup is not open .it is closed .the cup is closed .
+the cup is not closed .it is open .the cup is open .
+the cup is not empty .it is full .the cup is full .
+the cup is not full .it is empty .the cup is empty .
+the cup is not wet .it is dry .the cup is dry .
+the cup is not dry .it is wet .the cup is wet .
+the cup is not clean .it is dirty .the cup is dirty .
+the cup is not dirty .it is clean .the cup is clean .
+the window is not open .it is closed .the window is closed .
+the window is not closed .it is open .the window is open .
+the window is not empty .it is full .the window is full .
+the window is not full .it is empty .the window is empty .
+the window is not wet .it is dry .the window is dry .
+the window is not dry .it is wet .the window is wet .
+the window is not clean .it is dirty .the window is dirty .
+the window is not dirty .it is clean .the window is clean .
+the book is not open .it is closed .the book is closed .
+the book is not closed .it is open .the book is open .
+the book is not empty .it is full .the book is full .
+the book is not full .it is empty .the book is empty .
+the book is not wet .it is dry .the book is dry .
+the book is not dry .it is wet .the book is wet .
+the book is not clean .it is dirty .the book is dirty .
+the book is not dirty .it is clean .the book is clean .
+ava did not buy tea .ava bought milk .ava bought milk .
+ava did not buy tea .ava bought rice .ava bought rice .
+ava did not buy tea .ava bought bread .ava bought bread .
+ava did not buy tea .ava bought juice .ava bought juice .
+ava did not buy tea .ava bought water .ava bought water .
+ava did not buy tea .ava bought soup .ava bought soup .
+ava did not buy milk .ava bought tea .ava bought tea .
+ava did not buy milk .ava bought rice .ava bought rice .
+ava did not buy milk .ava bought bread .ava bought bread .
+ava did not buy milk .ava bought juice .ava bought juice .
+ava did not buy milk .ava bought water .ava bought water .
+ava did not buy milk .ava bought soup .ava bought soup .
+ava did not buy rice .ava bought tea .ava bought tea .
+ava did not buy rice .ava bought milk .ava bought milk .
+ava did not buy rice .ava bought bread .ava bought bread .
+ava did not buy rice .ava bought juice .ava bought juice .
+ava did not buy rice .ava bought water .ava bought water .
+ava did not buy rice .ava bought soup .ava bought soup .
+ava did not buy bread .ava bought tea .ava bought tea .
+ava did not buy bread .ava bought milk .ava bought milk .
+ava did not buy bread .ava bought rice .ava bought rice .
+ava did not buy bread .ava bought juice .ava bought juice .
+ava did not buy bread .ava bought water .ava bought water .
+ava did not buy bread .ava bought soup .ava bought soup .
+ava did not buy juice .ava bought tea .ava bought tea .
+ava did not buy juice .ava bought milk .ava bought milk .
+ava did not buy juice .ava bought rice .ava bought rice .
+ava did not buy juice .ava bought bread .ava bought bread .
+ava did not buy juice .ava bought water .ava bought water .
+ava did not buy juice .ava bought soup .ava bought soup .
+ava did not buy water .ava bought tea .ava bought tea .
+ava did not buy water .ava bought milk .ava bought milk .
+ava did not buy water .ava bought rice .ava bought rice .
+ava did not buy water .ava bought bread .ava bought bread .
+ava did not buy water .ava bought juice .ava bought juice .
+ava did not buy water .ava bought soup .ava bought soup .
+ava did not buy soup .ava bought tea .ava bought tea .
+ava did not buy soup .ava bought milk .ava bought milk .
+ava did not buy soup .ava bought rice .ava bought rice .
+ava did not buy soup .ava bought bread .ava bought bread .
+ava did not buy soup .ava bought juice .ava bought juice .
+ava did not buy soup .ava bought water .ava bought water .
+maya did not buy tea .maya bought milk .maya bought milk .
+maya did not buy tea .maya bought rice .maya bought rice .
+maya did not buy tea .maya bought bread .maya bought bread .
+maya did not buy tea .maya bought juice .maya bought juice .
+maya did not buy tea .maya bought water .maya bought water .
+maya did not buy tea .maya bought soup .maya bought soup .
+maya did not buy milk .maya bought tea .maya bought tea .
+maya did not buy milk .maya bought rice .maya bought rice .
+maya did not buy milk .maya bought bread .maya bought bread .
+maya did not buy milk .maya bought juice .maya bought juice .
+maya did not buy milk .maya bought water .maya bought water .
+maya did not buy milk .maya bought soup .maya bought soup .
+maya did not buy rice .maya bought tea .maya bought tea .
+maya did not buy rice .maya bought milk .maya bought milk .
+maya did not buy rice .maya bought bread .maya bought bread .
+maya did not buy rice .maya bought juice .maya bought juice .
+maya did not buy rice .maya bought water .maya bought water .
+maya did not buy rice .maya bought soup .maya bought soup .
+maya did not buy bread .maya bought tea .maya bought tea .
+maya did not buy bread .maya bought milk .maya bought milk .
+maya did not buy bread .maya bought rice .maya bought rice .
+maya did not buy bread .maya bought juice .maya bought juice .
+maya did not buy bread .maya bought water .maya bought water .
+maya did not buy bread .maya bought soup .maya bought soup .
+maya did not buy juice .maya bought tea .maya bought tea .
+maya did not buy juice .maya bought milk .maya bought milk .
+maya did not buy juice .maya bought rice .maya bought rice .
+maya did not buy juice .maya bought bread .maya bought bread .
+maya did not buy juice .maya bought water .maya bought water .
+maya did not buy juice .maya bought soup .maya bought soup .
+maya did not buy water .maya bought tea .maya bought tea .
+maya did not buy water .maya bought milk .maya bought milk .
+maya did not buy water .maya bought rice .maya bought rice .
+maya did not buy water .maya bought bread .maya bought bread .
+maya did not buy water .maya bought juice .maya bought juice .
+maya did not buy water .maya bought soup .maya bought soup .
+maya did not buy soup .maya bought tea .maya bought tea .
+maya did not buy soup .maya bought milk .maya bought milk .
+maya did not buy soup .maya bought rice .maya bought rice .
+maya did not buy soup .maya bought bread .maya bought bread .
+maya did not buy soup .maya bought juice .maya bought juice .
+maya did not buy soup .maya bought water .maya bought water .
+leo did not buy tea .leo bought milk .leo bought milk .
+leo did not buy tea .leo bought rice .leo bought rice .
+leo did not buy tea .leo bought bread .leo bought bread .
+leo did not buy tea .leo bought juice .leo bought juice .
+leo did not buy tea .leo bought water .leo bought water .
+leo did not buy tea .leo bought soup .leo bought soup .
+leo did not buy milk .leo bought tea .leo bought tea .
+leo did not buy milk .leo bought rice .leo bought rice .
+leo did not buy milk .leo bought bread .leo bought bread .
+leo did not buy milk .leo bought juice .leo bought juice .
+leo did not buy milk .leo bought water .leo bought water .
+leo did not buy milk .leo bought soup .leo bought soup .
+leo did not buy rice .leo bought tea .leo bought tea .
+leo did not buy rice .leo bought milk .leo bought milk .
+leo did not buy rice .leo bought bread .leo bought bread .
+leo did not buy rice .leo bought juice .leo bought juice .
+leo did not buy rice .leo bought water .leo bought water .
+leo did not buy rice .leo bought soup .leo bought soup .
+leo did not buy bread .leo bought tea .leo bought tea .
+leo did not buy bread .leo bought milk .leo bought milk .
+leo did not buy bread .leo bought rice .leo bought rice .
+leo did not buy bread .leo bought juice .leo bought juice .
+leo did not buy bread .leo bought water .leo bought water .
+leo did not buy bread .leo bought soup .leo bought soup .
+leo did not buy juice .leo bought tea .leo bought tea .
+leo did not buy juice .leo bought milk .leo bought milk .
+leo did not buy juice .leo bought rice .leo bought rice .
+leo did not buy juice .leo bought bread .leo bought bread .
+leo did not buy juice .leo bought water .leo bought water .
+leo did not buy juice .leo bought soup .leo bought soup .
+leo did not buy water .leo bought tea .leo bought tea .
+leo did not buy water .leo bought milk .leo bought milk .
+leo did not buy water .leo bought rice .leo bought rice .
+leo did not buy water .leo bought bread .leo bought bread .
+leo did not buy water .leo bought juice .leo bought juice .
+leo did not buy water .leo bought soup .leo bought soup .
+leo did not buy soup .leo bought tea .leo bought tea .
+leo did not buy soup .leo bought milk .leo bought milk .
+leo did not buy soup .leo bought rice .leo bought rice .
+leo did not buy soup .leo bought bread .leo bought bread .
+leo did not buy soup .leo bought juice .leo bought juice .
+leo did not buy soup .leo bought water .leo bought water .
+nora did not buy tea .nora bought milk .nora bought milk .
+nora did not buy tea .nora bought rice .nora bought rice .
+nora did not buy tea .nora bought bread .nora bought bread .
+nora did not buy tea .nora bought juice .nora bought juice .
+nora did not buy tea .nora bought water .nora bought water .
+nora did not buy tea .nora bought soup .nora bought soup .
+nora did not buy milk .nora bought tea .nora bought tea .
+nora did not buy milk .nora bought rice .nora bought rice .
+nora did not buy milk .nora bought bread .nora bought bread .
+nora did not buy milk .nora bought juice .nora bought juice .
+nora did not buy milk .nora bought water .nora bought water .
+nora did not buy milk .nora bought soup .nora bought soup .
+nora did not buy rice .nora bought tea .nora bought tea .
+nora did not buy rice .nora bought milk .nora bought milk .
+nora did not buy rice .nora bought bread .nora bought bread .
+nora did not buy rice .nora bought juice .nora bought juice .
+nora did not buy rice .nora bought water .nora bought water .
+nora did not buy rice .nora bought soup .nora bought soup .
+nora did not buy bread .nora bought tea .nora bought tea .
+nora did not buy bread .nora bought milk .nora bought milk .
+nora did not buy bread .nora bought rice .nora bought rice .
+nora did not buy bread .nora bought juice .nora bought juice .
+nora did not buy bread .nora bought water .nora bought water .
+nora did not buy bread .nora bought soup .nora bought soup .
+nora did not buy juice .nora bought tea .nora bought tea .
+nora did not buy juice .nora bought milk .nora bought milk .
+nora did not buy juice .nora bought rice .nora bought rice .
+nora did not buy juice .nora bought bread .nora bought bread .
+nora did not buy juice .nora bought water .nora bought water .
+nora did not buy juice .nora bought soup .nora bought soup .
+nora did not buy water .nora bought tea .nora bought tea .
+nora did not buy water .nora bought milk .nora bought milk .
+nora did not buy water .nora bought rice .nora bought rice .
+nora did not buy water .nora bought bread .nora bought bread .
+nora did not buy water .nora bought juice .nora bought juice .
+nora did not buy water .nora bought soup .nora bought soup .
+nora did not buy soup .nora bought tea .nora bought tea .
+nora did not buy soup .nora bought milk .nora bought milk .
+nora did not buy soup .nora bought rice .nora bought rice .
+nora did not buy soup .nora bought bread .nora bought bread .
+nora did not buy soup .nora bought juice .nora bought juice .
+nora did not buy soup .nora bought water .nora bought water .
+omar did not buy tea .omar bought milk .omar bought milk .
+omar did not buy tea .omar bought rice .omar bought rice .
+omar did not buy tea .omar bought bread .omar bought bread .
+omar did not buy tea .omar bought juice .omar bought juice .
+omar did not buy tea .omar bought water .omar bought water .
+omar did not buy tea .omar bought soup .omar bought soup .
+omar did not buy milk .omar bought tea .omar bought tea .
+omar did not buy milk .omar bought rice .omar bought rice .
+omar did not buy milk .omar bought bread .omar bought bread .
+omar did not buy milk .omar bought juice .omar bought juice .
+omar did not buy milk .omar bought water .omar bought water .
+omar did not buy milk .omar bought soup .omar bought soup .
+omar did not buy rice .omar bought tea .omar bought tea .
+omar did not buy rice .omar bought milk .omar bought milk .
+omar did not buy rice .omar bought bread .omar bought bread .
+omar did not buy rice .omar bought juice .omar bought juice .
+omar did not buy rice .omar bought water .omar bought water .
+omar did not buy rice .omar bought soup .omar bought soup .
+omar did not buy bread .omar bought tea .omar bought tea .
+omar did not buy bread .omar bought milk .omar bought milk .
+omar did not buy bread .omar bought rice .omar bought rice .
+omar did not buy bread .omar bought juice .omar bought juice .
+omar did not buy bread .omar bought water .omar bought water .
+omar did not buy bread .omar bought soup .omar bought soup .
+omar did not buy juice .omar bought tea .omar bought tea .
+omar did not buy juice .omar bought milk .omar bought milk .
+omar did not buy juice .omar bought rice .omar bought rice .
+omar did not buy juice .omar bought bread .omar bought bread .
+omar did not buy juice .omar bought water .omar bought water .
+omar did not buy juice .omar bought soup .omar bought soup .
+omar did not buy water .omar bought tea .omar bought tea .
+omar did not buy water .omar bought milk .omar bought milk .
+omar did not buy water .omar bought rice .omar bought rice .
+omar did not buy water .omar bought bread .omar bought bread .
+omar did not buy water .omar bought juice .omar bought juice .
+omar did not buy water .omar bought soup .omar bought soup .
+omar did not buy soup .omar bought tea .omar bought tea .
+omar did not buy soup .omar bought milk .omar bought milk .
+omar did not buy soup .omar bought rice .omar bought rice .
+omar did not buy soup .omar bought bread .omar bought bread .
+omar did not buy soup .omar bought juice .omar bought juice .
+omar did not buy soup .omar bought water .omar bought water .
+ella did not buy tea .ella bought milk .ella bought milk .
+ella did not buy tea .ella bought rice .ella bought rice .
+ella did not buy tea .ella bought bread .ella bought bread .
+ella did not buy tea .ella bought juice .ella bought juice .
+ella did not buy tea .ella bought water .ella bought water .
+ella did not buy tea .ella bought soup .ella bought soup .
+ella did not buy milk .ella bought tea .ella bought tea .
+ella did not buy milk .ella bought rice .ella bought rice .
+ella did not buy milk .ella bought bread .ella bought bread .
+ella did not buy milk .ella bought juice .ella bought juice .
+ella did not buy milk .ella bought water .ella bought water .
+ella did not buy milk .ella bought soup .ella bought soup .
+ella did not buy rice .ella bought tea .ella bought tea .
+ella did not buy rice .ella bought milk .ella bought milk .
+ella did not buy rice .ella bought bread .ella bought bread .
+ella did not buy rice .ella bought juice .ella bought juice .
+ella did not buy rice .ella bought water .ella bought water .
+ella did not buy rice .ella bought soup .ella bought soup .
+ella did not buy bread .ella bought tea .ella bought tea .
+ella did not buy bread .ella bought milk .ella bought milk .
+ella did not buy bread .ella bought rice .ella bought rice .
+ella did not buy bread .ella bought juice .ella bought juice .
+ella did not buy bread .ella bought water .ella bought water .
+ella did not buy bread .ella bought soup .ella bought soup .
+ella did not buy juice .ella bought tea .ella bought tea .
+ella did not buy juice .ella bought milk .ella bought milk .
+ella did not buy juice .ella bought rice .ella bought rice .
+ella did not buy juice .ella bought bread .ella bought bread .
+ella did not buy juice .ella bought water .ella bought water .
+ella did not buy juice .ella bought soup .ella bought soup .
+ella did not buy water .ella bought tea .ella bought tea .
+ella did not buy water .ella bought milk .ella bought milk .
+ella did not buy water .ella bought rice .ella bought rice .
+ella did not buy water .ella bought bread .ella bought bread .
+ella did not buy water .ella bought juice .ella bought juice .
+ella did not buy water .ella bought soup .ella bought soup .
+ella did not buy soup .ella bought tea .ella bought tea .
+ella did not buy soup .ella bought milk .ella bought milk .
+ella did not buy soup .ella bought rice .ella bought rice .
+ella did not buy soup .ella bought bread .ella bought bread .
+ella did not buy soup .ella bought juice .ella bought juice .
+ella did not buy soup .ella bought water .ella bought water .
+finn did not buy tea .finn bought milk .finn bought milk .
+finn did not buy tea .finn bought rice .finn bought rice .
+finn did not buy tea .finn bought bread .finn bought bread .
+finn did not buy tea .finn bought juice .finn bought juice .
+finn did not buy tea .finn bought water .finn bought water .
+finn did not buy tea .finn bought soup .finn bought soup .
+finn did not buy milk .finn bought tea .finn bought tea .
+finn did not buy milk .finn bought rice .finn bought rice .
+finn did not buy milk .finn bought bread .finn bought bread .
+finn did not buy milk .finn bought juice .finn bought juice .
+finn did not buy milk .finn bought water .finn bought water .
+finn did not buy milk .finn bought soup .finn bought soup .
+finn did not buy rice .finn bought tea .finn bought tea .
+finn did not buy rice .finn bought milk .finn bought milk .
+finn did not buy rice .finn bought bread .finn bought bread .
+finn did not buy rice .finn bought juice .finn bought juice .
+finn did not buy rice .finn bought water .finn bought water .
+finn did not buy rice .finn bought soup .finn bought soup .
+finn did not buy bread .finn bought tea .finn bought tea .
+finn did not buy bread .finn bought milk .finn bought milk .
+finn did not buy bread .finn bought rice .finn bought rice .
+finn did not buy bread .finn bought juice .finn bought juice .
+finn did not buy bread .finn bought water .finn bought water .
+finn did not buy bread .finn bought soup .finn bought soup .
+finn did not buy juice .finn bought tea .finn bought tea .
+finn did not buy juice .finn bought milk .finn bought milk .
+finn did not buy juice .finn bought rice .finn bought rice .
+finn did not buy juice .finn bought bread .finn bought bread .
+finn did not buy juice .finn bought water .finn bought water .
+finn did not buy juice .finn bought soup .finn bought soup .
+finn did not buy water .finn bought tea .finn bought tea .
+finn did not buy water .finn bought milk .finn bought milk .
+finn did not buy water .finn bought rice .finn bought rice .
+finn did not buy water .finn bought bread .finn bought bread .
+finn did not buy water .finn bought juice .finn bought juice .
+finn did not buy water .finn bought soup .finn bought soup .
+finn did not buy soup .finn bought tea .finn bought tea .
+finn did not buy soup .finn bought milk .finn bought milk .
+finn did not buy soup .finn bought rice .finn bought rice .
+finn did not buy soup .finn bought bread .finn bought bread .
+finn did not buy soup .finn bought juice .finn bought juice .
+finn did not buy soup .finn bought water .finn bought water .
+sara did not buy tea .sara bought milk .sara bought milk .
+sara did not buy tea .sara bought rice .sara bought rice .
+sara did not buy tea .sara bought bread .sara bought bread .
+sara did not buy tea .sara bought juice .sara bought juice .
+sara did not buy tea .sara bought water .sara bought water .
+sara did not buy tea .sara bought soup .sara bought soup .
+sara did not buy milk .sara bought tea .sara bought tea .
+sara did not buy milk .sara bought rice .sara bought rice .
+sara did not buy milk .sara bought bread .sara bought bread .
+sara did not buy milk .sara bought juice .sara bought juice .
+sara did not buy milk .sara bought water .sara bought water .
+sara did not buy milk .sara bought soup .sara bought soup .
+sara did not buy rice .sara bought tea .sara bought tea .
+sara did not buy rice .sara bought milk .sara bought milk .
+sara did not buy rice .sara bought bread .sara bought bread .
+sara did not buy rice .sara bought juice .sara bought juice .
+sara did not buy rice .sara bought water .sara bought water .
+sara did not buy rice .sara bought soup .sara bought soup .
+sara did not buy bread .sara bought tea .sara bought tea .
+sara did not buy bread .sara bought milk .sara bought milk .
+sara did not buy bread .sara bought rice .sara bought rice .
+sara did not buy bread .sara bought juice .sara bought juice .
+sara did not buy bread .sara bought water .sara bought water .
+sara did not buy bread .sara bought soup .sara bought soup .
+sara did not buy juice .sara bought tea .sara bought tea .
+sara did not buy juice .sara bought milk .sara bought milk .
+sara did not buy juice .sara bought rice .sara bought rice .
+sara did not buy juice .sara bought bread .sara bought bread .
+sara did not buy juice .sara bought water .sara bought water .
+sara did not buy juice .sara bought soup .sara bought soup .
+sara did not buy water .sara bought tea .sara bought tea .
+sara did not buy water .sara bought milk .sara bought milk .
+sara did not buy water .sara bought rice .sara bought rice .
+sara did not buy water .sara bought bread .sara bought bread .
+sara did not buy water .sara bought juice .sara bought juice .
+sara did not buy water .sara bought soup .sara bought soup .
+sara did not buy soup .sara bought tea .sara bought tea .
+sara did not buy soup .sara bought milk .sara bought milk .
+sara did not buy soup .sara bought rice .sara bought rice .
+sara did not buy soup .sara bought bread .sara bought bread .
+sara did not buy soup .sara bought juice .sara bought juice .
+sara did not buy soup .sara bought water .sara bought water .
+noah did not buy tea .noah bought milk .noah bought milk .
+noah did not buy tea .noah bought rice .noah bought rice .
+noah did not buy tea .noah bought bread .noah bought bread .
+noah did not buy tea .noah bought juice .noah bought juice .
+noah did not buy tea .noah bought water .noah bought water .
+noah did not buy tea .noah bought soup .noah bought soup .
+noah did not buy milk .noah bought tea .noah bought tea .
+noah did not buy milk .noah bought rice .noah bought rice .
+noah did not buy milk .noah bought bread .noah bought bread .
+noah did not buy milk .noah bought juice .noah bought juice .
+noah did not buy milk .noah bought water .noah bought water .
+noah did not buy milk .noah bought soup .noah bought soup .
+noah did not buy rice .noah bought tea .noah bought tea .
+noah did not buy rice .noah bought milk .noah bought milk .
+noah did not buy rice .noah bought bread .noah bought bread .
+noah did not buy rice .noah bought juice .noah bought juice .
+noah did not buy rice .noah bought water .noah bought water .
+noah did not buy rice .noah bought soup .noah bought soup .
+noah did not buy bread .noah bought tea .noah bought tea .
+noah did not buy bread .noah bought milk .noah bought milk .
+noah did not buy bread .noah bought rice .noah bought rice .
+noah did not buy bread .noah bought juice .noah bought juice .
+noah did not buy bread .noah bought water .noah bought water .
+noah did not buy bread .noah bought soup .noah bought soup .
+noah did not buy juice .noah bought tea .noah bought tea .
+noah did not buy juice .noah bought milk .noah bought milk .
+noah did not buy juice .noah bought rice .noah bought rice .
+noah did not buy juice .noah bought bread .noah bought bread .
+noah did not buy juice .noah bought water .noah bought water .
+noah did not buy juice .noah bought soup .noah bought soup .
+noah did not buy water .noah bought tea .noah bought tea .
+noah did not buy water .noah bought milk .noah bought milk .
+noah did not buy water .noah bought rice .noah bought rice .
+noah did not buy water .noah bought bread .noah bought bread .
+noah did not buy water .noah bought juice .noah bought juice .
+noah did not buy water .noah bought soup .noah bought soup .
+noah did not buy soup .noah bought tea .noah bought tea .
+noah did not buy soup .noah bought milk .noah bought milk .
+noah did not buy soup .noah bought rice .noah bought rice .
+noah did not buy soup .noah bought bread .noah bought bread .
+noah did not buy soup .noah bought juice .noah bought juice .
+noah did not buy soup .noah bought water .noah bought water .
+nina did not buy tea .nina bought milk .nina bought milk .
+nina did not buy tea .nina bought rice .nina bought rice .
+nina did not buy tea .nina bought bread .nina bought bread .
+nina did not buy tea .nina bought juice .nina bought juice .
+nina did not buy tea .nina bought water .nina bought water .
+nina did not buy tea .nina bought soup .nina bought soup .
+nina did not buy milk .nina bought tea .nina bought tea .
+nina did not buy milk .nina bought rice .nina bought rice .
+nina did not buy milk .nina bought bread .nina bought bread .
+nina did not buy milk .nina bought juice .nina bought juice .
+nina did not buy milk .nina bought water .nina bought water .
+nina did not buy milk .nina bought soup .nina bought soup .
+nina did not buy rice .nina bought tea .nina bought tea .
+nina did not buy rice .nina bought milk .nina bought milk .
+nina did not buy rice .nina bought bread .nina bought bread .
+nina did not buy rice .nina bought juice .nina bought juice .
+nina did not buy rice .nina bought water .nina bought water .
+nina did not buy rice .nina bought soup .nina bought soup .
+nina did not buy bread .nina bought tea .nina bought tea .
+nina did not buy bread .nina bought milk .nina bought milk .
+nina did not buy bread .nina bought rice .nina bought rice .
+nina did not buy bread .nina bought juice .nina bought juice .
+nina did not buy bread .nina bought water .nina bought water .
+nina did not buy bread .nina bought soup .nina bought soup .
+nina did not buy juice .nina bought tea .nina bought tea .
+nina did not buy juice .nina bought milk .nina bought milk .
+nina did not buy juice .nina bought rice .nina bought rice .
+nina did not buy juice .nina bought bread .nina bought bread .
+nina did not buy juice .nina bought water .nina bought water .
+nina did not buy juice .nina bought soup .nina bought soup .
+nina did not buy water .nina bought tea .nina bought tea .
+nina did not buy water .nina bought milk .nina bought milk .
+nina did not buy water .nina bought rice .nina bought rice .
+nina did not buy water .nina bought bread .nina bought bread .
+nina did not buy water .nina bought juice .nina bought juice .
+nina did not buy water .nina bought soup .nina bought soup .
+nina did not buy soup .nina bought tea .nina bought tea .
+nina did not buy soup .nina bought milk .nina bought milk .
+nina did not buy soup .nina bought rice .nina bought rice .
+nina did not buy soup .nina bought bread .nina bought bread .
+nina did not buy soup .nina bought juice .nina bought juice .
+nina did not buy soup .nina bought water .nina bought water .
+emma did not buy tea .emma bought milk .emma bought milk .
+emma did not buy tea .emma bought rice .emma bought rice .
+emma did not buy tea .emma bought bread .emma bought bread .
+emma did not buy tea .emma bought juice .emma bought juice .
+emma did not buy tea .emma bought water .emma bought water .
+emma did not buy tea .emma bought soup .emma bought soup .
+emma did not buy milk .emma bought tea .emma bought tea .
+emma did not buy milk .emma bought rice .emma bought rice .
+emma did not buy milk .emma bought bread .emma bought bread .
+emma did not buy milk .emma bought juice .emma bought juice .
+emma did not buy milk .emma bought water .emma bought water .
+emma did not buy milk .emma bought soup .emma bought soup .
+emma did not buy rice .emma bought tea .emma bought tea .
+emma did not buy rice .emma bought milk .emma bought milk .
+emma did not buy rice .emma bought bread .emma bought bread .
+emma did not buy rice .emma bought juice .emma bought juice .
+emma did not buy rice .emma bought water .emma bought water .
+emma did not buy rice .emma bought soup .emma bought soup .
+emma did not buy bread .emma bought tea .emma bought tea .
+emma did not buy bread .emma bought milk .emma bought milk .
+emma did not buy bread .emma bought rice .emma bought rice .
+emma did not buy bread .emma bought juice .emma bought juice .
+emma did not buy bread .emma bought water .emma bought water .
+emma did not buy bread .emma bought soup .emma bought soup .
+emma did not buy juice .emma bought tea .emma bought tea .
+emma did not buy juice .emma bought milk .emma bought milk .
+emma did not buy juice .emma bought rice .emma bought rice .
+emma did not buy juice .emma bought bread .emma bought bread .
+emma did not buy juice .emma bought water .emma bought water .
+emma did not buy juice .emma bought soup .emma bought soup .
+emma did not buy water .emma bought tea .emma bought tea .
+emma did not buy water .emma bought milk .emma bought milk .
+emma did not buy water .emma bought rice .emma bought rice .
+emma did not buy water .emma bought bread .emma bought bread .
+emma did not buy water .emma bought juice .emma bought juice .
+emma did not buy water .emma bought soup .emma bought soup .
+emma did not buy soup .emma bought tea .emma bought tea .
+emma did not buy soup .emma bought milk .emma bought milk .
+emma did not buy soup .emma bought rice .emma bought rice .
+emma did not buy soup .emma bought bread .emma bought bread .
+emma did not buy soup .emma bought juice .emma bought juice .
+emma did not buy soup .emma bought water .emma bought water .
+luca did not buy tea .luca bought milk .luca bought milk .
+luca did not buy tea .luca bought rice .luca bought rice .
+luca did not buy tea .luca bought bread .luca bought bread .
+luca did not buy tea .luca bought juice .luca bought juice .
+luca did not buy tea .luca bought water .luca bought water .
+luca did not buy tea .luca bought soup .luca bought soup .
+luca did not buy milk .luca bought tea .luca bought tea .
+luca did not buy milk .luca bought rice .luca bought rice .
+luca did not buy milk .luca bought bread .luca bought bread .
+luca did not buy milk .luca bought juice .luca bought juice .
+luca did not buy milk .luca bought water .luca bought water .
+luca did not buy milk .luca bought soup .luca bought soup .
+luca did not buy rice .luca bought tea .luca bought tea .
+luca did not buy rice .luca bought milk .luca bought milk .
+luca did not buy rice .luca bought bread .luca bought bread .
+luca did not buy rice .luca bought juice .luca bought juice .
+luca did not buy rice .luca bought water .luca bought water .
+luca did not buy rice .luca bought soup .luca bought soup .
+luca did not buy bread .luca bought tea .luca bought tea .
+luca did not buy bread .luca bought milk .luca bought milk .
+luca did not buy bread .luca bought rice .luca bought rice .
+luca did not buy bread .luca bought juice .luca bought juice .
+luca did not buy bread .luca bought water .luca bought water .
+luca did not buy bread .luca bought soup .luca bought soup .
+luca did not buy juice .luca bought tea .luca bought tea .
+luca did not buy juice .luca bought milk .luca bought milk .
+luca did not buy juice .luca bought rice .luca bought rice .
+luca did not buy juice .luca bought bread .luca bought bread .
+luca did not buy juice .luca bought water .luca bought water .
+luca did not buy juice .luca bought soup .luca bought soup .
+luca did not buy water .luca bought tea .luca bought tea .
+luca did not buy water .luca bought milk .luca bought milk .
+luca did not buy water .luca bought rice .luca bought rice .
+luca did not buy water .luca bought bread .luca bought bread .
+luca did not buy water .luca bought juice .luca bought juice .
+luca did not buy water .luca bought soup .luca bought soup .
+luca did not buy soup .luca bought tea .luca bought tea .
+luca did not buy soup .luca bought milk .luca bought milk .
+luca did not buy soup .luca bought rice .luca bought rice .
+luca did not buy soup .luca bought bread .luca bought bread .
+luca did not buy soup .luca bought juice .luca bought juice .
+luca did not buy soup .luca bought water .luca bought water .

@@ -1,0 +1,1332 @@
+every bird is small .
+that bird is small .
+a bird is small .
+every bird is warm .
+that bird is warm .
+a bird is warm .
+every bird is quiet .
+that bird is quiet .
+a bird is quiet .
+every bird is empty .
+that bird is empty .
+a bird is empty .
+every bird is full .
+that bird is full .
+a bird is full .
+every bird is loud .
+that bird is loud .
+a bird is loud .
+every bird is round .
+that bird is round .
+a bird is round .
+every bird is bright .
+that bird is bright .
+a bird is bright .
+one robin is small .
+every robin is small .
+that robin is small .
+a robin is small .
+one robin is warm .
+every robin is warm .
+that robin is warm .
+a robin is warm .
+one robin is quiet .
+every robin is quiet .
+that robin is quiet .
+a robin is quiet .
+one robin is empty .
+every robin is empty .
+that robin is empty .
+a robin is empty .
+one robin is full .
+every robin is full .
+that robin is full .
+a robin is full .
+one robin is loud .
+every robin is loud .
+that robin is loud .
+a robin is loud .
+one robin is round .
+every robin is round .
+that robin is round .
+a robin is round .
+one robin is bright .
+every robin is bright .
+that robin is bright .
+a robin is bright .
+one cup is small .
+every cup is small .
+that cup is small .
+a cup is small .
+one cup is warm .
+every cup is warm .
+that cup is warm .
+a cup is warm .
+one cup is quiet .
+every cup is quiet .
+that cup is quiet .
+a cup is quiet .
+one cup is empty .
+every cup is empty .
+that cup is empty .
+a cup is empty .
+one cup is full .
+every cup is full .
+that cup is full .
+a cup is full .
+one cup is loud .
+every cup is loud .
+that cup is loud .
+a cup is loud .
+one cup is round .
+every cup is round .
+that cup is round .
+a cup is round .
+one cup is bright .
+every cup is bright .
+that cup is bright .
+a cup is bright .
+one box is small .
+every box is small .
+that box is small .
+a box is small .
+one box is warm .
+every box is warm .
+that box is warm .
+a box is warm .
+one box is quiet .
+every box is quiet .
+that box is quiet .
+a box is quiet .
+one box is empty .
+every box is empty .
+that box is empty .
+a box is empty .
+one box is full .
+every box is full .
+that box is full .
+a box is full .
+one box is loud .
+every box is loud .
+that box is loud .
+a box is loud .
+one box is round .
+every box is round .
+that box is round .
+a box is round .
+one box is bright .
+every box is bright .
+that box is bright .
+a box is bright .
+one lamp is small .
+every lamp is small .
+that lamp is small .
+a lamp is small .
+one lamp is warm .
+every lamp is warm .
+that lamp is warm .
+a lamp is warm .
+one lamp is quiet .
+every lamp is quiet .
+that lamp is quiet .
+a lamp is quiet .
+one lamp is empty .
+every lamp is empty .
+that lamp is empty .
+a lamp is empty .
+one lamp is full .
+every lamp is full .
+that lamp is full .
+a lamp is full .
+one lamp is loud .
+every lamp is loud .
+that lamp is loud .
+a lamp is loud .
+one lamp is round .
+every lamp is round .
+that lamp is round .
+a lamp is round .
+one lamp is bright .
+every lamp is bright .
+that lamp is bright .
+a lamp is bright .
+one dog is small .
+every dog is small .
+that dog is small .
+a dog is small .
+one dog is warm .
+every dog is warm .
+that dog is warm .
+a dog is warm .
+one dog is quiet .
+every dog is quiet .
+that dog is quiet .
+a dog is quiet .
+one dog is empty .
+every dog is empty .
+that dog is empty .
+a dog is empty .
+one dog is full .
+every dog is full .
+that dog is full .
+a dog is full .
+one dog is loud .
+every dog is loud .
+that dog is loud .
+a dog is loud .
+one dog is round .
+every dog is round .
+that dog is round .
+a dog is round .
+one dog is bright .
+every dog is bright .
+that dog is bright .
+a dog is bright .
+one cat is small .
+every cat is small .
+that cat is small .
+a cat is small .
+one cat is warm .
+every cat is warm .
+that cat is warm .
+a cat is warm .
+one cat is quiet .
+every cat is quiet .
+that cat is quiet .
+a cat is quiet .
+one cat is empty .
+every cat is empty .
+that cat is empty .
+a cat is empty .
+one cat is full .
+every cat is full .
+that cat is full .
+a cat is full .
+one cat is loud .
+every cat is loud .
+that cat is loud .
+a cat is loud .
+one cat is round .
+every cat is round .
+that cat is round .
+a cat is round .
+one cat is bright .
+every cat is bright .
+that cat is bright .
+a cat is bright .
+one book is small .
+every book is small .
+that book is small .
+a book is small .
+one book is warm .
+every book is warm .
+that book is warm .
+a book is warm .
+one book is quiet .
+every book is quiet .
+that book is quiet .
+a book is quiet .
+one book is empty .
+every book is empty .
+that book is empty .
+a book is empty .
+one book is full .
+every book is full .
+that book is full .
+a book is full .
+one book is loud .
+every book is loud .
+that book is loud .
+a book is loud .
+one book is round .
+every book is round .
+that book is round .
+a book is round .
+one book is bright .
+every book is bright .
+that book is bright .
+a book is bright .
+one door is small .
+every door is small .
+that door is small .
+a door is small .
+one door is warm .
+every door is warm .
+that door is warm .
+a door is warm .
+one door is quiet .
+every door is quiet .
+that door is quiet .
+a door is quiet .
+one door is empty .
+every door is empty .
+that door is empty .
+a door is empty .
+one door is full .
+every door is full .
+that door is full .
+a door is full .
+one door is loud .
+every door is loud .
+that door is loud .
+a door is loud .
+one door is round .
+every door is round .
+that door is round .
+a door is round .
+one door is bright .
+every door is bright .
+that door is bright .
+a door is bright .
+one ball is small .
+every ball is small .
+that ball is small .
+a ball is small .
+one ball is warm .
+every ball is warm .
+that ball is warm .
+a ball is warm .
+one ball is quiet .
+every ball is quiet .
+that ball is quiet .
+a ball is quiet .
+one ball is empty .
+every ball is empty .
+that ball is empty .
+a ball is empty .
+one ball is full .
+every ball is full .
+that ball is full .
+a ball is full .
+one ball is loud .
+every ball is loud .
+that ball is loud .
+a ball is loud .
+one ball is round .
+every ball is round .
+that ball is round .
+a ball is round .
+one ball is bright .
+every ball is bright .
+that ball is bright .
+a ball is bright .
+one desk is small .
+every desk is small .
+that desk is small .
+a desk is small .
+one desk is warm .
+every desk is warm .
+that desk is warm .
+a desk is warm .
+one desk is quiet .
+every desk is quiet .
+that desk is quiet .
+a desk is quiet .
+one desk is empty .
+every desk is empty .
+that desk is empty .
+a desk is empty .
+one desk is full .
+every desk is full .
+that desk is full .
+a desk is full .
+one desk is loud .
+every desk is loud .
+that desk is loud .
+a desk is loud .
+one desk is round .
+every desk is round .
+that desk is round .
+a desk is round .
+one desk is bright .
+every desk is bright .
+that desk is bright .
+a desk is bright .
+one shelf is small .
+every shelf is small .
+that shelf is small .
+a shelf is small .
+one shelf is warm .
+every shelf is warm .
+that shelf is warm .
+a shelf is warm .
+one shelf is quiet .
+every shelf is quiet .
+that shelf is quiet .
+a shelf is quiet .
+one shelf is empty .
+every shelf is empty .
+that shelf is empty .
+a shelf is empty .
+one shelf is full .
+every shelf is full .
+that shelf is full .
+a shelf is full .
+one shelf is loud .
+every shelf is loud .
+that shelf is loud .
+a shelf is loud .
+one shelf is round .
+every shelf is round .
+that shelf is round .
+a shelf is round .
+one shelf is bright .
+every shelf is bright .
+that shelf is bright .
+a shelf is bright .
+one puppy is small .
+every puppy is small .
+that puppy is small .
+a puppy is small .
+one puppy is warm .
+every puppy is warm .
+that puppy is warm .
+a puppy is warm .
+one puppy is quiet .
+every puppy is quiet .
+that puppy is quiet .
+a puppy is quiet .
+one puppy is empty .
+every puppy is empty .
+that puppy is empty .
+a puppy is empty .
+one puppy is full .
+every puppy is full .
+that puppy is full .
+a puppy is full .
+one puppy is loud .
+every puppy is loud .
+that puppy is loud .
+a puppy is loud .
+one puppy is round .
+every puppy is round .
+that puppy is round .
+a puppy is round .
+one puppy is bright .
+every puppy is bright .
+that puppy is bright .
+a puppy is bright .
+one kitten is small .
+every kitten is small .
+that kitten is small .
+a kitten is small .
+one kitten is warm .
+every kitten is warm .
+that kitten is warm .
+a kitten is warm .
+one kitten is quiet .
+every kitten is quiet .
+that kitten is quiet .
+a kitten is quiet .
+one kitten is empty .
+every kitten is empty .
+that kitten is empty .
+a kitten is empty .
+one kitten is full .
+every kitten is full .
+that kitten is full .
+a kitten is full .
+one kitten is loud .
+every kitten is loud .
+that kitten is loud .
+a kitten is loud .
+one kitten is round .
+every kitten is round .
+that kitten is round .
+a kitten is round .
+one kitten is bright .
+every kitten is bright .
+that kitten is bright .
+a kitten is bright .
+one fish is small .
+every fish is small .
+that fish is small .
+a fish is small .
+one fish is warm .
+every fish is warm .
+that fish is warm .
+a fish is warm .
+one fish is quiet .
+every fish is quiet .
+that fish is quiet .
+a fish is quiet .
+one fish is empty .
+every fish is empty .
+that fish is empty .
+a fish is empty .
+one fish is full .
+every fish is full .
+that fish is full .
+a fish is full .
+one fish is loud .
+every fish is loud .
+that fish is loud .
+a fish is loud .
+one fish is round .
+every fish is round .
+that fish is round .
+a fish is round .
+one fish is bright .
+every fish is bright .
+that fish is bright .
+a fish is bright .
+two birds are small .
+many birds are small .
+those birds are small .
+some birds are small .
+the birds were small yesterday .
+two birds are warm .
+many birds are warm .
+those birds are warm .
+some birds are warm .
+the birds were warm yesterday .
+two birds are quiet .
+many birds are quiet .
+those birds are quiet .
+some birds are quiet .
+the birds were quiet yesterday .
+two birds are empty .
+many birds are empty .
+those birds are empty .
+some birds are empty .
+the birds were empty yesterday .
+two birds are full .
+many birds are full .
+those birds are full .
+some birds are full .
+the birds were full yesterday .
+two birds are loud .
+many birds are loud .
+those birds are loud .
+some birds are loud .
+the birds were loud yesterday .
+two birds are round .
+many birds are round .
+those birds are round .
+some birds are round .
+the birds were round yesterday .
+two birds are bright .
+many birds are bright .
+those birds are bright .
+some birds are bright .
+the birds were bright yesterday .
+two robins are small .
+many robins are small .
+those robins are small .
+some robins are small .
+the robins were small yesterday .
+two robins are warm .
+many robins are warm .
+those robins are warm .
+some robins are warm .
+the robins were warm yesterday .
+two robins are quiet .
+many robins are quiet .
+those robins are quiet .
+some robins are quiet .
+the robins were quiet yesterday .
+two robins are empty .
+many robins are empty .
+those robins are empty .
+some robins are empty .
+the robins were empty yesterday .
+two robins are full .
+many robins are full .
+those robins are full .
+some robins are full .
+the robins were full yesterday .
+two robins are loud .
+many robins are loud .
+those robins are loud .
+some robins are loud .
+the robins were loud yesterday .
+two robins are round .
+many robins are round .
+those robins are round .
+some robins are round .
+the robins were round yesterday .
+two robins are bright .
+many robins are bright .
+those robins are bright .
+some robins are bright .
+the robins were bright yesterday .
+two cups are small .
+many cups are small .
+those cups are small .
+some cups are small .
+the cups were small yesterday .
+two cups are warm .
+many cups are warm .
+those cups are warm .
+some cups are warm .
+the cups were warm yesterday .
+two cups are quiet .
+many cups are quiet .
+those cups are quiet .
+some cups are quiet .
+the cups were quiet yesterday .
+two cups are empty .
+many cups are empty .
+those cups are empty .
+some cups are empty .
+the cups were empty yesterday .
+two cups are full .
+many cups are full .
+those cups are full .
+some cups are full .
+the cups were full yesterday .
+two cups are loud .
+many cups are loud .
+those cups are loud .
+some cups are loud .
+the cups were loud yesterday .
+two cups are round .
+many cups are round .
+those cups are round .
+some cups are round .
+the cups were round yesterday .
+two cups are bright .
+many cups are bright .
+those cups are bright .
+some cups are bright .
+the cups were bright yesterday .
+two boxes are small .
+many boxes are small .
+those boxes are small .
+some boxes are small .
+the boxes were small yesterday .
+two boxes are warm .
+many boxes are warm .
+those boxes are warm .
+some boxes are warm .
+the boxes were warm yesterday .
+two boxes are quiet .
+many boxes are quiet .
+those boxes are quiet .
+some boxes are quiet .
+the boxes were quiet yesterday .
+two boxes are empty .
+many boxes are empty .
+those boxes are empty .
+some boxes are empty .
+the boxes were empty yesterday .
+two boxes are full .
+many boxes are full .
+those boxes are full .
+some boxes are full .
+the boxes were full yesterday .
+two boxes are loud .
+many boxes are loud .
+those boxes are loud .
+some boxes are loud .
+the boxes were loud yesterday .
+two boxes are round .
+many boxes are round .
+those boxes are round .
+some boxes are round .
+the boxes were round yesterday .
+two boxes are bright .
+many boxes are bright .
+those boxes are bright .
+some boxes are bright .
+the boxes were bright yesterday .
+two lamps are small .
+many lamps are small .
+those lamps are small .
+some lamps are small .
+the lamps were small yesterday .
+two lamps are warm .
+many lamps are warm .
+those lamps are warm .
+some lamps are warm .
+the lamps were warm yesterday .
+two lamps are quiet .
+many lamps are quiet .
+those lamps are quiet .
+some lamps are quiet .
+the lamps were quiet yesterday .
+two lamps are empty .
+many lamps are empty .
+those lamps are empty .
+some lamps are empty .
+the lamps were empty yesterday .
+two lamps are full .
+many lamps are full .
+those lamps are full .
+some lamps are full .
+the lamps were full yesterday .
+two lamps are loud .
+many lamps are loud .
+those lamps are loud .
+some lamps are loud .
+the lamps were loud yesterday .
+two lamps are round .
+many lamps are round .
+those lamps are round .
+some lamps are round .
+the lamps were round yesterday .
+two lamps are bright .
+many lamps are bright .
+those lamps are bright .
+some lamps are bright .
+the lamps were bright yesterday .
+two dogs are small .
+many dogs are small .
+those dogs are small .
+some dogs are small .
+two dogs are warm .
+many dogs are warm .
+those dogs are warm .
+some dogs are warm .
+two dogs are quiet .
+many dogs are quiet .
+those dogs are quiet .
+some dogs are quiet .
+two dogs are empty .
+many dogs are empty .
+those dogs are empty .
+some dogs are empty .
+two dogs are full .
+many dogs are full .
+those dogs are full .
+some dogs are full .
+two dogs are loud .
+many dogs are loud .
+those dogs are loud .
+some dogs are loud .
+two dogs are round .
+many dogs are round .
+those dogs are round .
+some dogs are round .
+two dogs are bright .
+many dogs are bright .
+those dogs are bright .
+some dogs are bright .
+two cats are small .
+many cats are small .
+those cats are small .
+some cats are small .
+the cats were small yesterday .
+two cats are warm .
+many cats are warm .
+those cats are warm .
+some cats are warm .
+the cats were warm yesterday .
+two cats are quiet .
+many cats are quiet .
+those cats are quiet .
+some cats are quiet .
+the cats were quiet yesterday .
+two cats are empty .
+many cats are empty .
+those cats are empty .
+some cats are empty .
+the cats were empty yesterday .
+two cats are full .
+many cats are full .
+those cats are full .
+some cats are full .
+the cats were full yesterday .
+two cats are loud .
+many cats are loud .
+those cats are loud .
+some cats are loud .
+the cats were loud yesterday .
+two cats are round .
+many cats are round .
+those cats are round .
+some cats are round .
+the cats were round yesterday .
+two cats are bright .
+many cats are bright .
+those cats are bright .
+some cats are bright .
+the cats were bright yesterday .
+two books are small .
+many books are small .
+those books are small .
+some books are small .
+the books were small yesterday .
+two books are warm .
+many books are warm .
+those books are warm .
+some books are warm .
+the books were warm yesterday .
+two books are quiet .
+many books are quiet .
+those books are quiet .
+some books are quiet .
+the books were quiet yesterday .
+two books are empty .
+many books are empty .
+those books are empty .
+some books are empty .
+the books were empty yesterday .
+two books are full .
+many books are full .
+those books are full .
+some books are full .
+the books were full yesterday .
+two books are loud .
+many books are loud .
+those books are loud .
+some books are loud .
+the books were loud yesterday .
+two books are round .
+many books are round .
+those books are round .
+some books are round .
+the books were round yesterday .
+two books are bright .
+many books are bright .
+those books are bright .
+some books are bright .
+the books were bright yesterday .
+two doors are small .
+many doors are small .
+those doors are small .
+some doors are small .
+the doors were small yesterday .
+two doors are warm .
+many doors are warm .
+those doors are warm .
+some doors are warm .
+the doors were warm yesterday .
+two doors are quiet .
+many doors are quiet .
+those doors are quiet .
+some doors are quiet .
+the doors were quiet yesterday .
+two doors are empty .
+many doors are empty .
+those doors are empty .
+some doors are empty .
+the doors were empty yesterday .
+two doors are full .
+many doors are full .
+those doors are full .
+some doors are full .
+the doors were full yesterday .
+two doors are loud .
+many doors are loud .
+those doors are loud .
+some doors are loud .
+the doors were loud yesterday .
+two doors are round .
+many doors are round .
+those doors are round .
+some doors are round .
+the doors were round yesterday .
+two doors are bright .
+many doors are bright .
+those doors are bright .
+some doors are bright .
+the doors were bright yesterday .
+two balls are small .
+many balls are small .
+those balls are small .
+some balls are small .
+the balls were small yesterday .
+two balls are warm .
+many balls are warm .
+those balls are warm .
+some balls are warm .
+the balls were warm yesterday .
+two balls are quiet .
+many balls are quiet .
+those balls are quiet .
+some balls are quiet .
+the balls were quiet yesterday .
+two balls are empty .
+many balls are empty .
+those balls are empty .
+some balls are empty .
+the balls were empty yesterday .
+two balls are full .
+many balls are full .
+those balls are full .
+some balls are full .
+the balls were full yesterday .
+two balls are loud .
+many balls are loud .
+those balls are loud .
+some balls are loud .
+the balls were loud yesterday .
+two balls are round .
+many balls are round .
+those balls are round .
+some balls are round .
+the balls were round yesterday .
+two balls are bright .
+many balls are bright .
+those balls are bright .
+some balls are bright .
+the balls were bright yesterday .
+two desks are small .
+many desks are small .
+those desks are small .
+some desks are small .
+the desks were small yesterday .
+two desks are warm .
+many desks are warm .
+those desks are warm .
+some desks are warm .
+the desks were warm yesterday .
+two desks are quiet .
+many desks are quiet .
+those desks are quiet .
+some desks are quiet .
+the desks were quiet yesterday .
+two desks are empty .
+many desks are empty .
+those desks are empty .
+some desks are empty .
+the desks were empty yesterday .
+two desks are full .
+many desks are full .
+those desks are full .
+some desks are full .
+the desks were full yesterday .
+two desks are loud .
+many desks are loud .
+those desks are loud .
+some desks are loud .
+the desks were loud yesterday .
+two desks are round .
+many desks are round .
+those desks are round .
+some desks are round .
+the desks were round yesterday .
+two desks are bright .
+many desks are bright .
+those desks are bright .
+some desks are bright .
+the desks were bright yesterday .
+two shelves are small .
+many shelves are small .
+those shelves are small .
+some shelves are small .
+the shelves were small yesterday .
+two shelves are warm .
+many shelves are warm .
+those shelves are warm .
+some shelves are warm .
+the shelves were warm yesterday .
+two shelves are quiet .
+many shelves are quiet .
+those shelves are quiet .
+some shelves are quiet .
+the shelves were quiet yesterday .
+two shelves are empty .
+many shelves are empty .
+those shelves are empty .
+some shelves are empty .
+the shelves were empty yesterday .
+two shelves are full .
+many shelves are full .
+those shelves are full .
+some shelves are full .
+the shelves were full yesterday .
+two shelves are loud .
+many shelves are loud .
+those shelves are loud .
+some shelves are loud .
+the shelves were loud yesterday .
+two shelves are round .
+many shelves are round .
+those shelves are round .
+some shelves are round .
+the shelves were round yesterday .
+two shelves are bright .
+many shelves are bright .
+those shelves are bright .
+some shelves are bright .
+the shelves were bright yesterday .
+two puppies are small .
+many puppies are small .
+those puppies are small .
+some puppies are small .
+the puppies were small yesterday .
+two puppies are warm .
+many puppies are warm .
+those puppies are warm .
+some puppies are warm .
+the puppies were warm yesterday .
+two puppies are quiet .
+many puppies are quiet .
+those puppies are quiet .
+some puppies are quiet .
+the puppies were quiet yesterday .
+two puppies are empty .
+many puppies are empty .
+those puppies are empty .
+some puppies are empty .
+the puppies were empty yesterday .
+two puppies are full .
+many puppies are full .
+those puppies are full .
+some puppies are full .
+the puppies were full yesterday .
+two puppies are loud .
+many puppies are loud .
+those puppies are loud .
+some puppies are loud .
+the puppies were loud yesterday .
+two puppies are round .
+many puppies are round .
+those puppies are round .
+some puppies are round .
+the puppies were round yesterday .
+two puppies are bright .
+many puppies are bright .
+those puppies are bright .
+some puppies are bright .
+the puppies were bright yesterday .
+two kittens are small .
+many kittens are small .
+those kittens are small .
+some kittens are small .
+the kittens were small yesterday .
+two kittens are warm .
+many kittens are warm .
+those kittens are warm .
+some kittens are warm .
+the kittens were warm yesterday .
+two kittens are quiet .
+many kittens are quiet .
+those kittens are quiet .
+some kittens are quiet .
+the kittens were quiet yesterday .
+two kittens are empty .
+many kittens are empty .
+those kittens are empty .
+some kittens are empty .
+the kittens were empty yesterday .
+two kittens are full .
+many kittens are full .
+those kittens are full .
+some kittens are full .
+the kittens were full yesterday .
+two kittens are loud .
+many kittens are loud .
+those kittens are loud .
+some kittens are loud .
+the kittens were loud yesterday .
+two kittens are round .
+many kittens are round .
+those kittens are round .
+some kittens are round .
+the kittens were round yesterday .
+two kittens are bright .
+many kittens are bright .
+those kittens are bright .
+some kittens are bright .
+the kittens were bright yesterday .
+two fish are small .
+many fish are small .
+those fish are small .
+some fish are small .
+the fish were small yesterday .
+two fish are warm .
+many fish are warm .
+those fish are warm .
+some fish are warm .
+the fish were warm yesterday .
+two fish are quiet .
+many fish are quiet .
+those fish are quiet .
+some fish are quiet .
+the fish were quiet yesterday .
+two fish are empty .
+many fish are empty .
+those fish are empty .
+some fish are empty .
+the fish were empty yesterday .
+two fish are full .
+many fish are full .
+those fish are full .
+some fish are full .
+the fish were full yesterday .
+two fish are loud .
+many fish are loud .
+those fish are loud .
+some fish are loud .
+the fish were loud yesterday .
+two fish are round .
+many fish are round .
+those fish are round .
+some fish are round .
+the fish were round yesterday .
+two fish are bright .
+many fish are bright .
+those fish are bright .
+some fish are bright .
+the fish were bright yesterday .
+i am hungry today .
+i am not hungry today .
+i am quiet today .
+i am not quiet today .
+i am warm today .
+i am not warm today .
+i am early today .
+i am not early today .
+i am late today .
+i am not late today .
+i am here today .
+i am not here today .
+yesterday ava walked .
+today ava walks .
+ava is walking now .
+last week ava walked again .
+yesterday maya walked .
+today maya walks .
+maya is walking now .
+last week maya walked again .
+yesterday leo walked .
+today leo walks .
+leo is walking now .
+last week leo walked again .
+yesterday nora walked .
+today nora walks .
+nora is walking now .
+last week nora walked again .
+yesterday omar walked .
+today omar walks .
+omar is walking now .
+last week omar walked again .
+yesterday ella walked .
+today ella walks .
+ella is walking now .
+last week ella walked again .
+yesterday finn walked .
+today finn walks .
+finn is walking now .
+last week finn walked again .
+yesterday sara walked .
+today sara walks .
+sara is walking now .
+last week sara walked again .
+yesterday noah walked .
+today noah walks .
+noah is walking now .
+last week noah walked again .
+yesterday nina walked .
+today nina walks .
+nina is walking now .
+last week nina walked again .
+yesterday emma walked .
+today emma walks .
+emma is walking now .
+last week emma walked again .
+yesterday luca walked .
+today luca walks .
+luca is walking now .
+last week luca walked again .
+yesterday they walked .
+yesterday i walked .
+she walks every day .
+he walks every day .
+she walked last week .
+he walked last week .
+she is walking now .
+they are walking now .
+we walk every day .
+they walk every day .
+i walk every day .
+you walk every day .
+we will walk tomorrow .
+they will walk tomorrow .
+people walk here every week .
+we did not walk yesterday .
+yesterday ava washed .
+today ava washes .
+ava is washing now .
+last week ava washed again .
+yesterday maya washed .
+today maya washes .
+maya is washing now .
+last week maya washed again .
+yesterday leo washed .
+today leo washes .
+leo is washing now .
+last week leo washed again .
+yesterday nora washed .
+today nora washes .
+nora is washing now .
+last week nora washed again .
+yesterday omar washed .
+today omar washes .
+omar is washing now .
+last week omar washed again .
+yesterday ella washed .
+today ella washes .
+ella is washing now .
+last week ella washed again .
+yesterday finn washed .
+today finn washes .
+finn is washing now .
+last week finn washed again .
+yesterday sara washed .
+today sara washes .
+sara is washing now .
+last week sara washed again .
+yesterday noah washed .
+today noah washes .
+noah is washing now .
+last week noah washed again .
+yesterday nina washed .
+today nina washes .
+nina is washing now .
+last week nina washed again .
+yesterday emma washed .
+today emma washes .
+emma is washing now .
+last week emma washed again .
+yesterday luca washed .
+today luca washes .
+luca is washing now .
+last week luca washed again .
+yesterday they washed .
+yesterday i washed .
+she washes every day .
+he washes every day .
+she washed last week .
+he washed last week .
+she is washing now .
+they are washing now .
+we wash every day .
+they wash every day .
+i wash every day .
+you wash every day .
+we will wash tomorrow .
+they will wash tomorrow .
+people wash here every week .
+we did not wash yesterday .
+yesterday ava called .
+today ava calls .
+ava is calling now .
+last week ava called again .
+yesterday maya called .
+today maya calls .
+maya is calling now .
+last week maya called again .
+yesterday leo called .
+today leo calls .
+leo is calling now .
+last week leo called again .
+yesterday nora called .
+today nora calls .
+nora is calling now .
+last week nora called again .
+yesterday omar called .
+today omar calls .
+omar is calling now .
+last week omar called again .
+yesterday ella called .
+today ella calls .
+ella is calling now .
+last week ella called again .
+yesterday finn called .
+today finn calls .
+finn is calling now .
+last week finn called again .
+yesterday sara called .
+today sara calls .
+sara is calling now .
+last week sara called again .
+yesterday noah called .
+today noah calls .
+noah is calling now .
+last week noah called again .
+yesterday nina called .
+today nina calls .
+nina is calling now .
+last week nina called again .
+yesterday emma called .
+today emma calls .
+emma is calling now .
+last week emma called again .
+yesterday luca called .
+today luca calls .
+luca is calling now .
+last week luca called again .
+yesterday they called .
+yesterday i called .
+she calls every day .
+he calls every day .
+she called last week .
+he called last week .
+she is calling now .
+they are calling now .
+we call every day .
+they call every day .
+i call every day .
+you call every day .
+we will call tomorrow .
+they will call tomorrow .
+people call here every week .
+we did not call yesterday .
+yesterday ava opened .
+today ava opens .
+ava is opening now .
+last week ava opened again .
+yesterday maya opened .
+today maya opens .
+maya is opening now .
+last week maya opened again .
+yesterday leo opened .
+today leo opens .
+leo is opening now .
+last week leo opened again .
+yesterday nora opened .
+today nora opens .
+nora is opening now .
+last week nora opened again .
+yesterday omar opened .
+today omar opens .
+omar is opening now .
+last week omar opened again .
+yesterday ella opened .
+today ella opens .
+ella is opening now .
+last week ella opened again .
+yesterday finn opened .
+today finn opens .
+finn is opening now .
+last week finn opened again .
+yesterday sara opened .
+today sara opens .
+sara is opening now .
+last week sara opened again .
+yesterday noah opened .
+today noah opens .
+noah is opening now .
+last week noah opened again .
+yesterday nina opened .
+today nina opens .
+nina is opening now .
+last week nina opened again .
+yesterday emma opened .
+today emma opens .
+emma is opening now .
+last week emma opened again .
+yesterday luca opened .
+today luca opens .
+luca is opening now .
+last week luca opened again .
+yesterday they opened .
+yesterday i opened .
+she opens every day .
+he opens every day .
+she opened last week .
+he opened last week .
+she is opening now .
+they are opening now .
+we open every day .
+they open every day .
+i open every day .
+you open every day .
+we will open tomorrow .
+they will open tomorrow .
+people open here every week .
+we did not open yesterday .

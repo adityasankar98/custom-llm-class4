@@ -1,0 +1,35 @@
+{
+  "model": "reference run: model.pt (identified by model_sha256)",
+  "model_sha256": "bf49f05b14d5417840f3b551aa61e28c0e521e6d5557f146f3961ffc1afbe84e",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the customer",
+      "seed": 2026,
+      "response": "selected the item after checking the price .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the report about the surgeon explains the",
+      "seed": 2027,
+      "response": "treatment in detail .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "water freezes into",
+      "seed": 2028,
+      "response": "the different nurse focused on treatment and health .",
+      "unknown_prompt_words": [
+        "freezes",
+        "into",
+        "water"
+      ],
+      "prompt_truncated": false
+    }
+  ]
+}

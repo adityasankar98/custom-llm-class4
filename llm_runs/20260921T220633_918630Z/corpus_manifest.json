@@ -1,0 +1,103 @@
+{
+  "files": [
+    {
+      "file": "01_grammar_agreement.txt",
+      "bytes": 30448,
+      "sha256": "d86ee1e70e1ff0e85d3515912a3f03232eff82a18768ecf97275444697b29775",
+      "warnings": [],
+      "characters": 30448,
+      "passages": 1332,
+      "unique_passages": 1332,
+      "preview": "every bird is small .\nthat bird is small .\na bird is small .\nevery bird is warm .\nthat bird is warm .\na bird is warm .\nevery bird is quiet .\nthat bird is quiet .\na bird is quiet .\nevery bird is empty .\nthat bird is empty .\na bird is empty .\nevery bird is full .\nthat bird is full .\na bird is full .\ne"
+    },
+    {
+      "file": "02_opposites.txt",
+      "bytes": 4952,
+      "sha256": "e17b22969d9b90345b6caeafcc032b9056b64455c4492232b7c019666c0df879",
+      "warnings": [],
+      "characters": 4952,
+      "passages": 152,
+      "unique_passages": 152,
+      "preview": "the opposite of cold is hot .\nthe reverse of cold is hot .\nthe reverse of hot is cold .\nhot and cold are opposites .\ncold and hot are opposites .\nwhen a room is not hot it is cold .\nwhen a room is not cold it is hot .\nsomething hot is never cold .\nthe opposite of full is empty .\nthe reverse of full "
+    },
+    {
+      "file": "03_negation_correction.txt",
+      "bytes": 43855,
+      "sha256": "c1a3f041c813e8b516ffa2f500daf46fa2dc8a41242440cd74ce06cbfb6fc3ba",
+      "warnings": [],
+      "characters": 43855,
+      "passages": 750,
+      "unique_passages": 750,
+      "preview": "the bag is not red .it is blue .the bag is blue .\nthe bag is not red .it is green .the bag is green .\nthe bag is not red .it is yellow .the bag is yellow .\nthe bag is not red .it is brown .the bag is brown .\nthe bag is not blue .it is red .the bag is red .\nthe bag is not blue .it is green .the bag i"
+    },
+    {
+      "file": "04_reference_people.txt",
+      "bytes": 29213,
+      "sha256": "8e686b491f88fe29717046012a5d54cf74d030ba2b779e2b82fc41dc90442772",
+      "warnings": [],
+      "characters": 29213,
+      "passages": 527,
+      "unique_passages": 527,
+      "preview": "ava lent a pencil to maya .maya thanked ava .\nava gave maya a pencil .the person who received the pencil was maya .\nava called maya .maya answered the call from ava .\nava sent a pencil to maya .maya kept the pencil from ava .\nava lent a cup to leo .leo thanked ava .\nava gave leo a cup .the person wh"
+    },
+    {
+      "file": "05_sequence_order.txt",
+      "bytes": 49499,
+      "sha256": "7a8ca81fbc85cc32d79616c886fa10ff34d65d2d121ca766a14d29335dc2c199",
+      "warnings": [],
+      "characters": 49499,
+      "passages": 778,
+      "unique_passages": 778,
+      "preview": "first wash the cup .then dry it .the first action is wash .\nfirst wash the cup .then fill it .the last action is fill .\nfirst wash the cup .then fill it .the first action is wash .\nfirst wash the cup .then open it .the last action is open .\nfirst wash the cup .then open it .the first action is wash "
+    },
+    {
+      "file": "06_spatial_relations.txt",
+      "bytes": 16281,
+      "sha256": "aa92f7c13babb559d967f767c9b8685c76d0f23a9d3b00c7c86d7af21fc21103",
+      "warnings": [],
+      "characters": 16281,
+      "passages": 256,
+      "unique_passages": 256,
+      "preview": "the bag contains the book .the book is inside the bag .\nthe pencil is inside the bag .the bag contains the pencil .\nthe bag contains the pencil .the pencil is inside the bag .\nthe cup is inside the bag .the bag contains the cup .\nthe bag contains the cup .the cup is inside the bag .\nthe ball is insi"
+    },
+    {
+      "file": "07_everyday_knowledge.txt",
+      "bytes": 2933,
+      "sha256": "8d1ef390bb085795f4075b5e3e877792cbbd2322bc36601693e9c73c0c2a6717",
+      "warnings": [],
+      "characters": 2933,
+      "passages": 87,
+      "unique_passages": 87,
+      "preview": "juice freezes into ice .\nsoup freezes into ice .\nmilk freezes into ice .\ntea freezes into ice .\nwhen water freezes it becomes ice .\nice forms when water freezes .\ncold water freezes quickly .\nwater freezes when the room is cold .\nice melts into water .\nice is cold and hard .\nthe ice in the cup melte"
+    },
+    {
+      "file": "08_categories_analogies.txt",
+      "bytes": 11879,
+      "sha256": "494f90ebe4ada09cc089886f41ece8ccd977940b49552ced69b7bc0a7fe5e8e7",
+      "warnings": [],
+      "characters": 11879,
+      "passages": 327,
+      "unique_passages": 327,
+      "preview": "a robin is a bird .\nevery robin is a bird .\nthe robin is a kind of bird .\nwe learned that a robin is a bird .\nthe report said a robin is a bird .\npeople know that a robin is a bird .\na robin belongs with every other bird .\nthe team discussed a robin and every other bird .\ntoday we compared a robin w"
+    },
+    {
+      "file": "09_vocabulary_support.txt",
+      "bytes": 10070,
+      "sha256": "56ec6a6e3b263ecde2e77aa7915eaf05b7ef14b85e92df29437b0a64b5e797e1",
+      "warnings": [],
+      "characters": 10070,
+      "passages": 228,
+      "unique_passages": 228,
+      "preview": "the sand was mentioned in the report yesterday .\nwe learned about the sand during a lesson .\nour team discussed the sand at the office .\na review of the sand helped us understand it .\nthe sand is important to the team .\ntoday the school focused on the sand .\nthe report about the sand explains it in "
+    }
+  ],
+  "ignored": [],
+  "external_passages": 4437,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 9029,
+  "new_unique_passages": 4437,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}
