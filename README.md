@@ -223,19 +223,31 @@ Generated reproducibly by [`build_corpus.py`](build_corpus.py). **Sources and pe
 sentence is original material I wrote for this assignment.** No external, copyrighted, personal,
 or confidential text is used, so there is nothing in `corpus/` I lack the right to publish.
 
-| File | Passages | Teaches |
-|---|---|---|
-| [`01_grammar_agreement.txt`](corpus/01_grammar_agreement.txt) | 1,332 | number agreement, tense |
-| [`02_opposites.txt`](corpus/02_opposites.txt) | 152 | antonym frames |
-| [`03_negation_correction.txt`](corpus/03_negation_correction.txt) | 750 | not-X-but-Y correction |
-| [`04_reference_people.txt`](corpus/04_reference_people.txt) | 527 | name antecedents |
-| [`05_sequence_order.txt`](corpus/05_sequence_order.txt) | 778 | first/then, before/after |
-| [`06_spatial_relations.txt`](corpus/06_spatial_relations.txt) | 256 | containment, above/below, left/right |
-| [`07_everyday_knowledge.txt`](corpus/07_everyday_knowledge.txt) | 87 | water/ice, umbrella/dry, dark/light |
-| [`08_categories_analogies.txt`](corpus/08_categories_analogies.txt) | 327 | is-a facts, grows-into |
-| [`09_vocabulary_support.txt`](corpus/09_vocabulary_support.txt) | 228 | plants required distractor words |
+**`corpus/` holds the latest version**, the one E4 and E5 trained on. The corpus that produced
+experiment 2 is preserved inside that run as
+[`corpus.txt`](llm_runs/20260921T220633_918630Z/corpus.txt) and
+[`corpus_manifest.json`](llm_runs/20260921T220633_918630Z/corpus_manifest.json), so both are
+reproducible. The E2 column is the version behind the headline 44/48; the current column is
+what `build_corpus.py` generates today.
 
-Total 4,437 passages, all unique, and the manifest records **zero extraction warnings**.
+| File | E2 | current | Teaches |
+|---|---|---|---|
+| [`01_grammar_agreement.txt`](corpus/01_grammar_agreement.txt) | 1,332 | **1,668** | number agreement, tense |
+| [`02_opposites.txt`](corpus/02_opposites.txt) | 152 | 152 | antonym frames |
+| [`03_negation_correction.txt`](corpus/03_negation_correction.txt) | 750 | 750 | not-X-but-Y correction |
+| [`04_reference_people.txt`](corpus/04_reference_people.txt) | 527 | 527 | name antecedents |
+| [`05_sequence_order.txt`](corpus/05_sequence_order.txt) | 778 | **1,425** | first/then, before/after |
+| [`06_spatial_relations.txt`](corpus/06_spatial_relations.txt) | 256 | 256 | containment, above/below, left/right |
+| [`07_everyday_knowledge.txt`](corpus/07_everyday_knowledge.txt) | 87 | 87 | water/ice, umbrella/dry, dark/light |
+| [`08_categories_analogies.txt`](corpus/08_categories_analogies.txt) | 327 | **835** | is-a facts, grows-into |
+| [`09_vocabulary_support.txt`](corpus/09_vocabulary_support.txt) | 228 | 228 | plants required distractor words |
+| **Total** | **4,437** | **5,928** | |
+
+The three bolded files are exactly the ones §6 describes changing: the two-clause analogy frame
+(file 08), the missing `happens after … the earlier meal is` combination plus four more vehicle
+types (file 05), and `the {plural} are …` (file 01). Every other file is byte-identical across
+all four extension runs. All passages are unique and the manifest records **zero extraction
+warnings**.
 **I used no PDFs.** All nine files are plain UTF-8 `.txt`, so there is no OCR risk, no page
 extraction to check, and no reading-order problem — the trade-off being that the material is
 authored rather than drawn from real-world documents. Had I used PDFs, the check would have
