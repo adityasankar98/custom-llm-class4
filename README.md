@@ -79,7 +79,10 @@ real run. Three parts of it were right and three were clearly wrong. Both matter
 
 **Right.** Coverage went to 48/48 exactly as the pre-training verification predicted.
 `starter_patterns` improved dramatically (6/16 → 16/16) because hundreds of sibling sentences
-teach those domain associations. Training loss fell steeply then flattened.
+teach those domain associations. Training loss fell steeply then flattened. And the embedding
+prediction landed precisely: I named `client, buyer, shopper, consumer, subscriber` as the
+words `customer` should move toward, and after training those are its top five neighbours at
+cosine > 0.96, up from ~0.3 noise (§7).
 
 **Wrong #1 — I predicted scorable accuracy would fall. It rose, 83.3% → 91.7%.** My reasoning
 was that 24 hard cases joining the denominator would drag the average down. What I missed is
@@ -132,12 +135,28 @@ the classroom sentences, not substituted for them.
 | Reserved eval passages | 160 |
 | Steps / elapsed | 3,000 / 10.3 s |
 
-Hardware: macOS 15.6.1, Apple Silicon, CPU only. Python 3.12.14, PyTorch 2.14.0. Neither run
-was interrupted. Supporting files: [E1 config](llm_runs/20260921T220602_231016Z/config.json) ·
+Hardware: macOS 15.6.1, Apple Silicon, CPU only. Python 3.12.14, PyTorch 2.14.0. **Neither run
+was interrupted; both completed all 3,000 steps** —
+[E1 training_summary.json](llm_runs/20260921T220602_231016Z/training_summary.json) ·
+[E2 training_summary.json](llm_runs/20260921T220633_918630Z/training_summary.json).
+
+Supporting files: [E1 config](llm_runs/20260921T220602_231016Z/config.json) ·
 [E2 config](llm_runs/20260921T220633_918630Z/config.json) ·
+[E1 training.csv](llm_runs/20260921T220602_231016Z/training.csv) ·
+[E2 training.csv](llm_runs/20260921T220633_918630Z/training.csv) ·
 [E2 vocabulary report](llm_runs/20260921T220633_918630Z/vocabulary_report.json) ·
 [E2 corpus manifest](llm_runs/20260921T220633_918630Z/corpus_manifest.json) ·
-[E2 training.csv](llm_runs/20260921T220633_918630Z/training.csv)
+[E2 temperature_comparison.json](llm_runs/20260921T220633_918630Z/temperature_comparison.json) ·
+[E2 checkpoint.json](llm_runs/20260921T220633_918630Z/checkpoint.json) ·
+[results ZIP](llm_runs/20260921T220633_918630Z.zip)
+
+**What stayed fixed, what changed in training, what changed only at inference.** Fixed across
+both experiments: the eval suite and its scoring, seed 42, the 90/10 split procedure, the model
+shape (2 layers, 4 heads, 64 dims, 48-token context), batch size 32, 3,000 steps, learning rate
+0.001, and the generation settings used for samples. Changed by training: only the network
+weights, via gradient updates. Changed only at inference, touching no weights: the sampling
+temperature. The single deliberate difference between experiment 1 and experiment 2 is the
+contents of `corpus/`.
 
 ---
 
@@ -283,6 +302,29 @@ Both things are true: the model reliably ranks the right answer above three dist
 cannot reliably produce that answer unprompted. The eval measures the first; only the samples
 and the chat log reveal the second.
 
+### Actual free continuations, next to the score
+
+The runner saves an unconstrained continuation for every case alongside the four-choice score.
+They frequently disagree, which is the point of saving both:
+
+| case | score | free continuation (experiment 2) | experiment 1 |
+|---|---|---|---|
+| lang_07 `…surgeon explains the` | 1 (`patient`) | `treatment in detail .` | `treatment in detail .` |
+| lang_28 `the opposite of hot is` | 1 (`cold`) | `cold .` | `''` — unscorable |
+| lang_32 `…she bought milk . ava bought` | 1 (`milk`) | **`tea .`** | `''` — unscorable |
+| lang_34 `…leo thanked` | 1 (`maya`) | `maya .` | `the station .` — unscorable |
+| lang_46 `…a salmon is a` | 0 (`bird`) | `bird .` | `office .` — unscorable |
+
+**lang_32 is the one to look at.** It scores 1 — the model ranked `milk` above `tea`, `rice` and
+`bread`, which is the negation pattern working. Left to generate freely from the same prompt it
+produces **`tea`**: precisely the word the sentence said was *not* bought. The four-choice score
+and the free continuation disagree about the same case, on the same weights, at the same moment.
+
+lang_07 shows a milder version: the model ranks `patient` highest but would generate
+`treatment` — both correct for the hospital domain, just different words. And the experiment 1
+column shows what "unscorable" actually looked like: empty strings, or `the station .` for a
+prompt about people thanking each other, because the names were not in the vocabulary at all.
+
 ---
 
 ## 7. How it learns — traced through actual numbers
@@ -357,11 +399,57 @@ zeros are causal masking — a position can never see the future. Token 1 has on
 token 3 the model is drawing 58% from token 2 and 30% from token 1. This mixing is how
 `.omar thanked ___` can reach back past the recent name to the earlier one.
 
-**Temperature** ([`temperature_comparison.json`](llm_runs/20260921T220633_918630Z/temperature_comparison.json))
-rescales the probabilities at generation time and **changes no weights**. Low temperature (0.3)
-sharpens toward the single most likely word — safe and repetitive. High temperature (1.2)
-flattens the distribution, sampling rarer words — more varied, more errors. Same model, same
-weights, different sampling.
+**Embedding neighbors — closing the prediction I made before training.** I predicted the
+neighbors of `customer` would move "from arbitrary words toward the other role nouns it shares
+frames with (client, buyer, shopper, consumer, subscriber)". Cosine similarity over the full
+64-dimension vectors in [`checkpoint.json`](llm_runs/20260921T220633_918630Z/checkpoint.json),
+before and after:
+
+| word | nearest neighbors before training | nearest neighbors after training |
+|---|---|---|
+| `customer` | onion 0.389, kittens 0.356, breakfast 0.314 | **client 0.974, buyer 0.973, shopper 0.972, subscriber 0.967, consumer 0.961** |
+| `maya` | truck 0.352, other 0.289, `<BOS>` 0.274 | noah 0.618, leo 0.553, nina 0.538, nora 0.528 |
+| `hot` | boat 0.325, who 0.296, shoe 0.278 | rough 0.792, happy 0.774, smooth 0.758, short 0.756 |
+
+The `customer` prediction was exactly right — all five role nouns, in order, at cosine > 0.96,
+up from ~0.3 noise. Names cluster with names. Nothing told the model these were categories; the
+vectors moved because the words appear in the same slots.
+
+**But look at `hot`.** Its nearest neighbor is *not* `cold`. It is `rough`, `happy`, `smooth`,
+`short` — other adjectives that fill the same template position. The model groups words by
+**distributional slot, not by meaning**, and an antonym is simply the word that shows up in the
+same frames. This is worth stating plainly because it is the clearest evidence that scoring 3/3
+on `opposites` does not mean the model represents oppositeness. Load
+[`checkpoint.json`](llm_runs/20260921T220633_918630Z/checkpoint.json) into the supplied
+[`embedding-viewer.html`](embedding-viewer.html) to explore this directly — note that the map
+is a PCA compression, while the neighbor numbers above use the full vector space.
+
+**Temperature** rescales the probabilities at generation time and **changes no weights**. All
+twelve saved samples, same starting token and sampling seed, from
+[`temperature_comparison.json`](llm_runs/20260921T220633_918630Z/temperature_comparison.json):
+
+```
+0.3  the report about the car explains the travel in detail .
+0.3  the team discussed the subscriber and the service at the store .
+0.3  the important offering was mentioned in the price report yesterday .
+0.3  the important application was mentioned in the code report yesterday .
+
+0.8  the report about the brand explains the quality in detail .
+0.8  the box is not yellow . it is green . the box is red .
+0.8  the team discussed the system and the update at the office .
+0.8  we learned about the local investment during a discussion of interest .
+
+1.2  the report about the brand explains the quality in detail .
+1.2  our hospital has a question about the different therapist and patient .
+1.2  first open the bag . then open it . the first action is wash .
+1.2  people know that an far is a fabric .
+```
+
+At 0.3 the model plays it safe: two of four samples are the same template with one word
+swapped, and every sentence is well-formed. At 0.8 it ranges wider and starts producing
+extension material. At 1.2 it reaches far enough down the distribution to break — `people know
+that an far is a fabric .` puts the adjective `far` in a noun slot, a word combination that
+appears nowhere in the corpus. Identical weights in all twelve; only the sampling changed.
 
 ### Loss
 
@@ -524,6 +612,13 @@ what the score measures.
 `run_evals.py`, `chat.py`, `nanogpt_model.py` and `evals/language_evals.json` are supplied and
 **unmodified** — the notebook verifies all four against pinned SHA-256 hashes on every run and
 refuses to start if any byte changed.
+
+**Attribution.** The transformer is Karpathy's nanoGPT at commit `3adf61e`, used under its MIT
+license, retained verbatim in [`NANOGPT_LICENSE`](NANOGPT_LICENSE). The notebook scaffold, eval
+suite, runner and chat interface come from the course
+[starter repository](https://github.com/pepealonso95/custom-llm). My own contributions are
+`build_corpus.py`, `verify_corpus.py`, the nine files in `corpus/`, the prediction and choices
+in section 1 of the notebook, and this README.
 
 ---
 
