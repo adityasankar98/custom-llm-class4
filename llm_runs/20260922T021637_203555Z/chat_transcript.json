@@ -1,0 +1,16 @@
+{
+  "model_sha256": "6e9adac71619835d060bc0a58bacca99c5933e88e9055a3310c35e0d75eeaff0",
+  "completed_steps": 6000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the customer",
+      "seed": 2026,
+      "response": "contains the towel . the towel is inside the drawer .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    }
+  ]
+}

@@ -54,6 +54,29 @@ def clean(lines):
     return kept
 
 
+def order_safely(lines):
+    """Reorder so no two ADJACENT lines concatenate into an eval prompt.
+
+    `reject_eval_leakage` reads the WHOLE file as one normalized token string, so
+    a clean line ending "... a robin is a bird ." followed by a clean line starting
+    "a salmon is a fish ." still spells out the lang_46 prompt across the newline.
+    Every individual line can pass while the file as a whole fails. This greedily
+    picks the next line that does not collide with the previous one.
+    """
+    remaining, out = list(lines), []
+    while remaining:
+        pick = 0
+        for i, cand in enumerate(remaining):
+            if not out or not matching_cases(out[-1] + " " + cand, SUITE):
+                pick = i
+                break
+        else:
+            # No safe candidate remains; leave it and let verify_corpus.py report it.
+            pick = 0
+        out.append(remaining.pop(pick))
+    return out
+
+
 def write(name, lines):
     lines = clean(lines)
     # Deduplicate while preserving order: repeated passages are collapsed by the
@@ -63,6 +86,7 @@ def write(name, lines):
         if line not in seen:
             seen.add(line)
             unique.append(line)
+    unique = order_safely(unique)
     (OUT / name).write_text("\n".join(unique) + "\n", encoding="utf-8")
     return len(unique)
 
@@ -92,6 +116,13 @@ def grammar():
             out.append(f"those {p} are {a} .")
             out.append(f"some {p} are {a} .")
             out.append(f"the {p} were {a} yesterday .")
+            # "the {plural} are ..." was the gap behind lang_26. Every other
+            # frame taught plural+are, but "the {plural}" only ever appeared
+            # with "were", so the model never saw this exact combination.
+            # ("the dogs" itself is an eval prompt and is dropped by the filter.)
+            out.append(f"the {p} are {a} .")
+            out.append(f"the {p} are not {a} .")
+            out.append(f"the {p} are {a} today .")
     # First person, to teach "am" (a required lang_25/lang_26 distractor).
     for a in ["hungry", "quiet", "warm", "early", "late", "here"]:
         out.append(f"i am {a} today .")
@@ -210,7 +241,18 @@ def sequence():
             out.append(f"{late} happens after {early} .the later meal is {late} .")
             out.append(f"{early} happens before {late} .the earlier meal is {early} .")
             out.append(f"{early} happens before {late} .the later meal is {late} .")
-    vehicles = ["train", "bus", "taxi", "car", "truck", "bicycle"]
+            # The missing fourth combination. Experiment 2 only ever paired
+            # "happens after" with "the later meal is", so the model was never
+            # shown that "A happens after B" also means B is the earlier one.
+            out.append(f"{late} happens after {early} .the earlier meal is {early} .")
+            out.append(f"{late} comes after {early} .the earlier meal is {early} .")
+            out.append(f"{early} comes before {late} .the later meal is {late} .")
+    # lang_39 is the one case whose tested pair (train before bus) is exactly the
+    # sentence the leakage filter must drop, so the model has to generalize the
+    # before->later copy to a pair it never saw. More distinct pairs make the rule
+    # more general rather than pair-specific.
+    vehicles = ["train", "bus", "taxi", "car", "truck", "bicycle",
+                "van", "tram", "boat", "ferry"]
     for a in vehicles:
         for b in vehicles:
             if a == b:
@@ -218,6 +260,14 @@ def sequence():
             out.append(f"the {a} arrived before the {b} .the vehicle that arrived later was the {b} .")
             out.append(f"the {a} arrived after the {b} .the vehicle that arrived later was the {a} .")
             out.append(f"the {a} arrived before the {b} .the vehicle that arrived earlier was the {a} .")
+            out.append(f"the {a} arrived after the {b} .the vehicle that arrived earlier was the {b} .")
+            # lang_39 failed even though the before->later mapping WAS taught
+            # ~29 times, and the model answered with a vehicle absent from the
+            # prompt. These reinforce the same mapping in several shapes.
+            out.append(f"the {a} arrived before the {b} .the {b} arrived later .")
+            out.append(f"the {a} arrived before the {b} .the later vehicle was the {b} .")
+            out.append(f"the {a} arrived after the {b} .the {a} arrived later .")
+            out.append(f"the {b} arrived later than the {a} .the later vehicle was the {b} .")
     return out
 
 
@@ -334,6 +384,23 @@ def categories():
             out.append(f"{article} {it} belongs with every other {group} .")
             out.append(f"the team discussed {article} {it} and every other {group} .")
             out.append(f"today we compared {article} {it} with another {group} .")
+    # Two-clause analogy frame. Experiment 2 taught only SINGLE-clause facts
+    # ("a robin is a bird ."), so when the model met "a X is a Y . a Z is a ___"
+    # it had never seen that frame and fell back on the copy behaviour it learned
+    # from negation/reference/spatial -- answering with Y. These examples teach
+    # that the second clause's category depends on the SECOND subject.
+    # The two tested pairs are generated here too and dropped by the leakage
+    # filter, so the model learns the frame from ~640 other pairs.
+    groups = list(members.items())
+    for g1, items1 in groups:
+        for g2, items2 in groups:
+            if g1 == g2:
+                continue
+            for i1 in items1[:3]:
+                for i2 in items2[:3]:
+                    a1 = "an" if i1[0] in "aeiou" else "a"
+                    a2 = "an" if i2[0] in "aeiou" else "a"
+                    out.append(f"{a1} {i1} is a {g1} .{a2} {i2} is a {g2} .")
     grows = [("puppy", "dog"), ("kitten", "cat"), ("chick", "duck"),
              ("calf", "cow"), ("foal", "horse"), ("lamb", "goat"), ("cub", "bear")]
     for young, adult in grows:

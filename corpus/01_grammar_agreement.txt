@@ -475,201 +475,321 @@ many birds are small .
 those birds are small .
 some birds are small .
 the birds were small yesterday .
+the birds are small .
+the birds are not small .
+the birds are small today .
 two birds are warm .
 many birds are warm .
 those birds are warm .
 some birds are warm .
 the birds were warm yesterday .
+the birds are warm .
+the birds are not warm .
+the birds are warm today .
 two birds are quiet .
 many birds are quiet .
 those birds are quiet .
 some birds are quiet .
 the birds were quiet yesterday .
+the birds are quiet .
+the birds are not quiet .
+the birds are quiet today .
 two birds are empty .
 many birds are empty .
 those birds are empty .
 some birds are empty .
 the birds were empty yesterday .
+the birds are empty .
+the birds are not empty .
+the birds are empty today .
 two birds are full .
 many birds are full .
 those birds are full .
 some birds are full .
 the birds were full yesterday .
+the birds are full .
+the birds are not full .
+the birds are full today .
 two birds are loud .
 many birds are loud .
 those birds are loud .
 some birds are loud .
 the birds were loud yesterday .
+the birds are loud .
+the birds are not loud .
+the birds are loud today .
 two birds are round .
 many birds are round .
 those birds are round .
 some birds are round .
 the birds were round yesterday .
+the birds are round .
+the birds are not round .
+the birds are round today .
 two birds are bright .
 many birds are bright .
 those birds are bright .
 some birds are bright .
 the birds were bright yesterday .
+the birds are bright .
+the birds are not bright .
+the birds are bright today .
 two robins are small .
 many robins are small .
 those robins are small .
 some robins are small .
 the robins were small yesterday .
+the robins are small .
+the robins are not small .
+the robins are small today .
 two robins are warm .
 many robins are warm .
 those robins are warm .
 some robins are warm .
 the robins were warm yesterday .
+the robins are warm .
+the robins are not warm .
+the robins are warm today .
 two robins are quiet .
 many robins are quiet .
 those robins are quiet .
 some robins are quiet .
 the robins were quiet yesterday .
+the robins are quiet .
+the robins are not quiet .
+the robins are quiet today .
 two robins are empty .
 many robins are empty .
 those robins are empty .
 some robins are empty .
 the robins were empty yesterday .
+the robins are empty .
+the robins are not empty .
+the robins are empty today .
 two robins are full .
 many robins are full .
 those robins are full .
 some robins are full .
 the robins were full yesterday .
+the robins are full .
+the robins are not full .
+the robins are full today .
 two robins are loud .
 many robins are loud .
 those robins are loud .
 some robins are loud .
 the robins were loud yesterday .
+the robins are loud .
+the robins are not loud .
+the robins are loud today .
 two robins are round .
 many robins are round .
 those robins are round .
 some robins are round .
 the robins were round yesterday .
+the robins are round .
+the robins are not round .
+the robins are round today .
 two robins are bright .
 many robins are bright .
 those robins are bright .
 some robins are bright .
 the robins were bright yesterday .
+the robins are bright .
+the robins are not bright .
+the robins are bright today .
 two cups are small .
 many cups are small .
 those cups are small .
 some cups are small .
 the cups were small yesterday .
+the cups are small .
+the cups are not small .
+the cups are small today .
 two cups are warm .
 many cups are warm .
 those cups are warm .
 some cups are warm .
 the cups were warm yesterday .
+the cups are warm .
+the cups are not warm .
+the cups are warm today .
 two cups are quiet .
 many cups are quiet .
 those cups are quiet .
 some cups are quiet .
 the cups were quiet yesterday .
+the cups are quiet .
+the cups are not quiet .
+the cups are quiet today .
 two cups are empty .
 many cups are empty .
 those cups are empty .
 some cups are empty .
 the cups were empty yesterday .
+the cups are empty .
+the cups are not empty .
+the cups are empty today .
 two cups are full .
 many cups are full .
 those cups are full .
 some cups are full .
 the cups were full yesterday .
+the cups are full .
+the cups are not full .
+the cups are full today .
 two cups are loud .
 many cups are loud .
 those cups are loud .
 some cups are loud .
 the cups were loud yesterday .
+the cups are loud .
+the cups are not loud .
+the cups are loud today .
 two cups are round .
 many cups are round .
 those cups are round .
 some cups are round .
 the cups were round yesterday .
+the cups are round .
+the cups are not round .
+the cups are round today .
 two cups are bright .
 many cups are bright .
 those cups are bright .
 some cups are bright .
 the cups were bright yesterday .
+the cups are bright .
+the cups are not bright .
+the cups are bright today .
 two boxes are small .
 many boxes are small .
 those boxes are small .
 some boxes are small .
 the boxes were small yesterday .
+the boxes are small .
+the boxes are not small .
+the boxes are small today .
 two boxes are warm .
 many boxes are warm .
 those boxes are warm .
 some boxes are warm .
 the boxes were warm yesterday .
+the boxes are warm .
+the boxes are not warm .
+the boxes are warm today .
 two boxes are quiet .
 many boxes are quiet .
 those boxes are quiet .
 some boxes are quiet .
 the boxes were quiet yesterday .
+the boxes are quiet .
+the boxes are not quiet .
+the boxes are quiet today .
 two boxes are empty .
 many boxes are empty .
 those boxes are empty .
 some boxes are empty .
 the boxes were empty yesterday .
+the boxes are empty .
+the boxes are not empty .
+the boxes are empty today .
 two boxes are full .
 many boxes are full .
 those boxes are full .
 some boxes are full .
 the boxes were full yesterday .
+the boxes are full .
+the boxes are not full .
+the boxes are full today .
 two boxes are loud .
 many boxes are loud .
 those boxes are loud .
 some boxes are loud .
 the boxes were loud yesterday .
+the boxes are loud .
+the boxes are not loud .
+the boxes are loud today .
 two boxes are round .
 many boxes are round .
 those boxes are round .
 some boxes are round .
 the boxes were round yesterday .
+the boxes are round .
+the boxes are not round .
+the boxes are round today .
 two boxes are bright .
 many boxes are bright .
 those boxes are bright .
 some boxes are bright .
 the boxes were bright yesterday .
+the boxes are bright .
+the boxes are not bright .
+the boxes are bright today .
 two lamps are small .
 many lamps are small .
 those lamps are small .
 some lamps are small .
 the lamps were small yesterday .
+the lamps are small .
+the lamps are not small .
+the lamps are small today .
 two lamps are warm .
 many lamps are warm .
 those lamps are warm .
 some lamps are warm .
 the lamps were warm yesterday .
+the lamps are warm .
+the lamps are not warm .
+the lamps are warm today .
 two lamps are quiet .
 many lamps are quiet .
 those lamps are quiet .
 some lamps are quiet .
 the lamps were quiet yesterday .
+the lamps are quiet .
+the lamps are not quiet .
+the lamps are quiet today .
 two lamps are empty .
 many lamps are empty .
 those lamps are empty .
 some lamps are empty .
 the lamps were empty yesterday .
+the lamps are empty .
+the lamps are not empty .
+the lamps are empty today .
 two lamps are full .
 many lamps are full .
 those lamps are full .
 some lamps are full .
 the lamps were full yesterday .
+the lamps are full .
+the lamps are not full .
+the lamps are full today .
 two lamps are loud .
 many lamps are loud .
 those lamps are loud .
 some lamps are loud .
 the lamps were loud yesterday .
+the lamps are loud .
+the lamps are not loud .
+the lamps are loud today .
 two lamps are round .
 many lamps are round .
 those lamps are round .
 some lamps are round .
 the lamps were round yesterday .
+the lamps are round .
+the lamps are not round .
+the lamps are round today .
 two lamps are bright .
 many lamps are bright .
 those lamps are bright .
 some lamps are bright .
 the lamps were bright yesterday .
+the lamps are bright .
+the lamps are not bright .
+the lamps are bright today .
 two dogs are small .
 many dogs are small .
 those dogs are small .
@@ -707,361 +827,577 @@ many cats are small .
 those cats are small .
 some cats are small .
 the cats were small yesterday .
+the cats are small .
+the cats are not small .
+the cats are small today .
 two cats are warm .
 many cats are warm .
 those cats are warm .
 some cats are warm .
 the cats were warm yesterday .
+the cats are warm .
+the cats are not warm .
+the cats are warm today .
 two cats are quiet .
 many cats are quiet .
 those cats are quiet .
 some cats are quiet .
 the cats were quiet yesterday .
+the cats are quiet .
+the cats are not quiet .
+the cats are quiet today .
 two cats are empty .
 many cats are empty .
 those cats are empty .
 some cats are empty .
 the cats were empty yesterday .
+the cats are empty .
+the cats are not empty .
+the cats are empty today .
 two cats are full .
 many cats are full .
 those cats are full .
 some cats are full .
 the cats were full yesterday .
+the cats are full .
+the cats are not full .
+the cats are full today .
 two cats are loud .
 many cats are loud .
 those cats are loud .
 some cats are loud .
 the cats were loud yesterday .
+the cats are loud .
+the cats are not loud .
+the cats are loud today .
 two cats are round .
 many cats are round .
 those cats are round .
 some cats are round .
 the cats were round yesterday .
+the cats are round .
+the cats are not round .
+the cats are round today .
 two cats are bright .
 many cats are bright .
 those cats are bright .
 some cats are bright .
 the cats were bright yesterday .
+the cats are bright .
+the cats are not bright .
+the cats are bright today .
 two books are small .
 many books are small .
 those books are small .
 some books are small .
 the books were small yesterday .
+the books are small .
+the books are not small .
+the books are small today .
 two books are warm .
 many books are warm .
 those books are warm .
 some books are warm .
 the books were warm yesterday .
+the books are warm .
+the books are not warm .
+the books are warm today .
 two books are quiet .
 many books are quiet .
 those books are quiet .
 some books are quiet .
 the books were quiet yesterday .
+the books are quiet .
+the books are not quiet .
+the books are quiet today .
 two books are empty .
 many books are empty .
 those books are empty .
 some books are empty .
 the books were empty yesterday .
+the books are empty .
+the books are not empty .
+the books are empty today .
 two books are full .
 many books are full .
 those books are full .
 some books are full .
 the books were full yesterday .
+the books are full .
+the books are not full .
+the books are full today .
 two books are loud .
 many books are loud .
 those books are loud .
 some books are loud .
 the books were loud yesterday .
+the books are loud .
+the books are not loud .
+the books are loud today .
 two books are round .
 many books are round .
 those books are round .
 some books are round .
 the books were round yesterday .
+the books are round .
+the books are not round .
+the books are round today .
 two books are bright .
 many books are bright .
 those books are bright .
 some books are bright .
 the books were bright yesterday .
+the books are bright .
+the books are not bright .
+the books are bright today .
 two doors are small .
 many doors are small .
 those doors are small .
 some doors are small .
 the doors were small yesterday .
+the doors are small .
+the doors are not small .
+the doors are small today .
 two doors are warm .
 many doors are warm .
 those doors are warm .
 some doors are warm .
 the doors were warm yesterday .
+the doors are warm .
+the doors are not warm .
+the doors are warm today .
 two doors are quiet .
 many doors are quiet .
 those doors are quiet .
 some doors are quiet .
 the doors were quiet yesterday .
+the doors are quiet .
+the doors are not quiet .
+the doors are quiet today .
 two doors are empty .
 many doors are empty .
 those doors are empty .
 some doors are empty .
 the doors were empty yesterday .
+the doors are empty .
+the doors are not empty .
+the doors are empty today .
 two doors are full .
 many doors are full .
 those doors are full .
 some doors are full .
 the doors were full yesterday .
+the doors are full .
+the doors are not full .
+the doors are full today .
 two doors are loud .
 many doors are loud .
 those doors are loud .
 some doors are loud .
 the doors were loud yesterday .
+the doors are loud .
+the doors are not loud .
+the doors are loud today .
 two doors are round .
 many doors are round .
 those doors are round .
 some doors are round .
 the doors were round yesterday .
+the doors are round .
+the doors are not round .
+the doors are round today .
 two doors are bright .
 many doors are bright .
 those doors are bright .
 some doors are bright .
 the doors were bright yesterday .
+the doors are bright .
+the doors are not bright .
+the doors are bright today .
 two balls are small .
 many balls are small .
 those balls are small .
 some balls are small .
 the balls were small yesterday .
+the balls are small .
+the balls are not small .
+the balls are small today .
 two balls are warm .
 many balls are warm .
 those balls are warm .
 some balls are warm .
 the balls were warm yesterday .
+the balls are warm .
+the balls are not warm .
+the balls are warm today .
 two balls are quiet .
 many balls are quiet .
 those balls are quiet .
 some balls are quiet .
 the balls were quiet yesterday .
+the balls are quiet .
+the balls are not quiet .
+the balls are quiet today .
 two balls are empty .
 many balls are empty .
 those balls are empty .
 some balls are empty .
 the balls were empty yesterday .
+the balls are empty .
+the balls are not empty .
+the balls are empty today .
 two balls are full .
 many balls are full .
 those balls are full .
 some balls are full .
 the balls were full yesterday .
+the balls are full .
+the balls are not full .
+the balls are full today .
 two balls are loud .
 many balls are loud .
 those balls are loud .
 some balls are loud .
 the balls were loud yesterday .
+the balls are loud .
+the balls are not loud .
+the balls are loud today .
 two balls are round .
 many balls are round .
 those balls are round .
 some balls are round .
 the balls were round yesterday .
+the balls are round .
+the balls are not round .
+the balls are round today .
 two balls are bright .
 many balls are bright .
 those balls are bright .
 some balls are bright .
 the balls were bright yesterday .
+the balls are bright .
+the balls are not bright .
+the balls are bright today .
 two desks are small .
 many desks are small .
 those desks are small .
 some desks are small .
 the desks were small yesterday .
+the desks are small .
+the desks are not small .
+the desks are small today .
 two desks are warm .
 many desks are warm .
 those desks are warm .
 some desks are warm .
 the desks were warm yesterday .
+the desks are warm .
+the desks are not warm .
+the desks are warm today .
 two desks are quiet .
 many desks are quiet .
 those desks are quiet .
 some desks are quiet .
 the desks were quiet yesterday .
+the desks are quiet .
+the desks are not quiet .
+the desks are quiet today .
 two desks are empty .
 many desks are empty .
 those desks are empty .
 some desks are empty .
 the desks were empty yesterday .
+the desks are empty .
+the desks are not empty .
+the desks are empty today .
 two desks are full .
 many desks are full .
 those desks are full .
 some desks are full .
 the desks were full yesterday .
+the desks are full .
+the desks are not full .
+the desks are full today .
 two desks are loud .
 many desks are loud .
 those desks are loud .
 some desks are loud .
 the desks were loud yesterday .
+the desks are loud .
+the desks are not loud .
+the desks are loud today .
 two desks are round .
 many desks are round .
 those desks are round .
 some desks are round .
 the desks were round yesterday .
+the desks are round .
+the desks are not round .
+the desks are round today .
 two desks are bright .
 many desks are bright .
 those desks are bright .
 some desks are bright .
 the desks were bright yesterday .
+the desks are bright .
+the desks are not bright .
+the desks are bright today .
 two shelves are small .
 many shelves are small .
 those shelves are small .
 some shelves are small .
 the shelves were small yesterday .
+the shelves are small .
+the shelves are not small .
+the shelves are small today .
 two shelves are warm .
 many shelves are warm .
 those shelves are warm .
 some shelves are warm .
 the shelves were warm yesterday .
+the shelves are warm .
+the shelves are not warm .
+the shelves are warm today .
 two shelves are quiet .
 many shelves are quiet .
 those shelves are quiet .
 some shelves are quiet .
 the shelves were quiet yesterday .
+the shelves are quiet .
+the shelves are not quiet .
+the shelves are quiet today .
 two shelves are empty .
 many shelves are empty .
 those shelves are empty .
 some shelves are empty .
 the shelves were empty yesterday .
+the shelves are empty .
+the shelves are not empty .
+the shelves are empty today .
 two shelves are full .
 many shelves are full .
 those shelves are full .
 some shelves are full .
 the shelves were full yesterday .
+the shelves are full .
+the shelves are not full .
+the shelves are full today .
 two shelves are loud .
 many shelves are loud .
 those shelves are loud .
 some shelves are loud .
 the shelves were loud yesterday .
+the shelves are loud .
+the shelves are not loud .
+the shelves are loud today .
 two shelves are round .
 many shelves are round .
 those shelves are round .
 some shelves are round .
 the shelves were round yesterday .
+the shelves are round .
+the shelves are not round .
+the shelves are round today .
 two shelves are bright .
 many shelves are bright .
 those shelves are bright .
 some shelves are bright .
 the shelves were bright yesterday .
+the shelves are bright .
+the shelves are not bright .
+the shelves are bright today .
 two puppies are small .
 many puppies are small .
 those puppies are small .
 some puppies are small .
 the puppies were small yesterday .
+the puppies are small .
+the puppies are not small .
+the puppies are small today .
 two puppies are warm .
 many puppies are warm .
 those puppies are warm .
 some puppies are warm .
 the puppies were warm yesterday .
+the puppies are warm .
+the puppies are not warm .
+the puppies are warm today .
 two puppies are quiet .
 many puppies are quiet .
 those puppies are quiet .
 some puppies are quiet .
 the puppies were quiet yesterday .
+the puppies are quiet .
+the puppies are not quiet .
+the puppies are quiet today .
 two puppies are empty .
 many puppies are empty .
 those puppies are empty .
 some puppies are empty .
 the puppies were empty yesterday .
+the puppies are empty .
+the puppies are not empty .
+the puppies are empty today .
 two puppies are full .
 many puppies are full .
 those puppies are full .
 some puppies are full .
 the puppies were full yesterday .
+the puppies are full .
+the puppies are not full .
+the puppies are full today .
 two puppies are loud .
 many puppies are loud .
 those puppies are loud .
 some puppies are loud .
 the puppies were loud yesterday .
+the puppies are loud .
+the puppies are not loud .
+the puppies are loud today .
 two puppies are round .
 many puppies are round .
 those puppies are round .
 some puppies are round .
 the puppies were round yesterday .
+the puppies are round .
+the puppies are not round .
+the puppies are round today .
 two puppies are bright .
 many puppies are bright .
 those puppies are bright .
 some puppies are bright .
 the puppies were bright yesterday .
+the puppies are bright .
+the puppies are not bright .
+the puppies are bright today .
 two kittens are small .
 many kittens are small .
 those kittens are small .
 some kittens are small .
 the kittens were small yesterday .
+the kittens are small .
+the kittens are not small .
+the kittens are small today .
 two kittens are warm .
 many kittens are warm .
 those kittens are warm .
 some kittens are warm .
 the kittens were warm yesterday .
+the kittens are warm .
+the kittens are not warm .
+the kittens are warm today .
 two kittens are quiet .
 many kittens are quiet .
 those kittens are quiet .
 some kittens are quiet .
 the kittens were quiet yesterday .
+the kittens are quiet .
+the kittens are not quiet .
+the kittens are quiet today .
 two kittens are empty .
 many kittens are empty .
 those kittens are empty .
 some kittens are empty .
 the kittens were empty yesterday .
+the kittens are empty .
+the kittens are not empty .
+the kittens are empty today .
 two kittens are full .
 many kittens are full .
 those kittens are full .
 some kittens are full .
 the kittens were full yesterday .
+the kittens are full .
+the kittens are not full .
+the kittens are full today .
 two kittens are loud .
 many kittens are loud .
 those kittens are loud .
 some kittens are loud .
 the kittens were loud yesterday .
+the kittens are loud .
+the kittens are not loud .
+the kittens are loud today .
 two kittens are round .
 many kittens are round .
 those kittens are round .
 some kittens are round .
 the kittens were round yesterday .
+the kittens are round .
+the kittens are not round .
+the kittens are round today .
 two kittens are bright .
 many kittens are bright .
 those kittens are bright .
 some kittens are bright .
 the kittens were bright yesterday .
+the kittens are bright .
+the kittens are not bright .
+the kittens are bright today .
 two fish are small .
 many fish are small .
 those fish are small .
 some fish are small .
 the fish were small yesterday .
+the fish are small .
+the fish are not small .
+the fish are small today .
 two fish are warm .
 many fish are warm .
 those fish are warm .
 some fish are warm .
 the fish were warm yesterday .
+the fish are warm .
+the fish are not warm .
+the fish are warm today .
 two fish are quiet .
 many fish are quiet .
 those fish are quiet .
 some fish are quiet .
 the fish were quiet yesterday .
+the fish are quiet .
+the fish are not quiet .
+the fish are quiet today .
 two fish are empty .
 many fish are empty .
 those fish are empty .
 some fish are empty .
 the fish were empty yesterday .
+the fish are empty .
+the fish are not empty .
+the fish are empty today .
 two fish are full .
 many fish are full .
 those fish are full .
 some fish are full .
 the fish were full yesterday .
+the fish are full .
+the fish are not full .
+the fish are full today .
 two fish are loud .
 many fish are loud .
 those fish are loud .
 some fish are loud .
 the fish were loud yesterday .
+the fish are loud .
+the fish are not loud .
+the fish are loud today .
 two fish are round .
 many fish are round .
 those fish are round .
 some fish are round .
 the fish were round yesterday .
+the fish are round .
+the fish are not round .
+the fish are round today .
 two fish are bright .
 many fish are bright .
 those fish are bright .
 some fish are bright .
 the fish were bright yesterday .
+the fish are bright .
+the fish are not bright .
+the fish are bright today .
 i am hungry today .
 i am not hungry today .
 i am quiet today .

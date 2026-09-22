@@ -1,7 +1,7 @@
 {
-  "model": "llm_runs/20260921T220633_918630Z/model.pt",
-  "model_sha256": "5512d33f198560c98e34309045365e0c061771037973aa630bb321d9460222d2",
-  "completed_steps": 3000,
+  "model": "llm_runs/20260922T021637_203555Z/model.pt",
+  "model_sha256": "6e9adac71619835d060bc0a58bacca99c5933e88e9055a3310c35e0d75eeaff0",
+  "completed_steps": 6000,
   "fresh_context_per_prompt": true,
   "temperature": 0.8,
   "max_tokens": 24,
@@ -9,14 +9,14 @@
     {
       "prompt": "the customer",
       "seed": 2026,
-      "response": "returned the product after checking the price .",
+      "response": "contains the towel . the towel is inside the drawer .",
       "unknown_prompt_words": [],
       "prompt_truncated": false
     },
     {
       "prompt": "the opposite of cold is",
       "seed": 2027,
-      "response": "peach .",
+      "response": "is opposites .",
       "unknown_prompt_words": [],
       "prompt_truncated": false
     },
@@ -28,16 +28,23 @@
       "prompt_truncated": false
     },
     {
-      "prompt": "a puppy grows into a dog . a kitten grows into a",
+      "prompt": "a trout is a fish . a robin is a",
       "seed": 2029,
-      "response": "cat is",
+      "response": "bird .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the train arrived before the bus . the vehicle that arrived later was the",
+      "seed": 2030,
+      "response": "train .",
       "unknown_prompt_words": [],
       "prompt_truncated": false
     },
     {
       "prompt": "quantum blockchain sushi",
-      "seed": 2030,
-      "response": "a lamp is above the clean .",
+      "seed": 2031,
+      "response": "the different orange and the juice .",
       "unknown_prompt_words": [
         "blockchain",
         "quantum",

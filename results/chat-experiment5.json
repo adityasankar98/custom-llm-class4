@@ -1,0 +1,31 @@
+{
+  "model": "llm_runs/20260922T021637_203555Z/model.pt",
+  "model_sha256": "6e9adac71619835d060bc0a58bacca99c5933e88e9055a3310c35e0d75eeaff0",
+  "completed_steps": 6000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the customer",
+      "seed": 2026,
+      "response": "contains the towel . the towel is inside the drawer .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the tutor explains the",
+      "seed": 2027,
+      "response": "instructor with another educator at the school .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the box is not red .it is green .the box is",
+      "seed": 2028,
+      "response": "green .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    }
+  ]
+}

@@ -41,7 +41,7 @@
 # %%
 CORPUS = "classroom"       # Teaching sentences + files; "folder" uses only files
 CORPUS_FOLDER = "corpus"   # Add .pdf, .txt and .md files here, including subfolders
-TRAINING_STEPS = 3000       # 10 for setup; 3000 for the main experiment
+TRAINING_STEPS = 6000       # experiment 5: larger model needs a longer budget
 LEARNING_RATE = 0.001
 # %% [markdown]
 # ### My prediction
@@ -155,7 +155,7 @@ spec = importlib.util.spec_from_file_location("classroom_nanogpt", model_file)
 nanogpt = importlib.util.module_from_spec(spec)
 sys.modules[spec.name] = nanogpt
 spec.loader.exec_module(nanogpt)
-SEED, N_EMBD, N_HEAD, N_LAYER, BLOCK_SIZE, BATCH_SIZE = 42, 64, 4, 2, 48, 32
+SEED, N_EMBD, N_HEAD, N_LAYER, BLOCK_SIZE, BATCH_SIZE = 42, 64, 4, 4, 48, 32
 DEVICE = "cpu"  # Optional: "cuda" on a Colab GPU, or "mps" on Apple Silicon
 torch.set_num_threads(min(4, torch.get_num_threads()))
 torch.manual_seed(SEED)

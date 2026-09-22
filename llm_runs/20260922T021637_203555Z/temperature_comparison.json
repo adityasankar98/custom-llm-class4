@@ -1,0 +1,20 @@
+{
+  "0.3": [
+    "the team discussed the product and the price at the market .",
+    "the local deposit was mentioned in the interest report yesterday .",
+    "the local buyer was mentioned in the service report yesterday .",
+    "the team discussed the orange and the juice at the kitchen ."
+  ],
+  "0.8": [
+    "first fill the door . then wash it . the first action is fill .",
+    "the fish are warm .",
+    "the local system was mentioned in the update report yesterday .",
+    "first close the box . then dry it . the first action is close ."
+  ],
+  "1.2": [
+    "first fill the door . then wash it . the first action is fill .",
+    "i am early today .",
+    "the local system was mentioned in the update report yesterday .",
+    "first close the box . then dry it . the first action is close ."
+  ]
+}
